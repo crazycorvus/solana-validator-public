@@ -1,0 +1,41 @@
+[
+ {
+  "run_id": "20261029T080501Z-HEL1US-r1",
+  "batch": "b1",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462808072,
+   462808073,
+   462808074,
+   462808075
+  ],
+  "predicted_ts": 1793261317.927757,
+  "observed_ts": 1793261317.3367958
+ },
+ {
+  "run_id": "20261029T080501Z-HEL1US-r1",
+  "batch": "b2",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462808356,
+   462808357,
+   462808358,
+   462808359
+  ],
+  "predicted_ts": 1793261376.8678455,
+  "observed_ts": 1793261377.202023
+ },
+ {
+  "run_id": "20261029T080501Z-HEL1US-r1",
+  "batch": "b3a",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462808596,
+   462808597,
+   462808598,
+   462808599
+  ],
+  "predicted_ts": 1793261429.2518287,
+  "observed_ts": 1793261428.1549509
+ }
+]

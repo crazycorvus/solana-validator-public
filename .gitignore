@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.json.key
+keys/
+secrets/
+*-keypair.json
+id.json
+data/ledger/
+.pytest_cache/
+data/cache/

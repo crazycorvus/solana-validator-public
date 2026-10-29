@@ -1,0 +1,24 @@
+[
+ {
+  "key": "20261028T190704Z-7QQGNm-r1:b1",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462589024,
+   462589025,
+   462589026,
+   462589027
+  ]
+ },
+ {
+  "key": "20261028T190704Z-7QQGNm-r1:b2",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462591852,
+   462591853,
+   462591854,
+   462591855
+  ]
+ }
+]

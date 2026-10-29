@@ -1,0 +1,9 @@
+probe_id,run_id,batch_id,batch_type,idx,cu_price,cu_limit,accounts_key,send_order,payer_index,send_offset_ms,signature,send_ts_us,path,lamports_fee,error,leader,window_start
+probe:rehearsal:b1:3,rehearsal,b1,fee_ladder,3,1000,30000,u3,0,3,0,2ZymkYkCb9hyT7VHWEzEMeRT9v3KGvh1pESYX3aZydv9NFgp2vS26xW7nyucfLCcdn6kzNdt8sWBcHsNn5fG5Fri,1793262345945085,dry,5030,,,
+probe:rehearsal:b1:5,rehearsal,b1,fee_ladder,5,5000,30000,u5,1,5,0,2XwXsQuEDnQPv3xihrhcMztu5WJTndfEq88QtD4Cf3CWSKQ4UTKKEGQti2xq7GB5bJKCc1m45EEZNWPapa2JazG8,1793262345945053,dry,5150,,,
+probe:rehearsal:b1:4,rehearsal,b1,fee_ladder,4,2000,30000,u4,2,4,0,2VM9SCz6Yje5aNcAa64gii8f2yyxp2twEJtDajh6r9yPB14wcFRgeido5qa67s1x77NnD7wBJ8T8S1x7zVKwon9,1793262345944629,dry,5060,,,
+probe:rehearsal:b1:1,rehearsal,b1,fee_ladder,1,100,30000,u1,3,1,0,4EhGqpuWujHsnRX8B5dS6rmKC8o1LzRnRBG1j6WJvvcUb3bPwBWk4BxjURmCR1UzTYsMttfqqz7FHzmqGa2Faa5J,1793262345945021,dry,5003,,,
+probe:rehearsal:b1:7,rehearsal,b1,fee_ladder,7,20000,30000,u7,4,7,0,2ZDqd28qKN5X8Faub6XTo54nKHFPi4QVaHZuCXiUQ2wSPQrVvue1zFVxzKU2xRFHdzggWPynQ3LVcVT7mQoZ8DyJ,1793262345944910,dry,5600,,,
+probe:rehearsal:b1:0,rehearsal,b1,fee_ladder,0,0,30000,u0,5,0,0,23fHe8rD62mr7WiN26cPv5GWt3wPFYs53uEbiegm6VNaYhKiR7fD2uR5HfbxPx6u6rjSuaGrBz6RcppXMLkDqZS5,1793262345944952,dry,5000,,,
+probe:rehearsal:b1:6,rehearsal,b1,fee_ladder,6,10000,30000,u6,6,6,0,hX2nSrCwhmnwhA8LzfkLpY1NJw96xfttFWyRSaShZu8Y6cBVGKXZV576uEcPqTVZHzf4nsu8cdDnjiYfb27u1eB,1793262345944988,dry,5300,,,
+probe:rehearsal:b1:2,rehearsal,b1,fee_ladder,2,500,30000,u2,7,2,0,2onYbddZZ8ok2gaeMiSDZ6RyD2WQSnMM97B5HuYCbqj2H4L9iAKY9sAGhSdi6da5xtxjdUDM3heAd2HSxn1CHcmr,1793262345944846,dry,5015,,,

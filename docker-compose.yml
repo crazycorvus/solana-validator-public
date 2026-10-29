@@ -1,0 +1,71 @@
+# `docker compose up` runs the whole pipeline in DRY-RUN (no network sends, zero lamports).
+# Live mode is never the default: see README ("Going live").
+x-itb: &itb
+  build: .
+  image: inside-the-block:0.1.0
+  environment:
+    ITB_RPC_URL: ${ITB_RPC_URL:-https://api.mainnet-beta.solana.com}
+    ITB_RPC_URL_FALLBACK: ${ITB_RPC_URL_FALLBACK:-}
+    VALIDATORS_APP_TOKEN: ${VALIDATORS_APP_TOKEN:-}
+  volumes:
+    - ./data:/app/data
+    - ./config:/app/config:ro
+    - ./report:/app/report
+
+services:
+  discover:
+    <<: *itb
+    command: ["discover"]
+  plan:
+    <<: *itb
+    command: ["plan"]
+    depends_on: { discover: { condition: service_completed_successfully } }
+  send:
+    <<: *itb
+    command: ["send"]            # dry-run unless `--live --cap-sol` is added
+    depends_on: { plan: { condition: service_completed_successfully } }
+    # live sending is the separate `send-live` service below (profile "live")
+  collect:
+    <<: *itb
+    command: ["collect"]
+    depends_on: { send: { condition: service_completed_successfully } }
+  analyze:
+    <<: *itb
+    command: ["analyze"]
+    depends_on: { collect: { condition: service_completed_successfully } }
+  report:
+    <<: *itb
+    command: ["report"]
+    depends_on: { analyze: { condition: service_completed_successfully } }
+  verify:
+    <<: *itb
+    command: ["verify"]
+    profiles: ["verify"]         # docker compose run verify
+
+  # ---- live mode: never part of `docker compose up`; needs the "live" profile and explicit variables ----
+  approve:                       # the human gate: docker compose run --rm approve --cap-sol 0.01 --by "Name"
+    <<: *itb
+    profiles: ["live"]
+    command: ["approve"]
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config     # read-write on purpose: writes config/live_approval.json
+      - ./report:/app/report
+  send-live:                     # ITB_CAP_SOL=0.01 SOLANA_KEYPAIR_FILE=/path/key.json docker compose run --rm send-live
+    <<: *itb
+    profiles: ["live"]
+    command: ["send", "--live", "--cap-sol", "${ITB_CAP_SOL:-0}"]
+    # unset ITB_CAP_SOL / SOLANA_KEYPAIR_FILE default to 0 and /dev/null, so live refuses with a clear error
+    # pass --only <id> / --max-batches N / --resume <stamp> by appending them after the service name
+    environment:
+      ITB_RPC_URL: ${ITB_RPC_URL:-https://api.mainnet-beta.solana.com}
+      ITB_RPC_URL_FALLBACK: ${ITB_RPC_URL_FALLBACK:-}
+      VALIDATORS_APP_TOKEN: ${VALIDATORS_APP_TOKEN:-}
+      SOLANA_KEYPAIR: /run/secrets/keypair.json
+    volumes:
+      - ./data:/app/data         # spend ledger, raw data and the resume state live here
+      - ./config:/app/config:ro  # targets.yaml and the human sign-off file
+      - ./report:/app/report
+      - ${SOLANA_KEYPAIR_FILE:-/dev/null}:/run/secrets/keypair.json:ro

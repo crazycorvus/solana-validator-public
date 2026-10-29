@@ -1,0 +1,35 @@
+[
+ {
+  "key": "20261029T080501Z-HEL1US-r1:b1",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462808072,
+   462808073,
+   462808074,
+   462808075
+  ]
+ },
+ {
+  "key": "20261029T080501Z-HEL1US-r1:b2",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462808356,
+   462808357,
+   462808358,
+   462808359
+  ]
+ },
+ {
+  "key": "20261029T080501Z-HEL1US-r1:b3a",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462808596,
+   462808597,
+   462808598,
+   462808599
+  ]
+ }
+]

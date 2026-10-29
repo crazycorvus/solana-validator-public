@@ -1,0 +1,28 @@
+[
+ {
+  "run_id": "20261028T190704Z-7QQGNm-r1",
+  "batch": "b1",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462589024,
+   462589025,
+   462589026,
+   462589027
+  ],
+  "predicted_ts": 1793214502.4166327,
+  "observed_ts": 1793214501.640051
+ },
+ {
+  "run_id": "20261028T190704Z-7QQGNm-r1",
+  "batch": "b2",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462591852,
+   462591853,
+   462591854,
+   462591855
+  ],
+  "predicted_ts": 1793215108.4810512,
+  "observed_ts": 1793215108.4601111
+ }
+]

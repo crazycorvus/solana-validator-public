@@ -1,0 +1,668 @@
+{
+ "windows": 132,
+ "hits": 131,
+ "hit_rate": 0.9924242424242424,
+ "median_abs_err_ms": 122.35,
+ "samples": [
+  {
+   "window_start": 462554260,
+   "err_ms": 123.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554264,
+   "err_ms": 106.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554268,
+   "err_ms": 1.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554272,
+   "err_ms": -199.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554276,
+   "err_ms": 81.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554280,
+   "err_ms": 72.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554284,
+   "err_ms": -129.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554288,
+   "err_ms": -212.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554292,
+   "err_ms": -162.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554296,
+   "err_ms": -14.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554300,
+   "err_ms": -153.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554304,
+   "err_ms": -299.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554308,
+   "err_ms": -373.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554312,
+   "err_ms": -327.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554316,
+   "err_ms": -95.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554320,
+   "err_ms": -45.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554324,
+   "err_ms": -171.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554328,
+   "err_ms": -160.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554332,
+   "err_ms": -165.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554336,
+   "err_ms": -4.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554340,
+   "err_ms": -122.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554344,
+   "err_ms": -162.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554348,
+   "err_ms": -65.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554352,
+   "err_ms": -59.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554356,
+   "err_ms": 58.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554360,
+   "err_ms": -54.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554364,
+   "err_ms": -3.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554368,
+   "err_ms": -40.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554372,
+   "err_ms": -40.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554376,
+   "err_ms": -139.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554380,
+   "err_ms": -109.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554384,
+   "err_ms": -206.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554388,
+   "err_ms": -278.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554392,
+   "err_ms": -170.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554396,
+   "err_ms": -114.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554400,
+   "err_ms": -211.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554404,
+   "err_ms": -209.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554408,
+   "err_ms": -167.5,
+   "hit": true
+  },
+  {
+   "window_start": 462554412,
+   "err_ms": -132.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554416,
+   "err_ms": -108.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554420,
+   "err_ms": -169.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554424,
+   "err_ms": -68.5,
+   "hit": true
+  },
+  {
+   "window_start": 462554428,
+   "err_ms": 87.5,
+   "hit": true
+  },
+  {
+   "window_start": 462554432,
+   "err_ms": 166.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554436,
+   "err_ms": 241.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554440,
+   "err_ms": 133.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554444,
+   "err_ms": 293.5,
+   "hit": true
+  },
+  {
+   "window_start": 462554448,
+   "err_ms": 443.3,
+   "hit": false
+  },
+  {
+   "window_start": 462554452,
+   "err_ms": 380.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554456,
+   "err_ms": 341.5,
+   "hit": true
+  },
+  {
+   "window_start": 462554460,
+   "err_ms": 234.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554464,
+   "err_ms": 189.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554468,
+   "err_ms": 35.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554472,
+   "err_ms": 38.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554476,
+   "err_ms": -92.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554480,
+   "err_ms": -138.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554484,
+   "err_ms": -162.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554488,
+   "err_ms": -199.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554492,
+   "err_ms": -250.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554496,
+   "err_ms": -236.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554500,
+   "err_ms": -212.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554504,
+   "err_ms": -80.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554508,
+   "err_ms": -167.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554512,
+   "err_ms": -144.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554516,
+   "err_ms": -41.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554520,
+   "err_ms": -76.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554524,
+   "err_ms": 82.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554528,
+   "err_ms": 44.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554532,
+   "err_ms": 99.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554536,
+   "err_ms": 80.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554540,
+   "err_ms": 74.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554544,
+   "err_ms": -12.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554548,
+   "err_ms": -22.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554552,
+   "err_ms": -141.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554556,
+   "err_ms": -194.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554560,
+   "err_ms": -216.5,
+   "hit": true
+  },
+  {
+   "window_start": 462554564,
+   "err_ms": -285.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554568,
+   "err_ms": -209.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554572,
+   "err_ms": -122.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554576,
+   "err_ms": 34.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554580,
+   "err_ms": 139.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554584,
+   "err_ms": 99.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554588,
+   "err_ms": 127.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554592,
+   "err_ms": 263.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554596,
+   "err_ms": 97.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554600,
+   "err_ms": 68.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554604,
+   "err_ms": 40.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554608,
+   "err_ms": 178.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554612,
+   "err_ms": 89.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554616,
+   "err_ms": 40.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554620,
+   "err_ms": 62.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554624,
+   "err_ms": 66.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554628,
+   "err_ms": 34.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554632,
+   "err_ms": 112.5,
+   "hit": true
+  },
+  {
+   "window_start": 462554636,
+   "err_ms": -43.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554640,
+   "err_ms": -72.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554644,
+   "err_ms": -192.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554648,
+   "err_ms": -100.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554652,
+   "err_ms": -224.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554656,
+   "err_ms": -47.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554660,
+   "err_ms": -42.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554664,
+   "err_ms": 48.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554668,
+   "err_ms": -6.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554672,
+   "err_ms": -22.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554676,
+   "err_ms": 92.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554680,
+   "err_ms": -13.1,
+   "hit": true
+  },
+  {
+   "window_start": 462554684,
+   "err_ms": -26.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554688,
+   "err_ms": -80.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554692,
+   "err_ms": 118.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554696,
+   "err_ms": 126.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554700,
+   "err_ms": 294.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554704,
+   "err_ms": 275.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554708,
+   "err_ms": 223.5,
+   "hit": true
+  },
+  {
+   "window_start": 462554712,
+   "err_ms": 176.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554716,
+   "err_ms": 71.2,
+   "hit": true
+  },
+  {
+   "window_start": 462554720,
+   "err_ms": 151.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554724,
+   "err_ms": 73.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554728,
+   "err_ms": 136.0,
+   "hit": true
+  },
+  {
+   "window_start": 462554732,
+   "err_ms": 66.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554736,
+   "err_ms": 215.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554740,
+   "err_ms": 301.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554744,
+   "err_ms": 258.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554748,
+   "err_ms": 150.8,
+   "hit": true
+  },
+  {
+   "window_start": 462554752,
+   "err_ms": 114.7,
+   "hit": true
+  },
+  {
+   "window_start": 462554756,
+   "err_ms": 27.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554760,
+   "err_ms": 2.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554764,
+   "err_ms": 226.6,
+   "hit": true
+  },
+  {
+   "window_start": 462554768,
+   "err_ms": 152.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554772,
+   "err_ms": 114.3,
+   "hit": true
+  },
+  {
+   "window_start": 462554776,
+   "err_ms": 100.9,
+   "hit": true
+  },
+  {
+   "window_start": 462554780,
+   "err_ms": 132.4,
+   "hit": true
+  },
+  {
+   "window_start": 462554784,
+   "err_ms": 222.5,
+   "hit": true
+  }
+ ]
+}

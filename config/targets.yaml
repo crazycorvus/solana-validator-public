@@ -1,0 +1,67 @@
+experiment:
+  seed: 20261028
+  runs_per_validator: 4
+  window_slots: 4
+  send_lead_ms: 200
+  paths:
+  - rpc
+  horizon_s: 12600
+  min_gap_s: 8
+targets:
+- identity: 7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE
+  vote_pubkey: 8BMMDVM8Tb88a2Hx1VSZ1TKmH1rMHbVU7xVafMk9JrEW
+  client_family: agave
+  version: 4.3.2
+  stake: 1875001953466200
+  windows_24h: 224
+  rationale: '#1 by stake in agave with 224 full windows in 24h'
+- identity: HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU
+  vote_pubkey: he1iusunGwqrNtafDtLdhsUQDFvo13z9sUa36PauBtk
+  client_family: jito-agave
+  version: 4.3.2
+  stake: 16665444377046747
+  windows_24h: 2097
+  rationale: '#1 by stake in jito-agave with 2097 full windows in 24h'
+- identity: DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy
+  vote_pubkey: 3N7s9zXMZ4QqvHQR15t5GNHyqc89KduzMP7423eWiD5g
+  client_family: agave-bam
+  version: 4.4.0-rc.1
+  stake: 12878826062976823
+  windows_24h: 1557
+  rationale: '#1 by stake in agave-bam with 1557 full windows in 24h'
+- identity: 9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY
+  vote_pubkey: CvSb7wdQAFpHuSpTYTJnX5SYH4hCfQ9VuGnqrKaKwycB
+  client_family: firedancer
+  version: 26.10.4
+  stake: 6646427909604945
+  windows_24h: 909
+  rationale: '#1 by stake in firedancer with 909 full windows in 24h'
+- identity: 9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP
+  vote_pubkey: HZKopZYvv8v6un2H6KUNVQCnK5zM9emKKezvqhTBSpEc
+  client_family: firedancer-bam
+  version: 26.10.5
+  stake: 4477329987787841
+  windows_24h: 541
+  rationale: '#1 by stake in firedancer-bam with 541 full windows in 24h'
+- identity: Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk
+  vote_pubkey: CcaHc2L43ZWjwCHART3oZoJvHLAe9hzT2DJNUpBzoTN1
+  client_family: harmonic-agave
+  version: 4.3.2
+  stake: 17028574244749148
+  windows_24h: 2160
+  rationale: '#1 by stake in harmonic-agave with 2160 full windows in 24h'
+- identity: JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b
+  vote_pubkey: CatzoSMUkTRidT5DwBxAC2pEtnwMBTpkCepHkFgZDiqb
+  client_family: harmonic-firedancer
+  version: 26.10.4
+  stake: 9705355838241380
+  windows_24h: 1206
+  rationale: '#1 by stake in harmonic-firedancer with 1206 full windows in 24h'
+- identity: 5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS
+  vote_pubkey: AzbQjKoLepbDS8C6hgkRY7UCRwbwZZ9HqdtnWyef9WjX
+  client_family: agave
+  version: 4.3.2
+  stake: 1207980324911175
+  windows_24h: 169
+  rationale: 'backup for plain Agave (the documented baseline); #2 by stake with enough
+    windows'
