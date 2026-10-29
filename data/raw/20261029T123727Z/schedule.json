@@ -1,0 +1,1861 @@
+[
+ {
+  "key": "20261029T084255Z-5Us18h-r1:b6",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462894704,
+   462894705,
+   462894706,
+   462894707
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r2:b1",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462895128,
+   462895129,
+   462895130,
+   462895131
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r2:b2",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462895368,
+   462895369,
+   462895370,
+   462895371
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r2:b1",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462895464,
+   462895465,
+   462895466,
+   462895467
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r2:b3a",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462895624,
+   462895625,
+   462895626,
+   462895627
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r2:b1",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462895680,
+   462895681,
+   462895682,
+   462895683
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r2:b2",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462895720,
+   462895721,
+   462895722,
+   462895723
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r2:b3b",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462895792,
+   462895793,
+   462895794,
+   462895795
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r2:b1",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462895900,
+   462895901,
+   462895902,
+   462895903
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r2:b3a",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462895960,
+   462895961,
+   462895962,
+   462895963
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r2:b3b",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462896032,
+   462896033,
+   462896034,
+   462896035
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r2:b4",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462896116,
+   462896117,
+   462896118,
+   462896119
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r2:b5",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462896168,
+   462896169,
+   462896170,
+   462896171
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r2:b4",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462896224,
+   462896225,
+   462896226,
+   462896227
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r2:b2",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462896264,
+   462896265,
+   462896266,
+   462896267
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r2:b2",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462896336,
+   462896337,
+   462896338,
+   462896339
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r2:b5",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462896416,
+   462896417,
+   462896418,
+   462896419
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r2:b6",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462896464,
+   462896465,
+   462896466,
+   462896467
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r2:b1",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462896508,
+   462896509,
+   462896510,
+   462896511
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r2:b1",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462896560,
+   462896561,
+   462896562,
+   462896563
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r2:b2",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462896612,
+   462896613,
+   462896614,
+   462896615
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r2:b6",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462896676,
+   462896677,
+   462896678,
+   462896679
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r2:b3a",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462896772,
+   462896773,
+   462896774,
+   462896775
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r2:b3b",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462896836,
+   462896837,
+   462896838,
+   462896839
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r2:b4",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462896876,
+   462896877,
+   462896878,
+   462896879
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r2:b3a",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462896956,
+   462896957,
+   462896958,
+   462896959
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r2:b3a",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462897012,
+   462897013,
+   462897014,
+   462897015
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r2:b5",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462897092,
+   462897093,
+   462897094,
+   462897095
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r2:b6",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462897252,
+   462897253,
+   462897254,
+   462897255
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r2:b3b",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462897308,
+   462897309,
+   462897310,
+   462897311
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r2:b3b",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462897416,
+   462897417,
+   462897418,
+   462897419
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r2:b4",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462897468,
+   462897469,
+   462897470,
+   462897471
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r2:b5",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462897604,
+   462897605,
+   462897606,
+   462897607
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r2:b1",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462897812,
+   462897813,
+   462897814,
+   462897815
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r2:b2",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462897888,
+   462897889,
+   462897890,
+   462897891
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r2:b6",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462897936,
+   462897937,
+   462897938,
+   462897939
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r2:b1",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462898004,
+   462898005,
+   462898006,
+   462898007
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r2:b3a",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462898192,
+   462898193,
+   462898194,
+   462898195
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r2:b3b",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462898344,
+   462898345,
+   462898346,
+   462898347
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r2:b4",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462898452,
+   462898453,
+   462898454,
+   462898455
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r2:b2",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462898748,
+   462898749,
+   462898750,
+   462898751
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r2:b2",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462898900,
+   462898901,
+   462898902,
+   462898903
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r2:b3a",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462899116,
+   462899117,
+   462899118,
+   462899119
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r2:b4",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462899156,
+   462899157,
+   462899158,
+   462899159
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r2:b5",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462899408,
+   462899409,
+   462899410,
+   462899411
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r2:b6",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462899456,
+   462899457,
+   462899458,
+   462899459
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r2:b5",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462899804,
+   462899805,
+   462899806,
+   462899807
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r2:b6",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462899960,
+   462899961,
+   462899962,
+   462899963
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r2:b3b",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462900204,
+   462900205,
+   462900206,
+   462900207
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r2:b4",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462900272,
+   462900273,
+   462900274,
+   462900275
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r2:b5",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462900928,
+   462900929,
+   462900930,
+   462900931
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r2:b6",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462901060,
+   462901061,
+   462901062,
+   462901063
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r2:b3a",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462902288,
+   462902289,
+   462902290,
+   462902291
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r2:b3b",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462902840,
+   462902841,
+   462902842,
+   462902843
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r3:b1",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462904216,
+   462904217,
+   462904218,
+   462904219
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r3:b1",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462904256,
+   462904257,
+   462904258,
+   462904259
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r3:b2",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462904368,
+   462904369,
+   462904370,
+   462904371
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r2:b4",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462904452,
+   462904453,
+   462904454,
+   462904455
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r3:b1",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462904604,
+   462904605,
+   462904606,
+   462904607
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r3:b3a",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462904700,
+   462904701,
+   462904702,
+   462904703
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r3:b3b",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462904804,
+   462904805,
+   462904806,
+   462904807
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r3:b4",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462904960,
+   462904961,
+   462904962,
+   462904963
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r3:b5",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462905052,
+   462905053,
+   462905054,
+   462905055
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r3:b1",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462905092,
+   462905093,
+   462905094,
+   462905095
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r3:b6",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462905192,
+   462905193,
+   462905194,
+   462905195
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r3:b2",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462905248,
+   462905249,
+   462905250,
+   462905251
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r3:b3a",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462905288,
+   462905289,
+   462905290,
+   462905291
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r3:b3b",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462905372,
+   462905373,
+   462905374,
+   462905375
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r3:b4",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462905412,
+   462905413,
+   462905414,
+   462905415
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r3:b2",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462905528,
+   462905529,
+   462905530,
+   462905531
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r2:b5",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462905580,
+   462905581,
+   462905582,
+   462905583
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r3:b3a",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462905780,
+   462905781,
+   462905782,
+   462905783
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r3:b5",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462905916,
+   462905917,
+   462905918,
+   462905919
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r3:b6",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462906052,
+   462906053,
+   462906054,
+   462906055
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r3:b1",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462906548,
+   462906549,
+   462906550,
+   462906551
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r3:b2",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462906588,
+   462906589,
+   462906590,
+   462906591
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r3:b3a",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462906668,
+   462906669,
+   462906670,
+   462906671
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r3:b2",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462906748,
+   462906749,
+   462906750,
+   462906751
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r3:b1",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462906860,
+   462906861,
+   462906862,
+   462906863
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r3:b2",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462906900,
+   462906901,
+   462906902,
+   462906903
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r3:b3a",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462907084,
+   462907085,
+   462907086,
+   462907087
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r3:b3b",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462907192,
+   462907193,
+   462907194,
+   462907195
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r3:b4",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462907268,
+   462907269,
+   462907270,
+   462907271
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r3:b5",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462907320,
+   462907321,
+   462907322,
+   462907323
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r3:b3b",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462907384,
+   462907385,
+   462907386,
+   462907387
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r3:b3a",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462907436,
+   462907437,
+   462907438,
+   462907439
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r3:b1",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462907556,
+   462907557,
+   462907558,
+   462907559
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r3:b2",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462907628,
+   462907629,
+   462907630,
+   462907631
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r3:b3a",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462907676,
+   462907677,
+   462907678,
+   462907679
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r3:b3b",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462907724,
+   462907725,
+   462907726,
+   462907727
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r3:b3b",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462907836,
+   462907837,
+   462907838,
+   462907839
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r3:b4",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462907976,
+   462907977,
+   462907978,
+   462907979
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r3:b5",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462908036,
+   462908037,
+   462908038,
+   462908039
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r3:b6",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462908084,
+   462908085,
+   462908086,
+   462908087
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r2:b6",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462908144,
+   462908145,
+   462908146,
+   462908147
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r3:b4",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462908196,
+   462908197,
+   462908198,
+   462908199
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r3:b4",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462908260,
+   462908261,
+   462908262,
+   462908263
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r3:b5",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462908308,
+   462908309,
+   462908310,
+   462908311
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r3:b6",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462908380,
+   462908381,
+   462908382,
+   462908383
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r3:b3b",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462908432,
+   462908433,
+   462908434,
+   462908435
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r3:b4",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462908564,
+   462908565,
+   462908566,
+   462908567
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r3:b6",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462908604,
+   462908605,
+   462908606,
+   462908607
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r3:b5",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462908924,
+   462908925,
+   462908926,
+   462908927
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r3:b5",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462909984,
+   462909985,
+   462909986,
+   462909987
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r3:b6",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462910100,
+   462910101,
+   462910102,
+   462910103
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r3:b1",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462910768,
+   462910769,
+   462910770,
+   462910771
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r3:b6",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462911012,
+   462911013,
+   462911014,
+   462911015
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r3:b2",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462912068,
+   462912069,
+   462912070,
+   462912071
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r4:b1",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462912812,
+   462912813,
+   462912814,
+   462912815
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r4:b2",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462912960,
+   462912961,
+   462912962,
+   462912963
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r3:b3a",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462913368,
+   462913369,
+   462913370,
+   462913371
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r4:b3a",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462913608,
+   462913609,
+   462913610,
+   462913611
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r3:b3b",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462914076,
+   462914077,
+   462914078,
+   462914079
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r3:b4",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462914244,
+   462914245,
+   462914246,
+   462914247
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r4:b1",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462914520,
+   462914521,
+   462914522,
+   462914523
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r4:b3b",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462914612,
+   462914613,
+   462914614,
+   462914615
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r4:b2",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462914736,
+   462914737,
+   462914738,
+   462914739
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r4:b3a",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462914964,
+   462914965,
+   462914966,
+   462914967
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r4:b1",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462915076,
+   462915077,
+   462915078,
+   462915079
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r4:b2",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462915164,
+   462915165,
+   462915166,
+   462915167
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r4:b3b",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462915224,
+   462915225,
+   462915226,
+   462915227
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r4:b3a",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462915332,
+   462915333,
+   462915334,
+   462915335
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r4:b3b",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462915412,
+   462915413,
+   462915414,
+   462915415
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r4:b4",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462915488,
+   462915489,
+   462915490,
+   462915491
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r4:b4",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462915592,
+   462915593,
+   462915594,
+   462915595
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r4:b4",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462915644,
+   462915645,
+   462915646,
+   462915647
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r4:b5",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462915696,
+   462915697,
+   462915698,
+   462915699
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r4:b1",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462915796,
+   462915797,
+   462915798,
+   462915799
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r4:b5",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462915868,
+   462915869,
+   462915870,
+   462915871
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r4:b5",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462915908,
+   462915909,
+   462915910,
+   462915911
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r4:b2",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462915976,
+   462915977,
+   462915978,
+   462915979
+  ]
+ },
+ {
+  "key": "20261029T084255Z-HEL1US-r4:b6",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "family": "jito-agave",
+  "window": [
+   462916064,
+   462916065,
+   462916066,
+   462916067
+  ]
+ },
+ {
+  "key": "20261029T084255Z-Fd7btg-r4:b6",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "family": "harmonic-agave",
+  "window": [
+   462916112,
+   462916113,
+   462916114,
+   462916115
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r4:b3a",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462916176,
+   462916177,
+   462916178,
+   462916179
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9jxgos-r4:b6",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "family": "firedancer-bam",
+  "window": [
+   462916268,
+   462916269,
+   462916270,
+   462916271
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r4:b1",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462916376,
+   462916377,
+   462916378,
+   462916379
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r4:b1",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462916452,
+   462916453,
+   462916454,
+   462916455
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r4:b1",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462916612,
+   462916613,
+   462916614,
+   462916615
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r4:b2",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462916676,
+   462916677,
+   462916678,
+   462916679
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r4:b2",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462916836,
+   462916837,
+   462916838,
+   462916839
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r4:b3a",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462916876,
+   462916877,
+   462916878,
+   462916879
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r4:b3b",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462916956,
+   462916957,
+   462916958,
+   462916959
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r4:b3b",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462917148,
+   462917149,
+   462917150,
+   462917151
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r4:b3a",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462917212,
+   462917213,
+   462917214,
+   462917215
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r4:b3b",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462917308,
+   462917309,
+   462917310,
+   462917311
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r4:b4",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462917420,
+   462917421,
+   462917422,
+   462917423
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r4:b2",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462917492,
+   462917493,
+   462917494,
+   462917495
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r4:b5",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462917724,
+   462917725,
+   462917726,
+   462917727
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r4:b3a",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462917812,
+   462917813,
+   462917814,
+   462917815
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r3:b5",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462918000,
+   462918001,
+   462918002,
+   462918003
+  ]
+ },
+ {
+  "key": "20261029T084255Z-DRpbCB-r4:b6",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "family": "agave-bam",
+  "window": [
+   462918044,
+   462918045,
+   462918046,
+   462918047
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r4:b4",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462918088,
+   462918089,
+   462918090,
+   462918091
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r4:b4",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462918152,
+   462918153,
+   462918154,
+   462918155
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r4:b3b",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462918232,
+   462918233,
+   462918234,
+   462918235
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r4:b5",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462918288,
+   462918289,
+   462918290,
+   462918291
+  ]
+ },
+ {
+  "key": "20261029T084255Z-JUPiTE-r4:b6",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "family": "harmonic-firedancer",
+  "window": [
+   462918424,
+   462918425,
+   462918426,
+   462918427
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r4:b4",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462918552,
+   462918553,
+   462918554,
+   462918555
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r4:b5",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462918768,
+   462918769,
+   462918770,
+   462918771
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r4:b5",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462918892,
+   462918893,
+   462918894,
+   462918895
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r3:b6",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462919080,
+   462919081,
+   462919082,
+   462919083
+  ]
+ },
+ {
+  "key": "20261029T084255Z-9eGrDo-r4:b6",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "family": "firedancer",
+  "window": [
+   462919236,
+   462919237,
+   462919238,
+   462919239
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r4:b1",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462920056,
+   462920057,
+   462920058,
+   462920059
+  ]
+ },
+ {
+  "key": "20261029T084255Z-7QQGNm-r4:b6",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "family": "agave",
+  "window": [
+   462920380,
+   462920381,
+   462920382,
+   462920383
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r4:b2",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462920636,
+   462920637,
+   462920638,
+   462920639
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r4:b3a",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462922336,
+   462922337,
+   462922338,
+   462922339
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r4:b3b",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462923136,
+   462923137,
+   462923138,
+   462923139
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r4:b4",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462923480,
+   462923481,
+   462923482,
+   462923483
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r4:b5",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462924012,
+   462924013,
+   462924014,
+   462924015
+  ]
+ },
+ {
+  "key": "20261029T084255Z-5Us18h-r4:b6",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "family": "agave",
+  "window": [
+   462924448,
+   462924449,
+   462924450,
+   462924451
+  ]
+ }
+]

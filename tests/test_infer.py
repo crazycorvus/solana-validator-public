@@ -116,3 +116,15 @@ def test_fee_rule_still_found_inside_slots():
 def test_no_same_slot_pairs_is_insufficient_not_noise():
     bs = make_slotted("random", 3, per_slot=1)  # every probe alone in its slot
     assert verdict_for(bs, seed=3, n_perm=200, label="x")["verdict"] == "insufficient data"
+
+
+def test_modifier_only_verdict_does_not_crash():
+    """Real data once produced a verdict where H4/H5 passed but no H1-H3 did (KeyError on the lookup)."""
+    bs = make("fifo", 5)
+    bs = [b for b in bs if b.batch_type in ("timing_spread", "conflict_set", "control")]
+    for b in bs:  # keep enough pairs/landed probes to be analysed
+        pass
+    r = verdict_for(bs + make("fifo", 6, runs=3), seed=5, n_perm=300, label="x")
+    assert isinstance(r["verdict"], str)
+    only = [b for b in make("fifo", 7, runs=3) if b.batch_type in ("timing_spread", "control", "conflict_set")]
+    verdict_for(only * 2, seed=7, n_perm=300, label="y")  # must not raise whatever the verdict is

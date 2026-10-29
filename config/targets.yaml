@@ -5,7 +5,7 @@ experiment:
   send_lead_ms: 200
   paths:
   - rpc
-  horizon_s: 12600
+  horizon_s: 9000
   min_gap_s: 8
 targets:
 - identity: 7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE

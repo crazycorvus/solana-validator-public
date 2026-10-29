@@ -145,7 +145,7 @@ def _stat_for(h: str):
         "H2": lambda b: tau_b(b.x["reward_per_cu"], b.pos, b.group),
         "H3": lambda b: tau_b([-v for v in b.x["send_order"]], b.pos, b.group),
         "H4": lambda b: rank_biserial(b.shared, b.pos, b.group),
-        "H5": lambda b: spearman(b.x["send_offset_ms"], b.pos),
+        "H5": lambda b: tau_b([-v for v in b.x["send_offset_ms"]], b.pos, b.group),
     }[h]
 
 
@@ -226,7 +226,7 @@ def verdict_for(batches: list[Batch], seed: int = 0, n_perm: int = 10_000, label
     elif len(primary) > 1:
         v, conf = "ambiguous: " + "/".join(primary), None
     elif mods:
-        v, conf = " + ".join(mods) + " only", min(t["run_agreement"] or 0 for h, t in tests.items() if mod_name[h] in mods)
+        v, conf = " + ".join(mods) + " only", min(t["run_agreement"] or 0 for h, t in tests.items() if h in mod_name and mod_name[h] in mods)
     elif quiet and not weak:
         v, conf = "H6/noise", None
     else:
@@ -240,10 +240,12 @@ def load_batches(run_dirs: list[Path]) -> dict[str, list[Batch]]:
     landed in their target leader's window are used; the rest are counted by the caller."""
     out: dict[str, list[Batch]] = defaultdict(list)
     for rd in run_dirs:
+        from .collect import excluded_signatures
+        excl, _ = excluded_signatures(rd)  # batches our own infrastructure broke: never analysed
         with open(rd / "probes.csv") as f:
             probes = {r["signature"]: r for r in csv.DictReader(f)}
         with open(rd / "landings.csv") as f:
-            lands = [r for r in csv.DictReader(f) if r["outcome"] == "landed"]
+            lands = [r for r in csv.DictReader(f) if r["outcome"] == "landed" and r["signature"] not in excl]
         groups: dict[tuple, list[tuple[dict, dict]]] = defaultdict(list)
         for l in lands:
             p = probes[l["signature"]]

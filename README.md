@@ -8,8 +8,9 @@ reads the produced blocks back, and tests a set of pre-registered ordering hypot
 * Full spec and task list: `docs/Inside the Block — BA Spec & Task List.md`
 * Findings (dated, with "what went wrong"): `report/REPORT.md` *(generated after the live runs)*
 
-> **Status.** The pipeline is implemented and tested offline; **no live mainnet measurement has been
-> run yet**, so this README makes no claims about any validator. See [Status](#status).
+> **Status.** The study has been run on mainnet (2026-10-29, after Alpenglow) and verified against the chain:
+> 8 validators in 7 client families, 4-5 runs each, 107-147 probes per validator inside the target leader's
+> window. Read the [Results](#results-2026-10-29) and, above all, what they do **not** show.
 
 ## Quick start (dry-run, spends nothing)
 
@@ -18,8 +19,8 @@ cp .env.example .env            # put your RPC URL in it (Alchemy/Helius/Triton.
 docker compose up --build       # discover -> plan -> send (dry-run) -> collect -> analyze -> report
 ```
 
-Without live data, `collect`/`analyze` report that there is nothing to process and the `report` stage is
-still a stub (see [Status](#status)).
+Without live data, `collect`/`analyze` report that there is nothing to process and `report` writes an empty
+report; with the raw data of a live run in `data/raw/`, the same command regenerates the full report.
 
 Dry-run builds, signs and times every probe against real mainnet leader windows but never sends:
 the dry-run transport contains no network code at all, and the sender refuses a live transport
@@ -37,7 +38,7 @@ python3 -m venv .venv && .venv/bin/pip install -e '.[dev]' && .venv/bin/pytest
 | Command | What it does |
 |---|---|
 | `itb discover` | `getClusterNodes` + `getVoteAccounts` (+ validators.app) -> `data/raw/discovery/validators.json` |
-| `itb select` | picks 6 targets over distinct client families with enough 4-slot windows in 24 h -> `config/targets.yaml` |
+| `itb select [--n N]` | picks N targets (default 6) over distinct client families with enough 4-slot windows in 24 h -> `config/targets.yaml` |
 | `itb track --seconds N` | measures how well we predict window start times (`slotSubscribe`) |
 | `itb plan` | experiment matrix + worst-case cost estimate |
 | `itb approve` | the human gate (T16): shows targets, cap and wallet need, you type APPROVE |
@@ -92,6 +93,54 @@ did not land; it recomputes each rank from the verified positions and re-derives
 `landings.csv`, which must match the committed file exactly. It exits non-zero on any mismatch. You need
 your own RPC URL, and an RPC with history that still covers the measured slots.
 
+## Results (2026-10-29)
+
+Probes that landed in the target leader's 4-slot window, compared only with other probes of the same batch that
+landed in the **same slot**. Effect = Kendall tau (1 = the rule explains the order); a rule is declared only if the
+pooled effect is >= 0.6, p < 0.01, at least 2/3 of runs agree and no batch type contradicts it (see
+`docs/DESIGN.md`). Generated from `data/analysis/verdicts.json`; full tables, evidence and signatures in
+`report/REPORT.md`.
+
+| Validator | Client (at measurement) | In-window probes | H1 fee/CU | H2 reward/CU | H3 arrival (mixed fees) | H4 shared account | H5 equal-fee arrival | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| `5Us18hLZ` | agave 4.3.2 | 107 | -0.10 | +0.06 | +0.01 | -0.25 | **+0.86** | equal-fee arrival order only |
+| `7QQGNm3p` | agave 4.3.2 | 147 | -0.13 | +0.12 | -0.02 | +0.25 | **+0.86** | equal-fee arrival order only |
+| `9eGrDohd` | firedancer 26.10.4 | 129 | +0.66 | **+0.84** | -0.06 | +0.25 | **+0.75** | reward-per-CU (H2) + equal-fee arrival |
+| `9jxgosAf` | firedancer+BAM 26.10.5 | 135 | +0.23 | +0.58 | +0.07 | +0.50 | **+0.69** | equal-fee arrival order (H2 partial, below threshold) |
+| `DRpbCBMx` | agave+BAM 4.4.0-rc.1 | 131 | +0.01 | +0.44 | -0.10 | +0.38 | **+0.81** | equal-fee arrival order (H2 partial) |
+| `Fd7btgyS` | harmonic-agave 4.3.2 | 142 | +0.05 | +0.09 | +0.07 | **+0.59** | **+0.74** | shared-account probes land later + equal-fee arrival (confidence 0.75) |
+| `HEL1USMZ` | jito-agave 4.3.2 | 144 | +0.16 | +0.14 | +0.05 | -0.17 | **+0.73** | equal-fee arrival order (confidence 0.67) |
+| `JUPiTERr` | harmonic-firedancer 26.10.4 | 130 | +0.16 | +0.20 | -0.25 | +0.09 | **+0.92** | equal-fee arrival order only |
+
+What the data supports:
+
+* **Among probes with identical fees, later sends land later (same slot) on 8 of 8 validators**, so a first-come
+  first-served tie-break is the one rule seen everywhere (H5; the pre-registered version was trivially true and
+  was changed after the fact, see `docs/DESIGN.md`, Amendments).
+* **A fee-based rule is not visible on most validators.** H1 (price per CU) is near zero for 6 of 8, and the
+  *other* transactions in the same blocks are not sorted by fee either (competing-traffic tau about 0.0 for all
+  8, `noise.json`). The exception is Firedancer `9eGrDohd`, where ordering follows (priority fee + base fee / 2)
+  per requested CU (H2 +0.84; H1 +0.66 is the same direction because price and reward agree except in the batch
+  built to separate them). `9jxgosAf` (+0.58) and `DRpbCBMx` (+0.44) lean the same way but stay below our own
+  threshold, so they are reported as no firm rule.
+* **One validator shows a conflict effect** (`Fd7btgyS`: probes sharing a writable account land after disjoint
+  ones, +0.59, p 0.006); it rests on one validator and is the weakest claim here.
+
+What it does **not** show (read before quoting any number):
+
+* **Our probes arrive as a burst.** Batches b1-b4 are dispatched within ~8 ms through an RPC provider, so the
+  leader's scheduler may never hold more than one of them at a time; a fee-priority scheduler can only reorder
+  transactions that are queued together. "No fee rule" therefore means "no fee rule detectable at this arrival
+  pattern", not "the leader ignores fees". Only the Firedancer validator reordered inside such a burst.
+* **The provider path is not separated.** Every probe goes through Alchemy's forwarding; its ordering and
+  batching are part of what we measured. In control batches (identical transactions, shuffled sends) `5Us18hLZ`
+  showed tau -0.71 against send order (later sends landing *earlier*), the others -0.24..+0.21, which we cannot
+  explain from the data and may be forwarding behaviour.
+* **Only 49-65 % of probes landed inside their window** (the rest landed on the next leader because our slot
+  clock is accurate to ~0.4 s against 0.85 s windows); the in-window subset is selected by timing, not random.
+* **About 130 probes per validator, 4-5 runs**, is little power for weak rules; Holm-corrected p-values are in the
+  report.
+
 ## How the design handles each consideration
 
 The experiment varies one factor at a time inside a batch sent to a single leader and reads the
@@ -124,7 +173,13 @@ landed (`landings.csv`), and probes outside their window are reported, not hidde
 First capped live test (2026-10-28, plain Agave validator, RPC path, 14 probes): 0 of 14 landed in the
 target leader's window. 8 landed 5 slots after it (sent ~0.8 s late because of a bad first clock fit) on the
 next leader; 6, sent 71 ms after the real window start, **never landed**. See `report/REPORT.md`, "What went
-wrong". Whether the RPC path can deliver into a specific leader's window is therefore still open.
+wrong".
+
+Second capped live test (2026-10-29, Jito-Agave validator `HEL1USMZ`, RPC path, 22 probes): the batch sent 284 ms
+*before* the observed window start landed 6 of 6 in slot +0, inside the window; the two batches sent 641 ms and
+1 147 ms *after* it landed 4-7 slots late on the next leader. So in-window delivery through the provider works
+when the send is early enough (the round trip is ~200-280 ms), and the misses were clock error, not refusal. The
+plain Agave validator in the first test is the open case: 0 of 6 in-window probes landed at all.
 
 ### 4. Interaction of our own transactions
 Every probe uses its **own fee payer** and writes only its own fresh account, so nothing serialises our
@@ -179,8 +234,9 @@ data/raw/<run_id>/
   probes.csv        every probe: id, signature, cu_price, cu_limit, accounts_key, send_order, send_ts_us, path, fee
   send_log.jsonl    structured send/refusal log
   leaders.json      slot -> leader identity
-  blocks/<slot>.json.gz   FULL block for every slot that contains one of our probes
-  blocks/<slot>.json      compact block (sig, err, fee, cu_used, cu_price, cu_limit) for all other slots
+  blocks/<slot>.json.gz   every collected slot, COMPACT and gzipped: all transactions of the block in order
+                          (signature, error, fee, CU used, requested price/limit, vote flag), enough to verify
+                          positions; the full block is one `getBlock` call away (`verify` does exactly that)
   landings.csv      probe -> slot, leader, tx index, status, outcome, rank in batch
   verify_report.json
 data/raw/discovery/validators.json
@@ -188,8 +244,9 @@ data/analysis/verdicts.json
 data/ledger/spend_ledger.json
 ```
 
-Full blocks are about 2 MB each; keeping every neighbour block in full would be gigabytes, so neighbours
-are compacted. Anything not committed can be re-fetched by signature with `verify`.
+Full blocks are about 2 MB each (hundreds of MB for a study), so only the compact form is committed (65 MB
+for the whole study). `collect` keeps the full blocks in the git-ignored `data/cache/` and can keep full gzipped
+blocks for probe slots on request (`keep_full`).
 
 ## Reproducibility
 
@@ -199,15 +256,22 @@ whole pipeline in dry-run on a clean machine.
 
 ## Status
 
-Implemented and tested (64 offline tests pass plus 2 against a real `solana-test-validator`, including the full orchestrator against a real `solana-test-validator`): discovery and target selection on real mainnet data, leader
-schedule and window tracking, probe builder, seeded experiment matrix, persisted spend ledger, sender
-(dry-run and RPC), block collector and landing mapper (checked against real finalized blocks, including
-version-1 transactions), the inference engine (validated on synthetic chains), the verify service.
+Done and verified: discovery and target selection on real mainnet data, slot clock and window replay, probe
+builder, seeded experiment matrix, persisted spend ledger (with an interactive on-chain reconciliation), sender
+(dry-run and RPC), resumable at-most-once orchestrator behind a human sign-off, block collector and landing
+mapper, inference engine, noise analysis, charts, report generator and the `verify` service. 71 offline tests plus
+2 against a real `solana-test-validator`. The mainnet study of 2026-10-29 ran 8 validators in 7 client families
+(4 runs each, 107-147 in-window probes per validator) and `itb verify` passes on all four run folders: 1 776
+landed probes re-checked on chain, 1 268 drops confirmed, verdicts re-derived identically. Fees paid on chain:
+0.0091 SOL against a 0.05 SOL budget and a 0.01 SOL approved cap.
 
-Not done yet:
+Known gaps:
 
-* **No live measurement**: nothing has been sent on mainnet, so there are no results.
-* **Direct TPU/QUIC sender**: only the RPC path exists. If the RPC landing rate is too low this is the
-  likely next piece (probably in Rust).
-* **Devnet end-to-end** (localnet end-to-end passes: fund payers, live RPC send, collect, map, `verify`).
-  Localnet block order is not evidence about mainnet leaders, it only proves the plumbing.
+* **Direct TPU/QUIC sender is not implemented**: every probe goes through one RPC provider (Alchemy), which is
+  part of what was measured. A direct sender would be the natural next experiment, and a second provider would
+  show how much of the ordering belongs to the provider.
+* **Bursty arrival**: see *What it does not show* in [Results](#results-2026-10-29).
+* **No devnet run**: devnet has one client and nothing to measure; localnet passes the whole pipeline end to end
+  but its block order says nothing about mainnet leaders.
+* **The first full run failed through our own bug** (payer deposits too small) and was re-sent; the failed
+  probes are kept, marked as excluded, and described in `report/REPORT.md` under "What went wrong".

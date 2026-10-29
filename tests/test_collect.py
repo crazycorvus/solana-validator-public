@@ -89,8 +89,28 @@ def test_compact_roundtrip_and_full_vs_compact_split(tmp_path):
     (cache / "blocks" / "100.json").write_text(json.dumps({"slot": 100, "transactions": [other, jt[0]]}))
     (cache / "blocks" / "101.json").write_text(json.dumps({"slot": 101, "transactions": [other]}))
     res = compact_blocks(cache, run, {prep[0].signature})
-    assert res == {"full": 1, "compact": 1}
-    assert (run / "blocks" / "100.json.gz").exists() and (run / "blocks" / "101.json").exists()
+    assert res == {"full": 0, "compact": 2}                      # default: everything compact and gzipped
+    res = compact_blocks(cache, run, {prep[0].signature}, keep_full=True)
+    assert res == {"full": 1, "compact": 1}                      # opt-in: full block only where a probe landed
+    assert (run / "blocks" / "100.json.gz").exists() and (run / "blocks" / "101.json.gz").exists()
+    assert not (run / "blocks" / "101.json").exists()
     from itb.collect import block_index
     idx = block_index(run / "blocks")
     assert idx[prep[0].signature][:2] == (100, 1) and idx["zzz"][:2] == (101, 0)
+
+
+def test_rank_is_per_run_and_batch_not_per_batch_id(tmp_path):
+    """Regression (found by `verify` on the first full study): ranks were computed across every batch that
+    shared a batch id, so two runs' b1 batches were ranked together."""
+    leaders = {100: "L", 101: "L", 102: "L", 103: "L"}
+    run = mk(tmp_path, [], {100: ["a1", "b1", "a2", "b2"]}, leaders)
+    rows = []
+    for sig, rid in (("a1", "RUN_A"), ("a2", "RUN_A"), ("b1", "RUN_B"), ("b2", "RUN_B")):
+        rows.append({"probe_id": f"probe:{rid}:b1:0", "batch_id": "b1", "signature": sig, "leader": "L",
+                     "window_start": 100, "run_id": rid})
+    with open(run / "probes.csv", "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        w.writeheader()
+        w.writerows(rows)
+    out = {r["signature"]: r["rank_in_batch"] for r in map_landings(run / "probes.csv", run)}
+    assert out == {"a1": 0, "a2": 1, "b1": 0, "b2": 1}

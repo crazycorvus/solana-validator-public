@@ -1,0 +1,27 @@
+{
+ "windows": 42,
+ "slot_ms": 214.7,
+ "window_ms": 859,
+ "median_abs_err_ms": 398,
+ "p90_abs_err_ms": 672,
+ "mean_signed_err_ms": -345,
+ "assumed_path_latency_ms": 280,
+ "hit_rate_by_lead_ms": {
+  "-200": 0.4523809523809524,
+  "-100": 0.5714285714285714,
+  "0": 0.6666666666666666,
+  "100": 0.8333333333333334,
+  "200": 0.8809523809523809,
+  "300": 0.7142857142857143,
+  "400": 0.6666666666666666,
+  "500": 0.6190476190476191,
+  "600": 0.5714285714285714,
+  "700": 0.47619047619047616
+ },
+ "configured_lead_ms": 200,
+ "hit_rate_at_configured_lead": 0.8809523809523809,
+ "best_lead_ms": 200,
+ "hit_rate_at_best_lead": 0.8809523809523809,
+ "target_windows": 12,
+ "caveat": "ground truth is the same slot feed (noisy by design); the real check is where probes land"
+}

@@ -10,3 +10,4 @@ id.json
 data/ledger/
 .pytest_cache/
 data/cache/
+*.egg-info/

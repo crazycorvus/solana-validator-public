@@ -70,6 +70,21 @@ def build_schedule(targets: list[dict], sched: LeaderSchedule, now_slot: int, *,
     return items, skipped
 
 
+def batch_outcomes(run_dir: Path) -> dict[str, tuple[int, int]]:
+    """'run_id:batch' -> (probes that reached the chain in any slot, probes sent) for a finished run."""
+    import csv
+    with open(Path(run_dir) / "probes.csv") as f:
+        probes = {r["signature"]: r for r in csv.DictReader(f)}
+    out: dict[str, list[int]] = {}
+    with open(Path(run_dir) / "landings.csv") as f:
+        for r in csv.DictReader(f):
+            p = probes[r["signature"]]
+            c = out.setdefault(f"{p['run_id']}:{p['batch_id']}", [0, 0])
+            c[0] += r["outcome"] != "dropped"
+            c[1] += 1
+    return {k: (v[0], v[1]) for k, v in out.items()}
+
+
 def limit_items(items: list[Item], only: str | None, max_batches: int | None) -> list[Item]:
     """Narrow a schedule for a small test: one validator (identity prefix) and/or the first N batches in time."""
     if only:

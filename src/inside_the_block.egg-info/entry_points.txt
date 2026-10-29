@@ -1,2 +1,0 @@
-[console_scripts]
-itb = itb.cli:main

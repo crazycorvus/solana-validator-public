@@ -113,3 +113,16 @@ def test_limit_items_for_a_small_test():
     assert len(one) == 2 and all(i.validator == "VAL2BBBBBB" for i in one)
     assert one == sorted(one, key=lambda i: i.window[0])
     assert limit_items(items, None, None) == items
+
+
+def test_payer_deposits_cover_the_whole_schedule():
+    """Regression: the first live study funded 50 000 lamports of fee budget per payer for a schedule that
+    needed >1 000 000 each, and every send after ~57 transactions per payer was silently rejected."""
+    from itb.live import payer_budgets
+    items, _ = build_schedule(TARGETS, sched(), 999, stamp="s", seed=1, runs=4, min_ahead_slots=0,
+                              min_gap_s=4, horizon_slots=10_000)
+    budget = payer_budgets(items)
+    sends_per_payer = [sum(1 for i in items for p in i.batch.probes if p.payer_index == k) for k in range(8)]
+    assert all(b >= 5_000 * n for b, n in zip(budget, sends_per_payer))
+    assert max(sends_per_payer) > 50          # more than the old 50 000-lamport budget could pay for
+    assert min(budget) > 50_000 and sum(budget) == sum(i.batch.worst_case_lamports for i in items)

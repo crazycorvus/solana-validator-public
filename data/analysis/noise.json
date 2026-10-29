@@ -1,0 +1,4253 @@
+{
+ "delivery": {
+  "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE|rpc": {
+   "_all": {
+    "landed_other_leader": 77,
+    "dropped": 6,
+    "landed": 147,
+    "n": 230,
+    "landing_rate": 0.6391304347826087
+   },
+   "fee_ladder": {
+    "landed_other_leader": 15,
+    "landed": 25,
+    "n": 40,
+    "landing_rate": 0.625
+   },
+   "reward_per_cu": {
+    "dropped": 6,
+    "landed": 24,
+    "n": 30,
+    "landing_rate": 0.8
+   },
+   "reverse_order": {
+    "landed": 40,
+    "landed_other_leader": 24,
+    "n": 64,
+    "landing_rate": 0.625
+   },
+   "conflict_set": {
+    "landed": 24,
+    "landed_other_leader": 8,
+    "n": 32,
+    "landing_rate": 0.75
+   },
+   "timing_spread": {
+    "landed_other_leader": 14,
+    "landed": 18,
+    "n": 32,
+    "landing_rate": 0.5625
+   },
+   "control": {
+    "landed": 16,
+    "landed_other_leader": 16,
+    "n": 32,
+    "landing_rate": 0.5
+   }
+  },
+  "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU|rpc": {
+   "_all": {
+    "landed_other_leader": 94,
+    "landed": 144,
+    "n": 238,
+    "landing_rate": 0.6050420168067226
+   },
+   "fee_ladder": {
+    "landed_other_leader": 32,
+    "landed": 8,
+    "n": 40,
+    "landing_rate": 0.2
+   },
+   "reward_per_cu": {
+    "landed": 18,
+    "landed_other_leader": 12,
+    "n": 30,
+    "landing_rate": 0.6
+   },
+   "reverse_order": {
+    "landed_other_leader": 21,
+    "landed": 51,
+    "n": 72,
+    "landing_rate": 0.7083333333333334
+   },
+   "conflict_set": {
+    "landed": 24,
+    "landed_other_leader": 8,
+    "n": 32,
+    "landing_rate": 0.75
+   },
+   "timing_spread": {
+    "landed": 19,
+    "landed_other_leader": 13,
+    "n": 32,
+    "landing_rate": 0.59375
+   },
+   "control": {
+    "landed": 24,
+    "landed_other_leader": 8,
+    "n": 32,
+    "landing_rate": 0.75
+   }
+  },
+  "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy|rpc": {
+   "_all": {
+    "landed_other_leader": 85,
+    "landed": 131,
+    "n": 216,
+    "landing_rate": 0.6064814814814815
+   },
+   "fee_ladder": {
+    "landed_other_leader": 16,
+    "landed": 16,
+    "n": 32,
+    "landing_rate": 0.5
+   },
+   "reward_per_cu": {
+    "landed": 20,
+    "landed_other_leader": 4,
+    "n": 24,
+    "landing_rate": 0.8333333333333334
+   },
+   "reverse_order": {
+    "landed_other_leader": 48,
+    "landed": 16,
+    "n": 64,
+    "landing_rate": 0.25
+   },
+   "conflict_set": {
+    "landed": 32,
+    "n": 32,
+    "landing_rate": 1.0
+   },
+   "timing_spread": {
+    "landed_other_leader": 9,
+    "landed": 23,
+    "n": 32,
+    "landing_rate": 0.71875
+   },
+   "control": {
+    "landed": 24,
+    "landed_other_leader": 8,
+    "n": 32,
+    "landing_rate": 0.75
+   }
+  },
+  "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk|rpc": {
+   "_all": {
+    "landed": 142,
+    "landed_other_leader": 74,
+    "n": 216,
+    "landing_rate": 0.6574074074074074
+   },
+   "fee_ladder": {
+    "landed": 16,
+    "landed_other_leader": 16,
+    "n": 32,
+    "landing_rate": 0.5
+   },
+   "reward_per_cu": {
+    "landed_other_leader": 6,
+    "landed": 18,
+    "n": 24,
+    "landing_rate": 0.75
+   },
+   "reverse_order": {
+    "landed": 46,
+    "landed_other_leader": 18,
+    "n": 64,
+    "landing_rate": 0.71875
+   },
+   "conflict_set": {
+    "landed": 32,
+    "n": 32,
+    "landing_rate": 1.0
+   },
+   "timing_spread": {
+    "landed_other_leader": 11,
+    "landed": 21,
+    "n": 32,
+    "landing_rate": 0.65625
+   },
+   "control": {
+    "landed_other_leader": 23,
+    "landed": 9,
+    "n": 32,
+    "landing_rate": 0.28125
+   }
+  },
+  "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP|rpc": {
+   "_all": {
+    "landed_other_leader": 81,
+    "landed": 135,
+    "n": 216,
+    "landing_rate": 0.625
+   },
+   "fee_ladder": {
+    "landed_other_leader": 24,
+    "landed": 8,
+    "n": 32,
+    "landing_rate": 0.25
+   },
+   "reward_per_cu": {
+    "landed": 18,
+    "landed_other_leader": 6,
+    "n": 24,
+    "landing_rate": 0.75
+   },
+   "reverse_order": {
+    "landed": 32,
+    "landed_other_leader": 32,
+    "n": 64,
+    "landing_rate": 0.5
+   },
+   "conflict_set": {
+    "landed": 24,
+    "landed_other_leader": 8,
+    "n": 32,
+    "landing_rate": 0.75
+   },
+   "timing_spread": {
+    "landed": 29,
+    "landed_other_leader": 3,
+    "n": 32,
+    "landing_rate": 0.90625
+   },
+   "control": {
+    "landed": 24,
+    "landed_other_leader": 8,
+    "n": 32,
+    "landing_rate": 0.75
+   }
+  },
+  "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b|rpc": {
+   "_all": {
+    "landed_other_leader": 86,
+    "landed": 130,
+    "n": 216,
+    "landing_rate": 0.6018518518518519
+   },
+   "fee_ladder": {
+    "landed_other_leader": 24,
+    "landed": 8,
+    "n": 32,
+    "landing_rate": 0.25
+   },
+   "reward_per_cu": {
+    "landed": 18,
+    "landed_other_leader": 6,
+    "n": 24,
+    "landing_rate": 0.75
+   },
+   "reverse_order": {
+    "landed": 40,
+    "landed_other_leader": 24,
+    "n": 64,
+    "landing_rate": 0.625
+   },
+   "conflict_set": {
+    "landed": 32,
+    "n": 32,
+    "landing_rate": 1.0
+   },
+   "timing_spread": {
+    "landed_other_leader": 16,
+    "landed": 16,
+    "n": 32,
+    "landing_rate": 0.5
+   },
+   "control": {
+    "landed": 16,
+    "landed_other_leader": 16,
+    "n": 32,
+    "landing_rate": 0.5
+   }
+  },
+  "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY|rpc": {
+   "_all": {
+    "landed": 129,
+    "landed_other_leader": 87,
+    "n": 216,
+    "landing_rate": 0.5972222222222222
+   },
+   "fee_ladder": {
+    "landed": 16,
+    "landed_other_leader": 16,
+    "n": 32,
+    "landing_rate": 0.5
+   },
+   "reward_per_cu": {
+    "landed_other_leader": 18,
+    "landed": 6,
+    "n": 24,
+    "landing_rate": 0.25
+   },
+   "reverse_order": {
+    "landed": 59,
+    "landed_other_leader": 5,
+    "n": 64,
+    "landing_rate": 0.921875
+   },
+   "conflict_set": {
+    "landed_other_leader": 24,
+    "landed": 8,
+    "n": 32,
+    "landing_rate": 0.25
+   },
+   "timing_spread": {
+    "landed": 24,
+    "landed_other_leader": 8,
+    "n": 32,
+    "landing_rate": 0.75
+   },
+   "control": {
+    "landed_other_leader": 16,
+    "landed": 16,
+    "n": 32,
+    "landing_rate": 0.5
+   }
+  },
+  "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS|rpc": {
+   "_all": {
+    "landed": 107,
+    "landed_other_leader": 101,
+    "dropped": 8,
+    "n": 216,
+    "landing_rate": 0.49537037037037035
+   },
+   "fee_ladder": {
+    "landed": 24,
+    "landed_other_leader": 8,
+    "n": 32,
+    "landing_rate": 0.75
+   },
+   "reward_per_cu": {
+    "landed_other_leader": 12,
+    "landed": 12,
+    "n": 24,
+    "landing_rate": 0.5
+   },
+   "reverse_order": {
+    "landed_other_leader": 24,
+    "landed": 40,
+    "n": 64,
+    "landing_rate": 0.625
+   },
+   "conflict_set": {
+    "landed": 8,
+    "landed_other_leader": 24,
+    "n": 32,
+    "landing_rate": 0.25
+   },
+   "timing_spread": {
+    "landed_other_leader": 19,
+    "landed": 13,
+    "n": 32,
+    "landing_rate": 0.40625
+   },
+   "control": {
+    "dropped": 8,
+    "landed_other_leader": 14,
+    "landed": 10,
+    "n": 32,
+    "landing_rate": 0.3125
+   }
+  }
+ },
+ "competition": {
+  "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU": {
+   "blocks": [
+    {
+     "slot": 462589029,
+     "n_competing": 491,
+     "share_priority_fee": 0.38289205702647655,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 2000000,
+     "context_tau": 0.08075297733900295
+    },
+    {
+     "slot": 462808356,
+     "n_competing": 166,
+     "share_priority_fee": 0.37349397590361444,
+     "price_p50": 0,
+     "price_p90": 49443,
+     "price_p99": 5901794,
+     "context_tau": 0.14878139668147183
+    },
+    {
+     "slot": 462818942,
+     "n_competing": 219,
+     "share_priority_fee": 0.3835616438356164,
+     "price_p50": 0,
+     "price_p90": 33333,
+     "price_p99": 1000000,
+     "context_tau": -0.046317867995646224
+    },
+    {
+     "slot": 462818980,
+     "n_competing": 272,
+     "share_priority_fee": 0.4227941176470588,
+     "price_p50": 0,
+     "price_p90": 54301,
+     "price_p99": 2000000,
+     "context_tau": -0.11448304010648504
+    },
+    {
+     "slot": 462819048,
+     "n_competing": 170,
+     "share_priority_fee": 0.35294117647058826,
+     "price_p50": 0,
+     "price_p90": 33333,
+     "price_p99": 1500000,
+     "context_tau": -0.05697177816802153
+    },
+    {
+     "slot": 462819108,
+     "n_competing": 381,
+     "share_priority_fee": 0.3805774278215223,
+     "price_p50": 0,
+     "price_p90": 33333,
+     "price_p99": 1193202,
+     "context_tau": -0.04933449922959879
+    },
+    {
+     "slot": 462819150,
+     "n_competing": 347,
+     "share_priority_fee": 0.414985590778098,
+     "price_p50": 0,
+     "price_p90": 100763,
+     "price_p99": 20000050,
+     "context_tau": -0.05203824328214953
+    },
+    {
+     "slot": 462819151,
+     "n_competing": 314,
+     "share_priority_fee": 0.35668789808917195,
+     "price_p50": 0,
+     "price_p90": 85409,
+     "price_p99": 1000000,
+     "context_tau": 0.09815289475638048
+    },
+    {
+     "slot": 462819188,
+     "n_competing": 261,
+     "share_priority_fee": 0.4099616858237548,
+     "price_p50": 0,
+     "price_p90": 85898,
+     "price_p99": 1406268,
+     "context_tau": -0.04593259133153117
+    },
+    {
+     "slot": 462819559,
+     "n_competing": 168,
+     "share_priority_fee": 0.42857142857142855,
+     "price_p50": 0,
+     "price_p90": 14704,
+     "price_p99": 1500000,
+     "context_tau": -0.029779548162411303
+    },
+    {
+     "slot": 462895683,
+     "n_competing": 279,
+     "share_priority_fee": 0.33691756272401435,
+     "price_p50": 0,
+     "price_p90": 150000,
+     "price_p99": 3000000,
+     "context_tau": -0.05929738655511731
+    },
+    {
+     "slot": 462895721,
+     "n_competing": 408,
+     "share_priority_fee": 0.2622549019607843,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 1000000,
+     "context_tau": -0.09572112849212648
+    },
+    {
+     "slot": 462895960,
+     "n_competing": 456,
+     "share_priority_fee": 0.4473684210526316,
+     "price_p50": 0,
+     "price_p90": 108538,
+     "price_p99": 666666,
+     "context_tau": -0.02675745275954414
+    },
+    {
+     "slot": 462896033,
+     "n_competing": 285,
+     "share_priority_fee": 0.47719298245614034,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 1500001,
+     "context_tau": 0.005149249333118859
+    },
+    {
+     "slot": 462896224,
+     "n_competing": 234,
+     "share_priority_fee": 0.41452991452991456,
+     "price_p50": 0,
+     "price_p90": 46056,
+     "price_p99": 1000000,
+     "context_tau": -0.05094412362471613
+    },
+    {
+     "slot": 462896467,
+     "n_competing": 241,
+     "share_priority_fee": 0.43568464730290457,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 1867240,
+     "context_tau": 0.01796140193018766
+    },
+    {
+     "slot": 462904703,
+     "n_competing": 337,
+     "share_priority_fee": 0.37388724035608306,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 2000050,
+     "context_tau": 0.09611733811011568
+    },
+    {
+     "slot": 462904804,
+     "n_competing": 366,
+     "share_priority_fee": 0.37158469945355194,
+     "price_p50": 0,
+     "price_p90": 268283,
+     "price_p99": 1779950,
+     "context_tau": -0.12525392850492315
+    },
+    {
+     "slot": 462904961,
+     "n_competing": 509,
+     "share_priority_fee": 0.3143418467583497,
+     "price_p50": 0,
+     "price_p90": 60000,
+     "price_p99": 1624919,
+     "context_tau": 0.026479776101191056
+    },
+    {
+     "slot": 462905052,
+     "n_competing": 361,
+     "share_priority_fee": 0.3988919667590028,
+     "price_p50": 0,
+     "price_p90": 183311,
+     "price_p99": 2000000,
+     "context_tau": -0.015287530665123157
+    },
+    {
+     "slot": 462905053,
+     "n_competing": 475,
+     "share_priority_fee": 0.391578947368421,
+     "price_p50": 0,
+     "price_p90": 150000,
+     "price_p99": 1818867,
+     "context_tau": 0.06396367592124615
+    },
+    {
+     "slot": 462905054,
+     "n_competing": 467,
+     "share_priority_fee": 0.4132762312633833,
+     "price_p50": 0,
+     "price_p90": 183335,
+     "price_p99": 3699970,
+     "context_tau": 0.029610778846278815
+    },
+    {
+     "slot": 462915334,
+     "n_competing": 323,
+     "share_priority_fee": 0.3715170278637771,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 2000000,
+     "context_tau": -0.2117737682420431
+    },
+    {
+     "slot": 462915413,
+     "n_competing": 307,
+     "share_priority_fee": 0.30944625407166126,
+     "price_p50": 0,
+     "price_p90": 21072,
+     "price_p99": 1500000,
+     "context_tau": 0.09379523125236351
+    },
+    {
+     "slot": 462915908,
+     "n_competing": 242,
+     "share_priority_fee": 0.36363636363636365,
+     "price_p50": 0,
+     "price_p90": 60000,
+     "price_p99": 2000050,
+     "context_tau": 0.012355858291009587
+    },
+    {
+     "slot": 462916064,
+     "n_competing": 649,
+     "share_priority_fee": 0.5454545454545454,
+     "price_p50": 1000,
+     "price_p90": 160978,
+     "price_p99": 1877269,
+     "context_tau": 0.2509317173248505
+    },
+    {
+     "slot": 462917999,
+     "n_competing": 357,
+     "share_priority_fee": 0.3137254901960784,
+     "price_p50": 0,
+     "price_p90": 300007,
+     "price_p99": 10000000,
+     "context_tau": 0.05001468028736286
+    }
+   ],
+   "n_blocks": 27,
+   "context_tau_mean": -0.00021577447943915302,
+   "context_tau_sd": 0.09433195094173681
+  },
+  "7qGNnXKW1e3DsqEaSxwxMdBTFsrK73XtWTmkGitRyMQc": {
+   "blocks": [
+    {
+     "slot": 462808076,
+     "n_competing": 368,
+     "share_priority_fee": 0.32608695652173914,
+     "price_p50": 0,
+     "price_p90": 250000,
+     "price_p99": 1000000,
+     "context_tau": -0.04766771198651825
+    },
+    {
+     "slot": 462808077,
+     "n_competing": 225,
+     "share_priority_fee": 0.37777777777777777,
+     "price_p50": 0,
+     "price_p90": 124995,
+     "price_p99": 1000000,
+     "context_tau": -0.0222277315592036
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.03494772177286093,
+   "context_tau_sd": 0.01798878267340723
+  },
+  "E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo": {
+   "blocks": [
+    {
+     "slot": 462808603,
+     "n_competing": 220,
+     "share_priority_fee": 0.5227272727272727,
+     "price_p50": 1,
+     "price_p90": 1000000,
+     "price_p99": 1500000,
+     "context_tau": 0.004817266876612116
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.004817266876612116,
+   "context_tau_sd": null
+  },
+  "C8Bey3LKVJHVqN6xPTeW8WJfUgFQAeGNBpT4Rp99JP1k": {
+   "blocks": [
+    {
+     "slot": 462818617,
+     "n_competing": 294,
+     "share_priority_fee": 0.5510204081632653,
+     "price_p50": 1,
+     "price_p90": 33333,
+     "price_p99": 1000000,
+     "context_tau": -0.019658935663173907
+    },
+    {
+     "slot": 462915872,
+     "n_competing": 309,
+     "share_priority_fee": 0.1715210355987055,
+     "price_p50": 0,
+     "price_p90": 2001,
+     "price_p99": 510204,
+     "context_tau": -0.15694540699376677
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.08830217132847035,
+   "context_tau_sd": 0.09707619484303476
+  },
+  "5ZqveVffQPiUbkjBg4KD9kib1MKHLqiFno4ke9jSq9qk": {
+   "blocks": [
+    {
+     "slot": 462818699,
+     "n_competing": 328,
+     "share_priority_fee": 0.38414634146341464,
+     "price_p50": 0,
+     "price_p90": 291666,
+     "price_p99": 3265306,
+     "context_tau": 0.00551103311038639
+    },
+    {
+     "slot": 462908143,
+     "n_competing": 275,
+     "share_priority_fee": 0.29818181818181816,
+     "price_p50": 0,
+     "price_p90": 15000,
+     "price_p99": 2110772,
+     "context_tau": -0.020163946232380006
+    },
+    {
+     "slot": 462916175,
+     "n_competing": 530,
+     "share_priority_fee": 0.41320754716981134,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 3265306,
+     "context_tau": 0.05343631316333624
+    }
+   ],
+   "n_blocks": 3,
+   "context_tau_mean": 0.012927800013780875,
+   "context_tau_sd": 0.037356470246178844
+  },
+  "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy": {
+   "blocks": [
+    {
+     "slot": 462818789,
+     "n_competing": 151,
+     "share_priority_fee": 0.45695364238410596,
+     "price_p50": 0,
+     "price_p90": 300001,
+     "price_p99": 33333333,
+     "context_tau": 0.07668660162557861
+    },
+    {
+     "slot": 462819400,
+     "n_competing": 303,
+     "share_priority_fee": 0.5214521452145214,
+     "price_p50": 100,
+     "price_p90": 100765,
+     "price_p99": 1000000,
+     "context_tau": 0.11932442053974195
+    },
+    {
+     "slot": 462819496,
+     "n_competing": 293,
+     "share_priority_fee": 0.4539249146757679,
+     "price_p50": 0,
+     "price_p90": 510204,
+     "price_p99": 1000000,
+     "context_tau": -0.01229171501800919
+    },
+    {
+     "slot": 462819748,
+     "n_competing": 287,
+     "share_priority_fee": 0.41114982578397213,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 4444444,
+     "context_tau": 0.010786761855335789
+    },
+    {
+     "slot": 462819899,
+     "n_competing": 232,
+     "share_priority_fee": 0.5387931034482759,
+     "price_p50": 400,
+     "price_p90": 251618,
+     "price_p99": 2000000,
+     "context_tau": 4.221495270405677e-05
+    },
+    {
+     "slot": 462824219,
+     "n_competing": 257,
+     "share_priority_fee": 0.44357976653696496,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1000000,
+     "context_tau": 0.000788429852378756
+    },
+    {
+     "slot": 462833011,
+     "n_competing": 265,
+     "share_priority_fee": 0.4641509433962264,
+     "price_p50": 0,
+     "price_p90": 85346,
+     "price_p99": 1500000,
+     "context_tau": 0.0743948767426551
+    },
+    {
+     "slot": 462895371,
+     "n_competing": 307,
+     "share_priority_fee": 0.41042345276872966,
+     "price_p50": 0,
+     "price_p90": 150000,
+     "price_p99": 5000050,
+     "context_tau": 0.0571452329421744
+    },
+    {
+     "slot": 462895793,
+     "n_competing": 287,
+     "share_priority_fee": 0.3693379790940767,
+     "price_p50": 0,
+     "price_p90": 510204,
+     "price_p99": 2175692,
+     "context_tau": -0.01162762780443967
+    },
+    {
+     "slot": 462896118,
+     "n_competing": 412,
+     "share_priority_fee": 0.4563106796116505,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1200000,
+     "context_tau": -0.05503477490371936
+    },
+    {
+     "slot": 462896169,
+     "n_competing": 307,
+     "share_priority_fee": 0.5472312703583062,
+     "price_p50": 10,
+     "price_p90": 1000000,
+     "price_p99": 1562133,
+     "context_tau": -0.027190390652788363
+    },
+    {
+     "slot": 462896170,
+     "n_competing": 300,
+     "share_priority_fee": 0.47,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1500001,
+     "context_tau": -0.03271326207036882
+    },
+    {
+     "slot": 462896171,
+     "n_competing": 283,
+     "share_priority_fee": 0.4134275618374558,
+     "price_p50": 0,
+     "price_p90": 200000,
+     "price_p99": 1000000,
+     "context_tau": -0.013617187167151042
+    },
+    {
+     "slot": 462907558,
+     "n_competing": 355,
+     "share_priority_fee": 0.4197183098591549,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000000,
+     "context_tau": 0.04681684408828751
+    },
+    {
+     "slot": 462907630,
+     "n_competing": 346,
+     "share_priority_fee": 0.36416184971098264,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000050,
+     "context_tau": -0.08991672520622036
+    },
+    {
+     "slot": 462907976,
+     "n_competing": 665,
+     "share_priority_fee": 0.39849624060150374,
+     "price_p50": 0,
+     "price_p90": 747916,
+     "price_p99": 2400000,
+     "context_tau": 0.04311952902042691
+    },
+    {
+     "slot": 462908037,
+     "n_competing": 350,
+     "share_priority_fee": 0.35714285714285715,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2500000,
+     "context_tau": -0.07823474905413344
+    },
+    {
+     "slot": 462908038,
+     "n_competing": 342,
+     "share_priority_fee": 0.3830409356725146,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1200000,
+     "context_tau": 0.022233026650257504
+    },
+    {
+     "slot": 462908039,
+     "n_competing": 338,
+     "share_priority_fee": 0.2988165680473373,
+     "price_p50": 0,
+     "price_p90": 510204,
+     "price_p99": 2000000,
+     "context_tau": 0.04288871383405384
+    },
+    {
+     "slot": 462908085,
+     "n_competing": 310,
+     "share_priority_fee": 0.3741935483870968,
+     "price_p50": 0,
+     "price_p90": 300001,
+     "price_p99": 1000000,
+     "context_tau": -0.012224865926044463
+    },
+    {
+     "slot": 462913607,
+     "n_competing": 424,
+     "share_priority_fee": 0.375,
+     "price_p50": 0,
+     "price_p90": 909090,
+     "price_p99": 2507456,
+     "context_tau": -0.04801189216515837
+    },
+    {
+     "slot": 462915075,
+     "n_competing": 328,
+     "share_priority_fee": 0.32926829268292684,
+     "price_p50": 0,
+     "price_p90": 118285,
+     "price_p99": 1000000,
+     "context_tau": -0.0005051863642088388
+    },
+    {
+     "slot": 462916613,
+     "n_competing": 428,
+     "share_priority_fee": 0.397196261682243,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000000,
+     "context_tau": -0.008404925839491711
+    },
+    {
+     "slot": 462916836,
+     "n_competing": 818,
+     "share_priority_fee": 0.5158924205378973,
+     "price_p50": 5000,
+     "price_p90": 1000000,
+     "price_p99": 3200000,
+     "context_tau": -0.00040421590943669634
+    },
+    {
+     "slot": 462917421,
+     "n_competing": 701,
+     "share_priority_fee": 0.41797432239657634,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 9351614,
+     "context_tau": -0.0008629840194223721
+    },
+    {
+     "slot": 462917724,
+     "n_competing": 487,
+     "share_priority_fee": 0.43121149897330596,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 5000050,
+     "context_tau": 0.012344601015136715
+    },
+    {
+     "slot": 462917725,
+     "n_competing": 403,
+     "share_priority_fee": 0.4119106699751861,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000000,
+     "context_tau": -0.07919954366303494
+    },
+    {
+     "slot": 462918046,
+     "n_competing": 357,
+     "share_priority_fee": 0.5042016806722689,
+     "price_p50": 6,
+     "price_p90": 542534,
+     "price_p99": 1827272,
+     "context_tau": 0.034905579245908314
+    }
+   ],
+   "n_blocks": 28,
+   "context_tau_mean": 0.0025441709500361362,
+   "context_tau_sd": 0.04903716982430444
+  },
+  "4SsMncJdtKiUcDtukkX15mqei7WiuQ9yvRtQrQW4reWC": {
+   "blocks": [
+    {
+     "slot": 462818864,
+     "n_competing": 211,
+     "share_priority_fee": 0.4312796208530806,
+     "price_p50": 0,
+     "price_p90": 139266,
+     "price_p99": 1000000,
+     "context_tau": -0.0388429637101643
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.0388429637101643,
+   "context_tau_sd": null
+  },
+  "WUNoB9YQXmXXRcJsjY1G8PfVag5aAfnyGmFd6YwJVwp": {
+   "blocks": [
+    {
+     "slot": 462818979,
+     "n_competing": 203,
+     "share_priority_fee": 0.3793103448275862,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 1000000,
+     "context_tau": -0.044735630811561566
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.044735630811561566,
+   "context_tau_sd": null
+  },
+  "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE": {
+   "blocks": [
+    {
+     "slot": 462819318,
+     "n_competing": 200,
+     "share_priority_fee": 0.435,
+     "price_p50": 0,
+     "price_p90": 85254,
+     "price_p99": 1500000,
+     "context_tau": -0.02085028761999798
+    },
+    {
+     "slot": 462820202,
+     "n_competing": 197,
+     "share_priority_fee": 0.43147208121827413,
+     "price_p50": 0,
+     "price_p90": 85349,
+     "price_p99": 1871553,
+     "context_tau": -0.04178650545561389
+    },
+    {
+     "slot": 462821784,
+     "n_competing": 620,
+     "share_priority_fee": 0.4290322580645161,
+     "price_p50": 0,
+     "price_p90": 345145,
+     "price_p99": 4037538,
+     "context_tau": -0.0007708807773985778
+    },
+    {
+     "slot": 462822263,
+     "n_competing": 184,
+     "share_priority_fee": 0.3423913043478261,
+     "price_p50": 0,
+     "price_p90": 55000,
+     "price_p99": 1000000,
+     "context_tau": 0.05963062897204196
+    },
+    {
+     "slot": 462822321,
+     "n_competing": 186,
+     "share_priority_fee": 0.40860215053763443,
+     "price_p50": 0,
+     "price_p90": 36653,
+     "price_p99": 2198808,
+     "context_tau": -0.05535477588634517
+    },
+    {
+     "slot": 462824220,
+     "n_competing": 369,
+     "share_priority_fee": 0.33604336043360433,
+     "price_p50": 0,
+     "price_p90": 85021,
+     "price_p99": 1000000,
+     "context_tau": 0.0812633832059133
+    },
+    {
+     "slot": 462824221,
+     "n_competing": 202,
+     "share_priority_fee": 0.400990099009901,
+     "price_p50": 0,
+     "price_p90": 85026,
+     "price_p99": 2000000,
+     "context_tau": -0.014670793017998063
+    },
+    {
+     "slot": 462826100,
+     "n_competing": 477,
+     "share_priority_fee": 0.33962264150943394,
+     "price_p50": 0,
+     "price_p90": 300000,
+     "price_p99": 1020408,
+     "context_tau": 0.04023163304237299
+    },
+    {
+     "slot": 462895466,
+     "n_competing": 347,
+     "share_priority_fee": 0.29394812680115273,
+     "price_p50": 0,
+     "price_p90": 30002,
+     "price_p99": 1020408,
+     "context_tau": 0.06607423482929417
+    },
+    {
+     "slot": 462896264,
+     "n_competing": 250,
+     "share_priority_fee": 0.452,
+     "price_p50": 0,
+     "price_p90": 200000,
+     "price_p99": 2000000,
+     "context_tau": 0.025485270802917064
+    },
+    {
+     "slot": 462896956,
+     "n_competing": 358,
+     "share_priority_fee": 0.4692737430167598,
+     "price_p50": 0,
+     "price_p90": 55432,
+     "price_p99": 20000050,
+     "context_tau": -0.027745468466834834
+    },
+    {
+     "slot": 462896957,
+     "n_competing": 292,
+     "share_priority_fee": 0.3835616438356164,
+     "price_p50": 0,
+     "price_p90": 33333,
+     "price_p99": 1000000,
+     "context_tau": 0.09621453601659026
+    },
+    {
+     "slot": 462898452,
+     "n_competing": 474,
+     "share_priority_fee": 0.5042194092827004,
+     "price_p50": 1,
+     "price_p90": 50000,
+     "price_p99": 3587520,
+     "context_tau": -0.03564598062740331
+    },
+    {
+     "slot": 462899807,
+     "n_competing": 519,
+     "share_priority_fee": 0.35645472061657035,
+     "price_p50": 0,
+     "price_p90": 102301,
+     "price_p99": 1020408,
+     "context_tau": -0.08076853442738827
+    },
+    {
+     "slot": 462904216,
+     "n_competing": 765,
+     "share_priority_fee": 0.4300653594771242,
+     "price_p50": 0,
+     "price_p90": 182763,
+     "price_p99": 2000050,
+     "context_tau": -0.018630486890285222
+    },
+    {
+     "slot": 462906749,
+     "n_competing": 556,
+     "share_priority_fee": 0.42805755395683454,
+     "price_p50": 0,
+     "price_p90": 29314,
+     "price_p99": 5000050,
+     "context_tau": 0.05753599665275428
+    },
+    {
+     "slot": 462908432,
+     "n_competing": 383,
+     "share_priority_fee": 0.2793733681462141,
+     "price_p50": 0,
+     "price_p90": 13310,
+     "price_p99": 3333333,
+     "context_tau": -0.02194791683191203
+    },
+    {
+     "slot": 462909985,
+     "n_competing": 233,
+     "share_priority_fee": 0.38197424892703863,
+     "price_p50": 0,
+     "price_p90": 205474,
+     "price_p99": 12803333,
+     "context_tau": -0.06621047192130744
+    },
+    {
+     "slot": 462909986,
+     "n_competing": 231,
+     "share_priority_fee": 0.3116883116883117,
+     "price_p50": 0,
+     "price_p90": 10100,
+     "price_p99": 1000000,
+     "context_tau": -0.005831842815940234
+    },
+    {
+     "slot": 462911013,
+     "n_competing": 403,
+     "share_priority_fee": 0.45161290322580644,
+     "price_p50": 0,
+     "price_p90": 33645,
+     "price_p99": 1000000,
+     "context_tau": -0.004214087246541496
+    },
+    {
+     "slot": 462911014,
+     "n_competing": 382,
+     "share_priority_fee": 0.42670157068062825,
+     "price_p50": 0,
+     "price_p90": 36653,
+     "price_p99": 1000000,
+     "context_tau": 0.10455716297696056
+    },
+    {
+     "slot": 462915796,
+     "n_competing": 557,
+     "share_priority_fee": 0.4829443447037702,
+     "price_p50": 0,
+     "price_p90": 65573,
+     "price_p99": 2022033,
+     "context_tau": 0.08309095726940847
+    },
+    {
+     "slot": 462915978,
+     "n_competing": 322,
+     "share_priority_fee": 0.40062111801242234,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 1433331,
+     "context_tau": -0.04451931285412783
+    },
+    {
+     "slot": 462916959,
+     "n_competing": 678,
+     "share_priority_fee": 0.28466076696165193,
+     "price_p50": 0,
+     "price_p90": 49443,
+     "price_p99": 1020408,
+     "context_tau": 0.015665039615986
+    },
+    {
+     "slot": 462918154,
+     "n_competing": 310,
+     "share_priority_fee": 0.45483870967741935,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 1000000,
+     "context_tau": -0.027987306170118777
+    }
+   ],
+   "n_blocks": 25,
+   "context_tau_mean": 0.006512567695001037,
+   "context_tau_sd": 0.05339979517171616
+  },
+  "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk": {
+   "blocks": [
+    {
+     "slot": 462819358,
+     "n_competing": 233,
+     "share_priority_fee": 0.4206008583690987,
+     "price_p50": 0,
+     "price_p90": 36653,
+     "price_p99": 1177524,
+     "context_tau": 0.025671570819247938
+    },
+    {
+     "slot": 462819441,
+     "n_competing": 237,
+     "share_priority_fee": 0.48945147679324896,
+     "price_p50": 0,
+     "price_p90": 85692,
+     "price_p99": 4075811,
+     "context_tau": -0.08071711142326794
+    },
+    {
+     "slot": 462819845,
+     "n_competing": 163,
+     "share_priority_fee": 0.4110429447852761,
+     "price_p50": 0,
+     "price_p90": 50154,
+     "price_p99": 10000000,
+     "context_tau": -0.09612159930971334
+    },
+    {
+     "slot": 462819942,
+     "n_competing": 232,
+     "share_priority_fee": 0.4525862068965517,
+     "price_p50": 0,
+     "price_p90": 87496,
+     "price_p99": 2557218,
+     "context_tau": -0.050418410809911954
+    },
+    {
+     "slot": 462820096,
+     "n_competing": 329,
+     "share_priority_fee": 0.4316109422492401,
+     "price_p50": 0,
+     "price_p90": 85320,
+     "price_p99": 5000050,
+     "context_tau": -0.10368319345591352
+    },
+    {
+     "slot": 462820288,
+     "n_competing": 264,
+     "share_priority_fee": 0.4583333333333333,
+     "price_p50": 0,
+     "price_p90": 85870,
+     "price_p99": 1632653,
+     "context_tau": -0.11130559566509415
+    },
+    {
+     "slot": 462820289,
+     "n_competing": 246,
+     "share_priority_fee": 0.43902439024390244,
+     "price_p50": 0,
+     "price_p90": 85169,
+     "price_p99": 2000000,
+     "context_tau": -0.11586542052828228
+    },
+    {
+     "slot": 462896334,
+     "n_competing": 426,
+     "share_priority_fee": 0.3004694835680751,
+     "price_p50": 0,
+     "price_p90": 32106,
+     "price_p99": 10161374,
+     "context_tau": 0.05595950568022745
+    },
+    {
+     "slot": 462896613,
+     "n_competing": 298,
+     "share_priority_fee": 0.40939597315436244,
+     "price_p50": 0,
+     "price_p90": 200000,
+     "price_p99": 8128540,
+     "context_tau": 0.030333473723067956
+    },
+    {
+     "slot": 462896773,
+     "n_competing": 218,
+     "share_priority_fee": 0.3669724770642202,
+     "price_p50": 0,
+     "price_p90": 150000,
+     "price_p99": 8000000,
+     "context_tau": -0.03742225882256362
+    },
+    {
+     "slot": 462896836,
+     "n_competing": 329,
+     "share_priority_fee": 0.3525835866261398,
+     "price_p50": 0,
+     "price_p90": 50572,
+     "price_p99": 1581027,
+     "context_tau": -0.087295169103727
+    },
+    {
+     "slot": 462896877,
+     "n_competing": 275,
+     "share_priority_fee": 0.4618181818181818,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 12500000,
+     "context_tau": -0.0264302012527428
+    },
+    {
+     "slot": 462897255,
+     "n_competing": 564,
+     "share_priority_fee": 0.4237588652482269,
+     "price_p50": 0,
+     "price_p90": 30014,
+     "price_p99": 12500000,
+     "context_tau": 0.1126342339475471
+    },
+    {
+     "slot": 462899958,
+     "n_competing": 587,
+     "share_priority_fee": 0.24190800681431004,
+     "price_p50": 0,
+     "price_p90": 30000,
+     "price_p99": 6463122,
+     "context_tau": -0.08560036416776838
+    },
+    {
+     "slot": 462905094,
+     "n_competing": 532,
+     "share_priority_fee": 0.2744360902255639,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 2000000,
+     "context_tau": -0.0046286607912529336
+    },
+    {
+     "slot": 462905248,
+     "n_competing": 457,
+     "share_priority_fee": 0.5032822757111597,
+     "price_p50": 1,
+     "price_p90": 132532,
+     "price_p99": 6978909,
+     "context_tau": -0.0590359505821718
+    },
+    {
+     "slot": 462905288,
+     "n_competing": 296,
+     "share_priority_fee": 0.30067567567567566,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 12500000,
+     "context_tau": -0.06990230816431343
+    },
+    {
+     "slot": 462905412,
+     "n_competing": 706,
+     "share_priority_fee": 0.3286118980169972,
+     "price_p50": 0,
+     "price_p90": 50101,
+     "price_p99": 1632653,
+     "context_tau": -0.058174331889502016
+    },
+    {
+     "slot": 462905917,
+     "n_competing": 455,
+     "share_priority_fee": 0.4,
+     "price_p50": 0,
+     "price_p90": 150000,
+     "price_p99": 2216099,
+     "context_tau": -0.0616552871488611
+    },
+    {
+     "slot": 462905918,
+     "n_competing": 707,
+     "share_priority_fee": 0.2814710042432815,
+     "price_p50": 0,
+     "price_p90": 50218,
+     "price_p99": 3265306,
+     "context_tau": -0.07794822625552658
+    },
+    {
+     "slot": 462906053,
+     "n_competing": 445,
+     "share_priority_fee": 0.2876404494382023,
+     "price_p50": 0,
+     "price_p90": 333333,
+     "price_p99": 4000000,
+     "context_tau": -0.0015590590330874484
+    },
+    {
+     "slot": 462914736,
+     "n_competing": 619,
+     "share_priority_fee": 0.3069466882067851,
+     "price_p50": 0,
+     "price_p90": 20000,
+     "price_p99": 1222235,
+     "context_tau": -0.06452487715626364
+    },
+    {
+     "slot": 462914966,
+     "n_competing": 302,
+     "share_priority_fee": 0.32781456953642385,
+     "price_p50": 0,
+     "price_p90": 20000,
+     "price_p99": 7500000,
+     "context_tau": -0.004974869782530493
+    },
+    {
+     "slot": 462915488,
+     "n_competing": 597,
+     "share_priority_fee": 0.23618090452261306,
+     "price_p50": 0,
+     "price_p90": 12510,
+     "price_p99": 1500000,
+     "context_tau": 0.017842755250082172
+    },
+    {
+     "slot": 462915696,
+     "n_competing": 457,
+     "share_priority_fee": 0.37199124726477023,
+     "price_p50": 0,
+     "price_p90": 66597,
+     "price_p99": 5000050,
+     "context_tau": 0.01547900682022405
+    },
+    {
+     "slot": 462915697,
+     "n_competing": 586,
+     "share_priority_fee": 0.3122866894197952,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 3265306,
+     "context_tau": 0.02220092977391107
+    },
+    {
+     "slot": 462920378,
+     "n_competing": 305,
+     "share_priority_fee": 0.31475409836065577,
+     "price_p50": 0,
+     "price_p90": 20000,
+     "price_p99": 9934827,
+     "context_tau": 0.025393441626835392
+    }
+   ],
+   "n_blocks": 27,
+   "context_tau_mean": -0.03302770287782782,
+   "context_tau_sd": 0.05797644753092487
+  },
+  "9UM8wQ8F5oMiRcP5YdqD6Lr4krpBWCD8LtgQYoisJd9i": {
+   "blocks": [
+    {
+     "slot": 462819638,
+     "n_competing": 185,
+     "share_priority_fee": 0.41621621621621624,
+     "price_p50": 0,
+     "price_p90": 55000,
+     "price_p99": 12500000,
+     "context_tau": -0.04057132812780988
+    },
+    {
+     "slot": 462896674,
+     "n_competing": 320,
+     "share_priority_fee": 0.34375,
+     "price_p50": 0,
+     "price_p90": 118081,
+     "price_p99": 4430097,
+     "context_tau": 0.022923025789973215
+    },
+    {
+     "slot": 462915907,
+     "n_competing": 569,
+     "share_priority_fee": 0.34973637961335674,
+     "price_p50": 0,
+     "price_p90": 957854,
+     "price_p99": 12500000,
+     "context_tau": 0.04861930879656695
+    },
+    {
+     "slot": 462917143,
+     "n_competing": 450,
+     "share_priority_fee": 0.2688888888888889,
+     "price_p50": 0,
+     "price_p90": 726992,
+     "price_p99": 51471694,
+     "context_tau": -0.05615852180935008
+    },
+    {
+     "slot": 462923479,
+     "n_competing": 482,
+     "share_priority_fee": 0.37344398340248963,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 6226590,
+     "context_tau": -0.12029679010295642
+    }
+   ],
+   "n_blocks": 5,
+   "context_tau_mean": -0.029096861090715243,
+   "context_tau_sd": 0.06694642563181069
+  },
+  "GSTampk6BJRKSDkzhaMM49R7qRx98MTPYYWvKbp83XKc": {
+   "blocks": [
+    {
+     "slot": 462819746,
+     "n_competing": 197,
+     "share_priority_fee": 0.39593908629441626,
+     "price_p50": 0,
+     "price_p90": 100763,
+     "price_p99": 1000000,
+     "context_tau": -0.021861416716986302
+    },
+    {
+     "slot": 462819747,
+     "n_competing": 287,
+     "share_priority_fee": 0.41114982578397213,
+     "price_p50": 0,
+     "price_p90": 300000,
+     "price_p99": 2000000,
+     "context_tau": 0.014297577157153822
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.00378191977991624,
+   "context_tau_sd": 0.025568269769287312
+  },
+  "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY": {
+   "blocks": [
+    {
+     "slot": 462819998,
+     "n_competing": 274,
+     "share_priority_fee": 0.35036496350364965,
+     "price_p50": 0,
+     "price_p90": 30000,
+     "price_p99": 1000000,
+     "context_tau": -0.0449852964079432
+    },
+    {
+     "slot": 462821370,
+     "n_competing": 310,
+     "share_priority_fee": 0.34838709677419355,
+     "price_p50": 0,
+     "price_p90": 63760,
+     "price_p99": 1000000,
+     "context_tau": -0.11096479749233666
+    },
+    {
+     "slot": 462821491,
+     "n_competing": 306,
+     "share_priority_fee": 0.4117647058823529,
+     "price_p50": 0,
+     "price_p90": 950000,
+     "price_p99": 20000050,
+     "context_tau": -0.059786861214875836
+    },
+    {
+     "slot": 462821824,
+     "n_competing": 572,
+     "share_priority_fee": 0.2097902097902098,
+     "price_p50": 0,
+     "price_p90": 1600,
+     "price_p99": 1500000,
+     "context_tau": -0.060963967857101016
+    },
+    {
+     "slot": 462821825,
+     "n_competing": 387,
+     "share_priority_fee": 0.3023255813953488,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 2000000,
+     "context_tau": -0.10760972217820407
+    },
+    {
+     "slot": 462833053,
+     "n_competing": 307,
+     "share_priority_fee": 0.43322475570032576,
+     "price_p50": 0,
+     "price_p90": 33333,
+     "price_p99": 1538727,
+     "context_tau": -0.09642856906063672
+    },
+    {
+     "slot": 462897014,
+     "n_competing": 372,
+     "share_priority_fee": 0.31989247311827956,
+     "price_p50": 0,
+     "price_p90": 550000,
+     "price_p99": 20000050,
+     "context_tau": 0.047838623782466894
+    },
+    {
+     "slot": 462897416,
+     "n_competing": 665,
+     "share_priority_fee": 0.3819548872180451,
+     "price_p50": 0,
+     "price_p90": 25000,
+     "price_p99": 1000000,
+     "context_tau": 0.0019160467960646402
+    },
+    {
+     "slot": 462897604,
+     "n_competing": 601,
+     "share_priority_fee": 0.3793677204658902,
+     "price_p50": 0,
+     "price_p90": 85655,
+     "price_p99": 3363356,
+     "context_tau": -0.06481181415613474
+    },
+    {
+     "slot": 462897937,
+     "n_competing": 787,
+     "share_priority_fee": 0.2846251588310038,
+     "price_p50": 0,
+     "price_p90": 63451,
+     "price_p99": 2000050,
+     "context_tau": 0.009714236530389442
+    },
+    {
+     "slot": 462906548,
+     "n_competing": 1287,
+     "share_priority_fee": 0.6239316239316239,
+     "price_p50": 1,
+     "price_p90": 112000,
+     "price_p99": 800000,
+     "context_tau": 0.10516784133905466
+    },
+    {
+     "slot": 462906590,
+     "n_competing": 477,
+     "share_priority_fee": 0.2809224318658281,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 1556000,
+     "context_tau": 0.05849143168233322
+    },
+    {
+     "slot": 462906591,
+     "n_competing": 638,
+     "share_priority_fee": 0.27586206896551724,
+     "price_p50": 0,
+     "price_p90": 30312,
+     "price_p99": 1020408,
+     "context_tau": 0.13729473364172834
+    },
+    {
+     "slot": 462906669,
+     "n_competing": 326,
+     "share_priority_fee": 0.254601226993865,
+     "price_p50": 0,
+     "price_p90": 10100,
+     "price_p99": 1000000,
+     "context_tau": 0.08222506563437494
+    },
+    {
+     "slot": 462907195,
+     "n_competing": 464,
+     "share_priority_fee": 0.40301724137931033,
+     "price_p50": 0,
+     "price_p90": 29102,
+     "price_p99": 624995,
+     "context_tau": -0.03375811755564182
+    },
+    {
+     "slot": 462907270,
+     "n_competing": 537,
+     "share_priority_fee": 0.38733705772811916,
+     "price_p50": 0,
+     "price_p90": 85185,
+     "price_p99": 1020408,
+     "context_tau": 0.03619366928959576
+    },
+    {
+     "slot": 462907271,
+     "n_competing": 790,
+     "share_priority_fee": 0.31772151898734174,
+     "price_p50": 0,
+     "price_p90": 85696,
+     "price_p99": 2000050,
+     "context_tau": -0.06975290656453048
+    },
+    {
+     "slot": 462917814,
+     "n_competing": 886,
+     "share_priority_fee": 0.2686230248306998,
+     "price_p50": 0,
+     "price_p90": 23751,
+     "price_p99": 3000000,
+     "context_tau": -0.019888636232352482
+    },
+    {
+     "slot": 462918232,
+     "n_competing": 613,
+     "share_priority_fee": 0.30505709624796085,
+     "price_p50": 0,
+     "price_p90": 30148,
+     "price_p99": 2000000,
+     "context_tau": 0.1833231225165134
+    },
+    {
+     "slot": 462918769,
+     "n_competing": 476,
+     "share_priority_fee": 0.24789915966386555,
+     "price_p50": 0,
+     "price_p90": 11579,
+     "price_p99": 2000000,
+     "context_tau": 0.0277585803012942
+    },
+    {
+     "slot": 462918770,
+     "n_competing": 464,
+     "share_priority_fee": 0.30387931034482757,
+     "price_p50": 0,
+     "price_p90": 43939,
+     "price_p99": 1500001,
+     "context_tau": 0.01957692224238337
+    },
+    {
+     "slot": 462918771,
+     "n_competing": 539,
+     "share_priority_fee": 0.2894248608534323,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 1000000,
+     "context_tau": -0.010913725263041962
+    },
+    {
+     "slot": 462919236,
+     "n_competing": 514,
+     "share_priority_fee": 0.2529182879377432,
+     "price_p50": 0,
+     "price_p90": 29168,
+     "price_p99": 1000000,
+     "context_tau": 0.039438612315314946
+    },
+    {
+     "slot": 462924453,
+     "n_competing": 613,
+     "share_priority_fee": 0.3539967373572594,
+     "price_p50": 0,
+     "price_p90": 30679,
+     "price_p99": 1000000,
+     "context_tau": -0.0002566020556022887
+    }
+   ],
+   "n_blocks": 24,
+   "context_tau_mean": 0.0028674112513796886,
+   "context_tau_sd": 0.07608198075377429
+  },
+  "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b": {
+   "blocks": [
+    {
+     "slot": 462820141,
+     "n_competing": 254,
+     "share_priority_fee": 0.4015748031496063,
+     "price_p50": 0,
+     "price_p90": 85362,
+     "price_p99": 1632653,
+     "context_tau": -0.043826829167248886
+    },
+    {
+     "slot": 462820599,
+     "n_competing": 250,
+     "share_priority_fee": 0.44,
+     "price_p50": 0,
+     "price_p90": 100763,
+     "price_p99": 3000007,
+     "context_tau": -0.022037142812713448
+    },
+    {
+     "slot": 462821693,
+     "n_competing": 238,
+     "share_priority_fee": 0.3445378151260504,
+     "price_p50": 0,
+     "price_p90": 85617,
+     "price_p99": 2500000,
+     "context_tau": 0.06381684376903954
+    },
+    {
+     "slot": 462822468,
+     "n_competing": 170,
+     "share_priority_fee": 0.3176470588235294,
+     "price_p50": 0,
+     "price_p90": 30000,
+     "price_p99": 1581027,
+     "context_tau": -0.14774282909021114
+    },
+    {
+     "slot": 462832838,
+     "n_competing": 252,
+     "share_priority_fee": 0.42063492063492064,
+     "price_p50": 0,
+     "price_p90": 55555,
+     "price_p99": 1500000,
+     "context_tau": 0.052750883918558346
+    },
+    {
+     "slot": 462899119,
+     "n_competing": 498,
+     "share_priority_fee": 0.3192771084337349,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 2000000,
+     "context_tau": -0.0809111973228411
+    },
+    {
+     "slot": 462900205,
+     "n_competing": 294,
+     "share_priority_fee": 0.282312925170068,
+     "price_p50": 0,
+     "price_p90": 36653,
+     "price_p99": 20000050,
+     "context_tau": -0.04019482782100204
+    },
+    {
+     "slot": 462900273,
+     "n_competing": 499,
+     "share_priority_fee": 0.2605210420841683,
+     "price_p50": 0,
+     "price_p90": 505494,
+     "price_p99": 13500000,
+     "context_tau": 0.04537049417027592
+    },
+    {
+     "slot": 462906861,
+     "n_competing": 376,
+     "share_priority_fee": 0.39361702127659576,
+     "price_p50": 0,
+     "price_p90": 526315,
+     "price_p99": 3265306,
+     "context_tau": -0.04622940817238544
+    },
+    {
+     "slot": 462906900,
+     "n_competing": 419,
+     "share_priority_fee": 0.3126491646778043,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 526315,
+     "context_tau": -0.03202403736095063
+    },
+    {
+     "slot": 462907837,
+     "n_competing": 468,
+     "share_priority_fee": 0.2863247863247863,
+     "price_p50": 0,
+     "price_p90": 60000,
+     "price_p99": 34113333,
+     "context_tau": 0.0373695765526526
+    },
+    {
+     "slot": 462908197,
+     "n_competing": 377,
+     "share_priority_fee": 0.21750663129973474,
+     "price_p50": 0,
+     "price_p90": 12000,
+     "price_p99": 2976994,
+     "context_tau": 0.061172987620640135
+    },
+    {
+     "slot": 462908310,
+     "n_competing": 400,
+     "share_priority_fee": 0.33,
+     "price_p50": 0,
+     "price_p90": 48837,
+     "price_p99": 20000050,
+     "context_tau": 0.050725337036984126
+    },
+    {
+     "slot": 462908311,
+     "n_competing": 425,
+     "share_priority_fee": 0.27058823529411763,
+     "price_p50": 0,
+     "price_p90": 33333,
+     "price_p99": 20000050,
+     "context_tau": -0.08513808789646563
+    },
+    {
+     "slot": 462915695,
+     "n_competing": 470,
+     "share_priority_fee": 0.20851063829787234,
+     "price_p50": 0,
+     "price_p90": 8001,
+     "price_p99": 2000050,
+     "context_tau": 0.003931995990758149
+    },
+    {
+     "slot": 462916679,
+     "n_competing": 344,
+     "share_priority_fee": 0.32558139534883723,
+     "price_p50": 0,
+     "price_p90": 35000,
+     "price_p99": 1500000,
+     "context_tau": 0.040258325347275546
+    },
+    {
+     "slot": 462916876,
+     "n_competing": 779,
+     "share_priority_fee": 0.4326059050064185,
+     "price_p50": 0,
+     "price_p90": 57755,
+     "price_p99": 3265306,
+     "context_tau": 0.18954653332635385
+    },
+    {
+     "slot": 462918088,
+     "n_competing": 365,
+     "share_priority_fee": 0.34794520547945207,
+     "price_p50": 0,
+     "price_p90": 300000,
+     "price_p99": 4186923,
+     "context_tau": 0.005735079906540994
+    },
+    {
+     "slot": 462918288,
+     "n_competing": 633,
+     "share_priority_fee": 0.3380726698262243,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 1609748,
+     "context_tau": -0.054240416122323915
+    },
+    {
+     "slot": 462918289,
+     "n_competing": 380,
+     "share_priority_fee": 0.3131578947368421,
+     "price_p50": 0,
+     "price_p90": 55000,
+     "price_p99": 1100000,
+     "context_tau": 0.00546478174829718
+    },
+    {
+     "slot": 462918425,
+     "n_competing": 415,
+     "share_priority_fee": 0.3614457831325301,
+     "price_p50": 0,
+     "price_p90": 46853,
+     "price_p99": 5000000,
+     "context_tau": -0.020789414834119266
+    }
+   ],
+   "n_blocks": 21,
+   "context_tau_mean": -0.0008091119625183382,
+   "context_tau_sd": 0.07085920022232849
+  },
+  "2GUnfxZavKoPfS9s3VSEjaWDzB3vNf5RojUhprCS1rSx": {
+   "blocks": [
+    {
+     "slot": 462820239,
+     "n_competing": 376,
+     "share_priority_fee": 0.5159574468085106,
+     "price_p50": 5,
+     "price_p90": 954768,
+     "price_p99": 4500005,
+     "context_tau": 0.023297391144925156
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.023297391144925156,
+   "context_tau_sd": null
+  },
+  "HbidP4hpQdwhkzrxder3x3VNPt6DQnE25gFG46napD2p": {
+   "blocks": [
+    {
+     "slot": 462820287,
+     "n_competing": 328,
+     "share_priority_fee": 0.5548780487804879,
+     "price_p50": 200,
+     "price_p90": 1000000,
+     "price_p99": 1607426,
+     "context_tau": 0.04655429378301216
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.04655429378301216,
+   "context_tau_sd": null
+  },
+  "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM": {
+   "blocks": [
+    {
+     "slot": 462820431,
+     "n_competing": 309,
+     "share_priority_fee": 0.5307443365695793,
+     "price_p50": 7,
+     "price_p90": 85525,
+     "price_p99": 1500000,
+     "context_tau": -0.059129566182276404
+    },
+    {
+     "slot": 462898747,
+     "n_competing": 567,
+     "share_priority_fee": 0.26631393298059963,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 20000050,
+     "context_tau": -0.048443815667625345
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.05378669092495088,
+   "context_tau_sd": 0.007555966650977404
+  },
+  "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP": {
+   "blocks": [
+    {
+     "slot": 462820489,
+     "n_competing": 179,
+     "share_priority_fee": 0.5083798882681564,
+     "price_p50": 5,
+     "price_p90": 1000000,
+     "price_p99": 12500000,
+     "context_tau": -0.026098740639303952
+    },
+    {
+     "slot": 462820490,
+     "n_competing": 232,
+     "share_priority_fee": 0.5344827586206896,
+     "price_p50": 7,
+     "price_p90": 1000000,
+     "price_p99": 1000000,
+     "context_tau": 0.0611660116143766
+    },
+    {
+     "slot": 462820792,
+     "n_competing": 222,
+     "share_priority_fee": 0.4954954954954955,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 10000000,
+     "context_tau": 0.16820533422891695
+    },
+    {
+     "slot": 462821125,
+     "n_competing": 190,
+     "share_priority_fee": 0.4842105263157895,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000000,
+     "context_tau": 0.10414982401517302
+    },
+    {
+     "slot": 462822411,
+     "n_competing": 226,
+     "share_priority_fee": 0.29646017699115046,
+     "price_p50": 0,
+     "price_p90": 800000,
+     "price_p99": 1000000,
+     "context_tau": 0.16309983437523662
+    },
+    {
+     "slot": 462822556,
+     "n_competing": 220,
+     "share_priority_fee": 0.41363636363636364,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000000,
+     "context_tau": 0.10612808647303157
+    },
+    {
+     "slot": 462822557,
+     "n_competing": 234,
+     "share_priority_fee": 0.3888888888888889,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1000000,
+     "context_tau": -0.051528517762868695
+    },
+    {
+     "slot": 462822558,
+     "n_competing": 165,
+     "share_priority_fee": 0.38181818181818183,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000000,
+     "context_tau": 0.016645801153538163
+    },
+    {
+     "slot": 462822796,
+     "n_competing": 369,
+     "share_priority_fee": 0.37398373983739835,
+     "price_p50": 0,
+     "price_p90": 950000,
+     "price_p99": 1000000,
+     "context_tau": -0.025077919490285996
+    },
+    {
+     "slot": 462830467,
+     "n_competing": 223,
+     "share_priority_fee": 0.42152466367713004,
+     "price_p50": 0,
+     "price_p90": 346501,
+     "price_p99": 2000000,
+     "context_tau": -0.05007161995137221
+    },
+    {
+     "slot": 462832349,
+     "n_competing": 186,
+     "share_priority_fee": 0.478494623655914,
+     "price_p50": 0,
+     "price_p90": 192382,
+     "price_p99": 1000000,
+     "context_tau": -0.017107706336511576
+    },
+    {
+     "slot": 462898346,
+     "n_competing": 1147,
+     "share_priority_fee": 0.42545771578029645,
+     "price_p50": 0,
+     "price_p90": 200000,
+     "price_p99": 20000050,
+     "context_tau": 0.10772050672176259
+    },
+    {
+     "slot": 462899156,
+     "n_competing": 601,
+     "share_priority_fee": 0.41430948419301167,
+     "price_p50": 0,
+     "price_p90": 950000,
+     "price_p99": 2000000,
+     "context_tau": 0.13544329373468414
+    },
+    {
+     "slot": 462899408,
+     "n_competing": 315,
+     "share_priority_fee": 0.4666666666666667,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1553728,
+     "context_tau": 0.1037127372400128
+    },
+    {
+     "slot": 462899409,
+     "n_competing": 373,
+     "share_priority_fee": 0.4691689008042895,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 13500000,
+     "context_tau": -0.002421509583455181
+    },
+    {
+     "slot": 462905529,
+     "n_competing": 339,
+     "share_priority_fee": 0.30973451327433627,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1911764,
+     "context_tau": 0.05790441708610582
+    },
+    {
+     "slot": 462908926,
+     "n_competing": 352,
+     "share_priority_fee": 0.36363636363636365,
+     "price_p50": 0,
+     "price_p90": 365217,
+     "price_p99": 2000000,
+     "context_tau": 0.05549951377699858
+    },
+    {
+     "slot": 462908927,
+     "n_competing": 334,
+     "share_priority_fee": 0.4161676646706587,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 3333333,
+     "context_tau": -0.017317261810934032
+    },
+    {
+     "slot": 462910102,
+     "n_competing": 395,
+     "share_priority_fee": 0.4278481012658228,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2284648,
+     "context_tau": -0.006341288464955923
+    },
+    {
+     "slot": 462912815,
+     "n_competing": 448,
+     "share_priority_fee": 0.35714285714285715,
+     "price_p50": 0,
+     "price_p90": 510204,
+     "price_p99": 2000000,
+     "context_tau": -0.04075407216882615
+    },
+    {
+     "slot": 462912961,
+     "n_competing": 407,
+     "share_priority_fee": 0.32432432432432434,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 9998313,
+     "context_tau": -0.0038848689131695015
+    },
+    {
+     "slot": 462914614,
+     "n_competing": 417,
+     "share_priority_fee": 0.34532374100719426,
+     "price_p50": 0,
+     "price_p90": 200000,
+     "price_p99": 2000000,
+     "context_tau": 0.03741765465061172
+    },
+    {
+     "slot": 462915595,
+     "n_competing": 361,
+     "share_priority_fee": 0.3878116343490305,
+     "price_p50": 0,
+     "price_p90": 335130,
+     "price_p99": 5000050,
+     "context_tau": 0.10480805842985721
+    },
+    {
+     "slot": 462915870,
+     "n_competing": 309,
+     "share_priority_fee": 0.36893203883495146,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000050,
+     "context_tau": -0.03771133782329599
+    },
+    {
+     "slot": 462915871,
+     "n_competing": 318,
+     "share_priority_fee": 0.3867924528301887,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000000,
+     "context_tau": 0.0911353739162593
+    },
+    {
+     "slot": 462916268,
+     "n_competing": 392,
+     "share_priority_fee": 0.42346938775510207,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 13500000,
+     "context_tau": 0.1602238853121042
+    }
+   ],
+   "n_blocks": 26,
+   "context_tau_mean": 0.04595944191475731,
+   "context_tau_sd": 0.0720593242981105
+  },
+  "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS": {
+   "blocks": [
+    {
+     "slot": 462820873,
+     "n_competing": 289,
+     "share_priority_fee": 0.46366782006920415,
+     "price_p50": 0,
+     "price_p90": 173517,
+     "price_p99": 4000000,
+     "context_tau": 0.05083162425824982
+    },
+    {
+     "slot": 462825641,
+     "n_competing": 228,
+     "share_priority_fee": 0.2807017543859649,
+     "price_p50": 0,
+     "price_p90": 30000,
+     "price_p99": 2000000,
+     "context_tau": -0.10804829490215116
+    },
+    {
+     "slot": 462825642,
+     "n_competing": 237,
+     "share_priority_fee": 0.3291139240506329,
+     "price_p50": 0,
+     "price_p90": 16668,
+     "price_p99": 1500000,
+     "context_tau": 0.06006632784410839
+    },
+    {
+     "slot": 462829508,
+     "n_competing": 209,
+     "share_priority_fee": 0.45454545454545453,
+     "price_p50": 0,
+     "price_p90": 36653,
+     "price_p99": 1000000,
+     "context_tau": -0.014991899059185266
+    },
+    {
+     "slot": 462898006,
+     "n_competing": 273,
+     "share_priority_fee": 0.47619047619047616,
+     "price_p50": 0,
+     "price_p90": 110000,
+     "price_p99": 1000000,
+     "context_tau": 0.045675862409931725
+    },
+    {
+     "slot": 462898900,
+     "n_competing": 796,
+     "share_priority_fee": 0.31532663316582915,
+     "price_p50": 0,
+     "price_p90": 30925,
+     "price_p99": 2000050,
+     "context_tau": 0.13663989910050564
+    },
+    {
+     "slot": 462902289,
+     "n_competing": 508,
+     "share_priority_fee": 0.4251968503937008,
+     "price_p50": 0,
+     "price_p90": 500000,
+     "price_p99": 2000050,
+     "context_tau": -0.0868921187300158
+    },
+    {
+     "slot": 462902290,
+     "n_competing": 405,
+     "share_priority_fee": 0.49135802469135803,
+     "price_p50": 0,
+     "price_p90": 988142,
+     "price_p99": 10000000,
+     "context_tau": 0.020158377925627805
+    },
+    {
+     "slot": 462902842,
+     "n_competing": 292,
+     "share_priority_fee": 0.2705479452054795,
+     "price_p50": 0,
+     "price_p90": 66667,
+     "price_p99": 7558181,
+     "context_tau": -0.016013339309589366
+    },
+    {
+     "slot": 462908144,
+     "n_competing": 355,
+     "share_priority_fee": 0.2704225352112676,
+     "price_p50": 0,
+     "price_p90": 10100,
+     "price_p99": 2000050,
+     "context_tau": 0.058770313597241344
+    },
+    {
+     "slot": 462912068,
+     "n_competing": 644,
+     "share_priority_fee": 0.4363354037267081,
+     "price_p50": 0,
+     "price_p90": 85709,
+     "price_p99": 3000007,
+     "context_tau": -0.013429419186430237
+    },
+    {
+     "slot": 462912069,
+     "n_competing": 427,
+     "share_priority_fee": 0.4379391100702576,
+     "price_p50": 0,
+     "price_p90": 80000,
+     "price_p99": 1020408,
+     "context_tau": -0.05407263105309025
+    },
+    {
+     "slot": 462913368,
+     "n_competing": 361,
+     "share_priority_fee": 0.28254847645429365,
+     "price_p50": 0,
+     "price_p90": 39852,
+     "price_p99": 2000000,
+     "context_tau": -0.06853869544768071
+    },
+    {
+     "slot": 462918000,
+     "n_competing": 547,
+     "share_priority_fee": 0.25045703839122485,
+     "price_p50": 0,
+     "price_p90": 18888,
+     "price_p99": 1000000,
+     "context_tau": -0.0014269820214627925
+    },
+    {
+     "slot": 462918001,
+     "n_competing": 405,
+     "share_priority_fee": 0.2938271604938272,
+     "price_p50": 0,
+     "price_p90": 73537,
+     "price_p99": 1368121,
+     "context_tau": 0.023459776616638228
+    },
+    {
+     "slot": 462919083,
+     "n_competing": 271,
+     "share_priority_fee": 0.26199261992619927,
+     "price_p50": 0,
+     "price_p90": 13253,
+     "price_p99": 2000050,
+     "context_tau": -0.02278886661048426
+    },
+    {
+     "slot": 462920057,
+     "n_competing": 306,
+     "share_priority_fee": 0.27124183006535946,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 5000050,
+     "context_tau": -0.0493469289883579
+    },
+    {
+     "slot": 462922339,
+     "n_competing": 359,
+     "share_priority_fee": 0.4818941504178273,
+     "price_p50": 0,
+     "price_p90": 408868,
+     "price_p99": 10000000,
+     "context_tau": 0.19712335566370645
+    },
+    {
+     "slot": 462923137,
+     "n_competing": 269,
+     "share_priority_fee": 0.34572490706319703,
+     "price_p50": 0,
+     "price_p90": 42228,
+     "price_p99": 1297826,
+     "context_tau": -0.02343963531135071
+    },
+    {
+     "slot": 462924012,
+     "n_competing": 828,
+     "share_priority_fee": 0.5241545893719807,
+     "price_p50": 10,
+     "price_p90": 61385,
+     "price_p99": 1932786,
+     "context_tau": -0.0213700953995491
+    }
+   ],
+   "n_blocks": 20,
+   "context_tau_mean": 0.005618331569833093,
+   "context_tau_sd": 0.0729295749475913
+  },
+  "3RXKQBRv7xKTQeNdLSPhCiD4QcUfxEQ12rtgUkMf5LnS": {
+   "blocks": [
+    {
+     "slot": 462821026,
+     "n_competing": 213,
+     "share_priority_fee": 0.41784037558685444,
+     "price_p50": 0,
+     "price_p90": 103762,
+     "price_p99": 1000000,
+     "context_tau": -0.018186627457047643
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.018186627457047643,
+   "context_tau_sd": null
+  },
+  "RAuSNo4DRjo83uGhdgg4fPqYBVszi1KsrQGpqcPHK1D": {
+   "blocks": [
+    {
+     "slot": 462821275,
+     "n_competing": 182,
+     "share_priority_fee": 0.2802197802197802,
+     "price_p50": 0,
+     "price_p90": 30056,
+     "price_p99": 1500035,
+     "context_tau": 0.021479296045619222
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.021479296045619222,
+   "context_tau_sd": null
+  },
+  "mXv18ov8qCiQGs3ieoen981LdgZzYJjJak6reK6fpNC": {
+   "blocks": [
+    {
+     "slot": 462821276,
+     "n_competing": 460,
+     "share_priority_fee": 0.40652173913043477,
+     "price_p50": 0,
+     "price_p90": 85469,
+     "price_p99": 2000000,
+     "context_tau": 0.06330934291824561
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.06330934291824561,
+   "context_tau_sd": null
+  },
+  "AHNX2YiD8Sb36yLA7bjx1bNs4jqCdDt3KKrwMZJMVedb": {
+   "blocks": [
+    {
+     "slot": 462821583,
+     "n_competing": 294,
+     "share_priority_fee": 0.3163265306122449,
+     "price_p50": 0,
+     "price_p90": 60000,
+     "price_p99": 2000000,
+     "context_tau": 0.0013093643935360494
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.0013093643935360494,
+   "context_tau_sd": null
+  },
+  "CfgRXmp1LEYr97EaT2RyoL2cSvtWgJh52Bes89RxVSoW": {
+   "blocks": [
+    {
+     "slot": 462821909,
+     "n_competing": 323,
+     "share_priority_fee": 0.3498452012383901,
+     "price_p50": 0,
+     "price_p90": 999134,
+     "price_p99": 3041547,
+     "context_tau": 0.0555483222523373
+    },
+    {
+     "slot": 462821910,
+     "n_competing": 229,
+     "share_priority_fee": 0.4497816593886463,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1500000,
+     "context_tau": -0.015556979681957125
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": 0.019995671285190086,
+   "context_tau_sd": 0.05027904117605652
+  },
+  "CAo1dCGYrB6NhHh5xb1cGjUiu86iyCfMTENxgHumSve4": {
+   "blocks": [
+    {
+     "slot": 462822139,
+     "n_competing": 201,
+     "share_priority_fee": 0.35323383084577115,
+     "price_p50": 0,
+     "price_p90": 300000,
+     "price_p99": 2479432,
+     "context_tau": -0.14578392643521815
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.14578392643521815,
+   "context_tau_sd": null
+  },
+  "6aDs9tUm2gErcPn2c1TZnp5cu2bQV9BzyuwW4baWQYd4": {
+   "blocks": [
+    {
+     "slot": 462824379,
+     "n_competing": 221,
+     "share_priority_fee": 0.4479638009049774,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 1000000,
+     "context_tau": 0.1432312869813908
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.1432312869813908,
+   "context_tau_sd": null
+  },
+  "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL": {
+   "blocks": [
+    {
+     "slot": 462825091,
+     "n_competing": 267,
+     "share_priority_fee": 0.38202247191011235,
+     "price_p50": 0,
+     "price_p90": 55000,
+     "price_p99": 2000000,
+     "context_tau": -0.1245094452702259
+    },
+    {
+     "slot": 462896565,
+     "n_competing": 242,
+     "share_priority_fee": 0.34710743801652894,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 2000050,
+     "context_tau": 0.06850533942211649
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.0280020529240547,
+   "context_tau_sd": 0.13648206312521674
+  },
+  "GnC339vkyXRm1jRX69dt9mapPPu2LbzXfSDoxc91qta6": {
+   "blocks": [
+    {
+     "slot": 462828585,
+     "n_competing": 291,
+     "share_priority_fee": 0.4639175257731959,
+     "price_p50": 0,
+     "price_p90": 33334,
+     "price_p99": 1500000,
+     "context_tau": -0.07293167231596957
+    },
+    {
+     "slot": 462828586,
+     "n_competing": 296,
+     "share_priority_fee": 0.38175675675675674,
+     "price_p50": 0,
+     "price_p90": 20000,
+     "price_p99": 1000000,
+     "context_tau": 0.01408585925400254
+    },
+    {
+     "slot": 462828587,
+     "n_competing": 404,
+     "share_priority_fee": 0.32673267326732675,
+     "price_p50": 0,
+     "price_p90": 95684,
+     "price_p99": 2000000,
+     "context_tau": 0.009295429408039844
+    }
+   ],
+   "n_blocks": 3,
+   "context_tau_mean": -0.016516794551309062,
+   "context_tau_sd": 0.048915395116757084
+  },
+  "Ninja1spj6n9t5hVYgF3PdnYz2PLnkt7rvaw3firmjs": {
+   "blocks": [
+    {
+     "slot": 462831197,
+     "n_competing": 188,
+     "share_priority_fee": 0.3882978723404255,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000000,
+     "context_tau": 0.06597170891593648
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.06597170891593648,
+   "context_tau_sd": null
+  },
+  "6y7V8dL673XFzm9QyC5vvh3itWkp7wztahBd2yDqsyrK": {
+   "blocks": [
+    {
+     "slot": 462831441,
+     "n_competing": 195,
+     "share_priority_fee": 0.4358974358974359,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1500000,
+     "context_tau": 0.022890635273843503
+    },
+    {
+     "slot": 462831442,
+     "n_competing": 165,
+     "share_priority_fee": 0.3878787878787879,
+     "price_p50": 0,
+     "price_p90": 510204,
+     "price_p99": 1000000,
+     "context_tau": -0.1083538854453622
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.04273162508575935,
+   "context_tau_sd": 0.09280389059412869
+  },
+  "8T8AJfUCXwPFwEMmjca8gCRSktPrqbUBVa6ggNyhLhFJ": {
+   "blocks": [
+    {
+     "slot": 462833126,
+     "n_competing": 197,
+     "share_priority_fee": 0.45685279187817257,
+     "price_p50": 0,
+     "price_p90": 410325,
+     "price_p99": 1000000,
+     "context_tau": 0.012295416388528893
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.012295416388528893,
+   "context_tau_sd": null
+  },
+  "AG1PsJMQcutNUX64RD3bAhW7NpxWeFkqkgGizBznYFKW": {
+   "blocks": [
+    {
+     "slot": 462895126,
+     "n_competing": 631,
+     "share_priority_fee": 0.3613312202852615,
+     "price_p50": 0,
+     "price_p90": 988142,
+     "price_p99": 20000050,
+     "context_tau": -0.0956913514237223
+    },
+    {
+     "slot": 462895127,
+     "n_competing": 404,
+     "share_priority_fee": 0.3688118811881188,
+     "price_p50": 0,
+     "price_p90": 497627,
+     "price_p99": 3265306,
+     "context_tau": -0.012571957592060323
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.054131654507891314,
+   "context_tau_sd": 0.05877428702648348
+  },
+  "GEM1N1UE3C8BB8EaaEPrcFvT3iLMVrurknjW5AYjUReR": {
+   "blocks": [
+    {
+     "slot": 462895372,
+     "n_competing": 356,
+     "share_priority_fee": 0.4438202247191011,
+     "price_p50": 0,
+     "price_p90": 375000,
+     "price_p99": 2397024,
+     "context_tau": -0.09334891198933351
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.09334891198933351,
+   "context_tau_sd": null
+  },
+  "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY": {
+   "blocks": [
+    {
+     "slot": 462895621,
+     "n_competing": 524,
+     "share_priority_fee": 0.40458015267175573,
+     "price_p50": 0,
+     "price_p90": 500000,
+     "price_p99": 1020408,
+     "context_tau": -0.019166900140864272
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.019166900140864272,
+   "context_tau_sd": null
+  },
+  "HSDTxfgrqY8ZK88Q5Fx2DdX7zxMDqXgxJKgErTBSLoQJ": {
+   "blocks": [
+    {
+     "slot": 462895896,
+     "n_competing": 417,
+     "share_priority_fee": 0.565947242206235,
+     "price_p50": 1,
+     "price_p90": 1000000,
+     "price_p99": 2500000,
+     "context_tau": 0.003233523428468721
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.003233523428468721,
+   "context_tau_sd": null
+  },
+  "HE2REn7YRhFEghuctv3y1dUEK9aWhw8QQSUpRiHd819r": {
+   "blocks": [
+    {
+     "slot": 462895959,
+     "n_competing": 459,
+     "share_priority_fee": 0.3899782135076253,
+     "price_p50": 0,
+     "price_p90": 59651,
+     "price_p99": 2000000,
+     "context_tau": -0.04104350848686653
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.04104350848686653,
+   "context_tau_sd": null
+  },
+  "PRGNnb8DxVcP2WjSHfVRGgc8SkA5u6dbMwoTVV1BGKN": {
+   "blocks": [
+    {
+     "slot": 462896411,
+     "n_competing": 326,
+     "share_priority_fee": 0.49693251533742333,
+     "price_p50": 0,
+     "price_p90": 375000,
+     "price_p99": 1630961,
+     "context_tau": -0.0289619285650298
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.0289619285650298,
+   "context_tau_sd": null
+  },
+  "BTGPbq4KuFENn4CKuaKGqkaDd3TJD3TEgtMjSrsZnMLb": {
+   "blocks": [
+    {
+     "slot": 462896412,
+     "n_competing": 432,
+     "share_priority_fee": 0.4351851851851852,
+     "price_p50": 0,
+     "price_p90": 200000,
+     "price_p99": 4084973,
+     "context_tau": 0.04407375250243779
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.04407375250243779,
+   "context_tau_sd": null
+  },
+  "EXckihF3qmguH5znjhfzLvHsbk2E3nEW2DqNh4MMnDMm": {
+   "blocks": [
+    {
+     "slot": 462896512,
+     "n_competing": 237,
+     "share_priority_fee": 0.2869198312236287,
+     "price_p50": 0,
+     "price_p90": 41485,
+     "price_p99": 2000000,
+     "context_tau": -0.08584775517161516
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.08584775517161516,
+   "context_tau_sd": null
+  },
+  "FBKFWadXZJahGtFitAsBvbqh5968gLY7dMBBJUoUjeNi": {
+   "blocks": [
+    {
+     "slot": 462896835,
+     "n_competing": 336,
+     "share_priority_fee": 0.43154761904761907,
+     "price_p50": 0,
+     "price_p90": 90747,
+     "price_p99": 12500000,
+     "context_tau": -0.03230119178427776
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.03230119178427776,
+   "context_tau_sd": null
+  },
+  "AurseT3W3tk1dATBWAXtWR6oubBgECqintfcvP74teU3": {
+   "blocks": [
+    {
+     "slot": 462897088,
+     "n_competing": 749,
+     "share_priority_fee": 0.5340453938584779,
+     "price_p50": 1,
+     "price_p90": 132862,
+     "price_p99": 1118993,
+     "context_tau": -0.1517397911428592
+    },
+    {
+     "slot": 462897089,
+     "n_competing": 423,
+     "share_priority_fee": 0.5011820330969267,
+     "price_p50": 1,
+     "price_p90": 132862,
+     "price_p99": 1875127,
+     "context_tau": 0.07037701683714272
+    },
+    {
+     "slot": 462897090,
+     "n_competing": 432,
+     "share_priority_fee": 0.5370370370370371,
+     "price_p50": 1,
+     "price_p90": 132862,
+     "price_p99": 1581027,
+     "context_tau": 0.04304361244084303
+    }
+   ],
+   "n_blocks": 3,
+   "context_tau_mean": -0.01277305395495782,
+   "context_tau_sd": 0.12112222868846724
+  },
+  "pSo1KZXgG1EGHch6pPmscfYhv3buXyaj2dR8WkVnkfc": {
+   "blocks": [
+    {
+     "slot": 462897307,
+     "n_competing": 452,
+     "share_priority_fee": 0.34292035398230086,
+     "price_p50": 0,
+     "price_p90": 30009,
+     "price_p99": 1886507,
+     "context_tau": -0.04985464493735322
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.04985464493735322,
+   "context_tau_sd": null
+  },
+  "chdvWr6T14nqGRFD37KY36dsvhkCtDaufW5rpu3AfHe": {
+   "blocks": [
+    {
+     "slot": 462897467,
+     "n_competing": 305,
+     "share_priority_fee": 0.4,
+     "price_p50": 0,
+     "price_p90": 150000,
+     "price_p99": 1000000,
+     "context_tau": -0.027319781452089364
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.027319781452089364,
+   "context_tau_sd": null
+  },
+  "5ejbTALcBsKQ7Cj1iSuu2mY5jqbYHqh9gF5ERXLiYj1z": {
+   "blocks": [
+    {
+     "slot": 462897811,
+     "n_competing": 344,
+     "share_priority_fee": 0.3953488372093023,
+     "price_p50": 0,
+     "price_p90": 231180,
+     "price_p99": 1818578,
+     "context_tau": 0.08052062859106857
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.08052062859106857,
+   "context_tau_sd": null
+  },
+  "GoeW4aFK4dGoekJySgUynWDxBZiQJqm8GDAF4H53tDK9": {
+   "blocks": [
+    {
+     "slot": 462897886,
+     "n_competing": 302,
+     "share_priority_fee": 0.33112582781456956,
+     "price_p50": 0,
+     "price_p90": 150000,
+     "price_p99": 12500000,
+     "context_tau": 0.030724589708994453
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.030724589708994453,
+   "context_tau_sd": null
+  },
+  "JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB": {
+   "blocks": [
+    {
+     "slot": 462898188,
+     "n_competing": 682,
+     "share_priority_fee": 0.3841642228739003,
+     "price_p50": 0,
+     "price_p90": 200000,
+     "price_p99": 20000050,
+     "context_tau": 0.07624527800457159
+    },
+    {
+     "slot": 462898189,
+     "n_competing": 281,
+     "share_priority_fee": 0.47330960854092524,
+     "price_p50": 0,
+     "price_p90": 500000,
+     "price_p99": 2000050,
+     "context_tau": -0.025931588796923605
+    },
+    {
+     "slot": 462915222,
+     "n_competing": 400,
+     "share_priority_fee": 0.2775,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 2000000,
+     "context_tau": 0.05267984938738076
+    },
+    {
+     "slot": 462915223,
+     "n_competing": 517,
+     "share_priority_fee": 0.25918762088974856,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 2179663,
+     "context_tau": -0.11728747821609842
+    }
+   ],
+   "n_blocks": 4,
+   "context_tau_mean": -0.0035734849052674175,
+   "context_tau_sd": 0.0874951991365304
+  },
+  "5d9Mdc2Zk8as8GL1AxQeXxv5htBBvC5bjfmsXC7UUWwG": {
+   "blocks": [
+    {
+     "slot": 462899462,
+     "n_competing": 338,
+     "share_priority_fee": 0.3994082840236686,
+     "price_p50": 0,
+     "price_p90": 375000,
+     "price_p99": 1000000,
+     "context_tau": 0.07164770457718299
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.07164770457718299,
+   "context_tau_sd": null
+  },
+  "C1ocKDYMCm2ooWptMMnpd5VEB2Nx4UMJgRuYofysyzcA": {
+   "blocks": [
+    {
+     "slot": 462899808,
+     "n_competing": 631,
+     "share_priority_fee": 0.3375594294770206,
+     "price_p50": 0,
+     "price_p90": 108040,
+     "price_p99": 2500000,
+     "context_tau": 0.022328330287867054
+    },
+    {
+     "slot": 462899809,
+     "n_competing": 571,
+     "share_priority_fee": 0.44308231173380036,
+     "price_p50": 0,
+     "price_p90": 104857,
+     "price_p99": 12500000,
+     "context_tau": -0.17770244728659182
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.07768705849936239,
+   "context_tau_sd": 0.14144311926891784
+  },
+  "9W3QTgBhkU4Bwg6cwnDJo6eGZ9BtZafSdu1Lo9JmWws7": {
+   "blocks": [
+    {
+     "slot": 462900933,
+     "n_competing": 626,
+     "share_priority_fee": 0.2539936102236422,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 5105504,
+     "context_tau": -0.03180044039676178
+    },
+    {
+     "slot": 462900934,
+     "n_competing": 397,
+     "share_priority_fee": 0.3249370277078086,
+     "price_p50": 0,
+     "price_p90": 660652,
+     "price_p99": 8000000,
+     "context_tau": 0.07977023786445799
+    },
+    {
+     "slot": 462904255,
+     "n_competing": 473,
+     "share_priority_fee": 0.36152219873150104,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 2000000,
+     "context_tau": -0.0794274999013493
+    },
+    {
+     "slot": 462907318,
+     "n_competing": 483,
+     "share_priority_fee": 0.38509316770186336,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 12500000,
+     "context_tau": 0.0998861337383966
+    },
+    {
+     "slot": 462907319,
+     "n_competing": 592,
+     "share_priority_fee": 0.4222972972972973,
+     "price_p50": 0,
+     "price_p90": 644243,
+     "price_p99": 12500000,
+     "context_tau": 0.10854046907803483
+    }
+   ],
+   "n_blocks": 5,
+   "context_tau_mean": 0.035393780076555664,
+   "context_tau_sd": 0.08540778857824646
+  },
+  "Ed9WjPnZfAXsPttcqxMwj94qsuXVRyBsyXnDkxFva2Zv": {
+   "blocks": [
+    {
+     "slot": 462901057,
+     "n_competing": 594,
+     "share_priority_fee": 0.2676767676767677,
+     "price_p50": 0,
+     "price_p90": 26328,
+     "price_p99": 1020408,
+     "context_tau": -0.02706756438729388
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.02706756438729388,
+   "context_tau_sd": null
+  },
+  "FCWkGAHDWK41ANjiaoPudkCZRkvTecaEkoZQugezUnpr": {
+   "blocks": [
+    {
+     "slot": 462904364,
+     "n_competing": 499,
+     "share_priority_fee": 0.3166332665330661,
+     "price_p50": 0,
+     "price_p90": 517170,
+     "price_p99": 5000050,
+     "context_tau": 0.030931719341050275
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.030931719341050275,
+   "context_tau_sd": null
+  },
+  "5pPRHniefFjkiaArbGX3Y8NUysJmQ9tMZg3FrFGwHzSm": {
+   "blocks": [
+    {
+     "slot": 462904457,
+     "n_competing": 455,
+     "share_priority_fee": 0.210989010989011,
+     "price_p50": 0,
+     "price_p90": 10000,
+     "price_p99": 1000000,
+     "context_tau": -0.03848542080826641
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.03848542080826641,
+   "context_tau_sd": null
+  },
+  "CW9C7HBwAMgqNdXkNgFg9Ujr3edR2Ab9ymEuQnVacd1A": {
+   "blocks": [
+    {
+     "slot": 462904600,
+     "n_competing": 425,
+     "share_priority_fee": 0.3058823529411765,
+     "price_p50": 0,
+     "price_p90": 625000,
+     "price_p99": 20000050,
+     "context_tau": -0.03835784305436421
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.03835784305436421,
+   "context_tau_sd": null
+  },
+  "6xWLi1TDSh65fWsSqE1zdvANTSuVDRMx4ghsGJwgunS8": {
+   "blocks": [
+    {
+     "slot": 462905191,
+     "n_competing": 402,
+     "share_priority_fee": 0.3308457711442786,
+     "price_p50": 0,
+     "price_p90": 30005,
+     "price_p99": 2000000,
+     "context_tau": 0.040495774371189834
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.040495774371189834,
+   "context_tau_sd": null
+  },
+  "ALp2GdA1eJV8vZHMHazCtTxNXe3BLUSco9LDASgjDs8R": {
+   "blocks": [
+    {
+     "slot": 462905370,
+     "n_competing": 441,
+     "share_priority_fee": 0.35827664399092973,
+     "price_p50": 0,
+     "price_p90": 20000,
+     "price_p99": 3000000,
+     "context_tau": 0.008438852004428817
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.008438852004428817,
+   "context_tau_sd": null
+  },
+  "GBQ2GvTzmjXMu97dr7WUnLKYTNim1aoZsYS53KYXAAAA": {
+   "blocks": [
+    {
+     "slot": 462905584,
+     "n_competing": 520,
+     "share_priority_fee": 0.36153846153846153,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 3825959,
+     "context_tau": 0.05875680662020205
+    },
+    {
+     "slot": 462905585,
+     "n_competing": 402,
+     "share_priority_fee": 0.36069651741293535,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 3000000,
+     "context_tau": 0.006095205944977562
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": 0.032426006282589806,
+   "context_tau_sd": 0.037237374945589305
+  },
+  "4k6wgP5WPBKQpsFGtzuXNrjcTE2fKWLj17nDvFeG5zSF": {
+   "blocks": [
+    {
+     "slot": 462905779,
+     "n_competing": 342,
+     "share_priority_fee": 0.32748538011695905,
+     "price_p50": 0,
+     "price_p90": 500000,
+     "price_p99": 6805000,
+     "context_tau": 0.021532500437715367
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.021532500437715367,
+   "context_tau_sd": null
+  },
+  "DcTPJqPNrTLv3te1c9ctA9H194x6DsaPA4ChuSEv7KPZ": {
+   "blocks": [
+    {
+     "slot": 462906051,
+     "n_competing": 452,
+     "share_priority_fee": 0.3473451327433628,
+     "price_p50": 0,
+     "price_p90": 333333,
+     "price_p99": 12500000,
+     "context_tau": -0.09574648042553031
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.09574648042553031,
+   "context_tau_sd": null
+  },
+  "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H": {
+   "blocks": [
+    {
+     "slot": 462907081,
+     "n_competing": 295,
+     "share_priority_fee": 0.3288135593220339,
+     "price_p50": 0,
+     "price_p90": 76924,
+     "price_p99": 13500000,
+     "context_tau": -0.07768426418860074
+    },
+    {
+     "slot": 462907082,
+     "n_competing": 324,
+     "share_priority_fee": 0.38580246913580246,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 3788280,
+     "context_tau": -0.05267483549207291
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.06517954984033683,
+   "context_tau_sd": 0.01768433662491626
+  },
+  "HLnodbYkL5PFA8hjAZDkm5pGzV7eLTvcs671AW2L6St9": {
+   "blocks": [
+    {
+     "slot": 462907196,
+     "n_competing": 468,
+     "share_priority_fee": 0.4658119658119658,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1000000,
+     "context_tau": -0.03546928282171439
+    },
+    {
+     "slot": 462918551,
+     "n_competing": 289,
+     "share_priority_fee": 0.356401384083045,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000000,
+     "context_tau": -0.07639684452618728
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.05593306367395083,
+   "context_tau_sd": 0.028940156418663633
+  },
+  "4uH4G6YiD5G8rU3mtPg73C2Uqamrqedy3FboTZcZrh6x": {
+   "blocks": [
+    {
+     "slot": 462907381,
+     "n_competing": 399,
+     "share_priority_fee": 0.44611528822055135,
+     "price_p50": 0,
+     "price_p90": 93823,
+     "price_p99": 2000050,
+     "context_tau": -0.11654353563581493
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.11654353563581493,
+   "context_tau_sd": null
+  },
+  "AiDoLWFKzNxSXKeZ4zym2TEPkg6F4kQ3YBA8WhANVPEq": {
+   "blocks": [
+    {
+     "slot": 462907435,
+     "n_competing": 574,
+     "share_priority_fee": 0.3885017421602787,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 20000050,
+     "context_tau": 0.05676475703873082
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.05676475703873082,
+   "context_tau_sd": null
+  },
+  "HTeRsa3gm3CGrizMoCrtWj4uBZ1NKYcGqh8jfBu2u3Jo": {
+   "blocks": [
+    {
+     "slot": 462907675,
+     "n_competing": 362,
+     "share_priority_fee": 0.30386740331491713,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 6651590,
+     "context_tau": -0.04668564302622819
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.04668564302622819,
+   "context_tau_sd": null
+  },
+  "5Cchr1XGEg7dbBXByV5NY2ad8jfxAM7HA3x8D56rq9Ux": {
+   "blocks": [
+    {
+     "slot": 462907723,
+     "n_competing": 323,
+     "share_priority_fee": 0.3746130030959752,
+     "price_p50": 0,
+     "price_p90": 500000,
+     "price_p99": 1000000,
+     "context_tau": 0.04034151735037636
+    },
+    {
+     "slot": 462916111,
+     "n_competing": 505,
+     "share_priority_fee": 0.3564356435643564,
+     "price_p50": 0,
+     "price_p90": 988142,
+     "price_p99": 2084247,
+     "context_tau": 0.15470323085253074
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": 0.09752237410145355,
+   "context_tau_sd": 0.08086594312548652
+  },
+  "76rcGHdPvgs8G1XrzCXUTWtwgT59AFDvpB4VbTS2TBBJ": {
+   "blocks": [
+    {
+     "slot": 462908258,
+     "n_competing": 388,
+     "share_priority_fee": 0.4793814432989691,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 5000050,
+     "context_tau": 0.08530775519907456
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.08530775519907456,
+   "context_tau_sd": null
+  },
+  "Hz5aLvpKScNWoe9YZWxBLrQA3qzHJivBGtfciMekk8m5": {
+   "blocks": [
+    {
+     "slot": 462908379,
+     "n_competing": 483,
+     "share_priority_fee": 0.32919254658385094,
+     "price_p50": 0,
+     "price_p90": 126604,
+     "price_p99": 6666666,
+     "context_tau": 0.027762949856355808
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.027762949856355808,
+   "context_tau_sd": null
+  },
+  "DrifTrN923QaouP89UxkQzFGbumKPCnfkNYQRwmZxatz": {
+   "blocks": [
+    {
+     "slot": 462908563,
+     "n_competing": 562,
+     "share_priority_fee": 0.2846975088967972,
+     "price_p50": 0,
+     "price_p90": 300000,
+     "price_p99": 9375000,
+     "context_tau": 0.09000993498970025
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.09000993498970025,
+   "context_tau_sd": null
+  },
+  "9rkJMARqK6VBkcxGfKBAwnA44gPAfGxPbPsfsggFNDSQ": {
+   "blocks": [
+    {
+     "slot": 462908602,
+     "n_competing": 272,
+     "share_priority_fee": 0.27941176470588236,
+     "price_p50": 0,
+     "price_p90": 156300,
+     "price_p99": 2000050,
+     "context_tau": 0.04620334628365213
+    },
+    {
+     "slot": 462908603,
+     "n_competing": 314,
+     "share_priority_fee": 0.27388535031847133,
+     "price_p50": 0,
+     "price_p90": 100000,
+     "price_p99": 2000000,
+     "context_tau": -0.06391699188038491
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.00885682279836639,
+   "context_tau_sd": 0.07786683786234636
+  },
+  "2X7WoaXX9KPqNrNfvguhnwo3rjFPNsfw2t75fGjWRthz": {
+   "blocks": [
+    {
+     "slot": 462908928,
+     "n_competing": 431,
+     "share_priority_fee": 0.3225058004640371,
+     "price_p50": 0,
+     "price_p90": 114511,
+     "price_p99": 2000000,
+     "context_tau": -0.05341424751013547
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.05341424751013547,
+   "context_tau_sd": null
+  },
+  "HpcB5Qg8Y9E73dUkot5e8HkgAJbExsYeUzniY4bCuKac": {
+   "blocks": [
+    {
+     "slot": 462910775,
+     "n_competing": 394,
+     "share_priority_fee": 0.4035532994923858,
+     "price_p50": 0,
+     "price_p90": 300007,
+     "price_p99": 1500000,
+     "context_tau": -0.065114417129641
+    },
+    {
+     "slot": 462917211,
+     "n_competing": 384,
+     "share_priority_fee": 0.4010416666666667,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1007000,
+     "context_tau": -0.07836928745709475
+    },
+    {
+     "slot": 462917723,
+     "n_competing": 495,
+     "share_priority_fee": 0.34545454545454546,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1000000,
+     "context_tau": 0.0003004054953983388
+    }
+   ],
+   "n_blocks": 3,
+   "context_tau_mean": -0.04772776636377914,
+   "context_tau_sd": 0.04211830796637513
+  },
+  "Aw5wEMXhbygFLR7jHtHpih8QvxVBGAMTqsQ2SjWPk1ex": {
+   "blocks": [
+    {
+     "slot": 462914080,
+     "n_competing": 439,
+     "share_priority_fee": 0.275626423690205,
+     "price_p50": 0,
+     "price_p90": 200000,
+     "price_p99": 1000000,
+     "context_tau": 0.011326066436727756
+    },
+    {
+     "slot": 462915795,
+     "n_competing": 747,
+     "share_priority_fee": 0.3627844712182062,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 5000050,
+     "context_tau": -0.02722302259404468
+    }
+   ],
+   "n_blocks": 2,
+   "context_tau_mean": -0.007948478078658464,
+   "context_tau_sd": 0.027258322262223144
+  },
+  "A1vqhA2fS6K7CvHsJKX1ACcHJFEmyRg4KuR5pctHANy4": {
+   "blocks": [
+    {
+     "slot": 462914243,
+     "n_competing": 391,
+     "share_priority_fee": 0.391304347826087,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 8000000,
+     "context_tau": 0.13070997174622762
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.13070997174622762,
+   "context_tau_sd": null
+  },
+  "8AkVj5aAtJ27tYXeq89cnSf68V43NarFHMx2iSDjZv7c": {
+   "blocks": [
+    {
+     "slot": 462914517,
+     "n_competing": 359,
+     "share_priority_fee": 0.4206128133704735,
+     "price_p50": 0,
+     "price_p90": 137723,
+     "price_p99": 15793251,
+     "context_tau": 0.027318338138985807
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.027318338138985807,
+   "context_tau_sd": null
+  },
+  "mALL2W6DUgDDtcyurC9v5YTF2CMMeuRwPBkf6tEoG3y": {
+   "blocks": [
+    {
+     "slot": 462915163,
+     "n_competing": 308,
+     "share_priority_fee": 0.2597402597402597,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 2000000,
+     "context_tau": -0.008141633584316112
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.008141633584316112,
+   "context_tau_sd": null
+  },
+  "EkvdKhULbMFqjKBKotAzGi3kwMvMpYNDKJXXQQmi6C1f": {
+   "blocks": [
+    {
+     "slot": 462915643,
+     "n_competing": 351,
+     "share_priority_fee": 0.33048433048433046,
+     "price_p50": 0,
+     "price_p90": 140000,
+     "price_p99": 14521452,
+     "context_tau": -0.018647544989282616
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.018647544989282616,
+   "context_tau_sd": null
+  },
+  "shftkxnsXmqAkmLgz9Mn7bNB5Fr6mKgFc58kFHfVikj": {
+   "blocks": [
+    {
+     "slot": 462916381,
+     "n_competing": 441,
+     "share_priority_fee": 0.41496598639455784,
+     "price_p50": 0,
+     "price_p90": 50000,
+     "price_p99": 12500000,
+     "context_tau": -0.07053970849667593
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.07053970849667593,
+   "context_tau_sd": null
+  },
+  "ANC1u9sY36q3mi2MyVhtz71un8yLgTsFBUuyLcSPzKsk": {
+   "blocks": [
+    {
+     "slot": 462916450,
+     "n_competing": 665,
+     "share_priority_fee": 0.24812030075187969,
+     "price_p50": 0,
+     "price_p90": 23679,
+     "price_p99": 2000050,
+     "context_tau": -0.04768858191336006
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.04768858191336006,
+   "context_tau_sd": null
+  },
+  "5EhGYUyQNrxgUbuYF4vbL2SZDT6RMfhq3yjeyevvULeC": {
+   "blocks": [
+    {
+     "slot": 462917144,
+     "n_competing": 677,
+     "share_priority_fee": 0.3914327917282127,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 10000000,
+     "context_tau": -0.01482629903048891
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.01482629903048891,
+   "context_tau_sd": null
+  },
+  "BUv44cVtsdvU9z2BfFGk6s5JZZWrmVnq5qCaii5ARyyB": {
+   "blocks": [
+    {
+     "slot": 462917312,
+     "n_competing": 756,
+     "share_priority_fee": 0.33201058201058203,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 5000050,
+     "context_tau": -0.014910344959678794
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": -0.014910344959678794,
+   "context_tau_sd": null
+  },
+  "Fc6NNdS2j3EmrWbU6Uqt6wsKB5ef72NjaWfNxKYbULGD": {
+   "blocks": [
+    {
+     "slot": 462917490,
+     "n_competing": 607,
+     "share_priority_fee": 0.4332784184514003,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 1513467,
+     "context_tau": 0.08323027597953521
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.08323027597953521,
+   "context_tau_sd": null
+  },
+  "7tqeaFKsg2K9xKnQWe61w71AtCZVMQvG4hbFAiFAngYw": {
+   "blocks": [
+    {
+     "slot": 462918888,
+     "n_competing": 354,
+     "share_priority_fee": 0.3474576271186441,
+     "price_p50": 0,
+     "price_p90": 300000,
+     "price_p99": 1000000,
+     "context_tau": 0.14361801266822177
+    },
+    {
+     "slot": 462918889,
+     "n_competing": 412,
+     "share_priority_fee": 0.3300970873786408,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 2000050,
+     "context_tau": 0.002576307604827797
+    },
+    {
+     "slot": 462918890,
+     "n_competing": 379,
+     "share_priority_fee": 0.38522427440633245,
+     "price_p50": 0,
+     "price_p90": 1000000,
+     "price_p99": 5000050,
+     "context_tau": 0.08478461241439406
+    }
+   ],
+   "n_blocks": 3,
+   "context_tau_mean": 0.0769929775624812,
+   "context_tau_sd": 0.07084294475843385
+  },
+  "EUcJwf7jXskRE6NZBtFPVH2EedNvNYko8LL2WT62XctB": {
+   "blocks": [
+    {
+     "slot": 462920634,
+     "n_competing": 612,
+     "share_priority_fee": 0.36437908496732024,
+     "price_p50": 0,
+     "price_p90": 234196,
+     "price_p99": 2000050,
+     "context_tau": 0.07390316434132047
+    }
+   ],
+   "n_blocks": 1,
+   "context_tau_mean": 0.07390316434132047,
+   "context_tau_sd": null
+  }
+ },
+ "validators": {
+  "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU": {
+   "H1": {
+    "stability": {
+     "per_run": {
+      "20261029T080501Z-HEL1US-r1": 0.2,
+      "20261029T084255Z-HEL1US-r1": 0.2968253968253968,
+      "20261029T084255Z-HEL1US-r2": 0.25396825396825395,
+      "20261029T084255Z-HEL1US-r3": 0.0,
+      "20261029T084255Z-HEL1US-r4": -0.07142857142857142
+     },
+     "n_runs": 5,
+     "mean": 0.13587301587301587,
+     "sd": 0.162326714397554,
+     "range": [
+      -0.07142857142857142,
+      0.2968253968253968
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.12480714578195298,
+    "effect": 0.15541125541125542,
+    "effect_over_null_sd": 1.245211197143872,
+    "path": null
+   },
+   "H2": {
+    "stability": {
+     "per_run": {
+      "20261029T080501Z-HEL1US-r1": -0.2,
+      "20261029T084255Z-HEL1US-r1": 0.6079365079365079,
+      "20261029T084255Z-HEL1US-r2": 0.031746031746031744,
+      "20261029T084255Z-HEL1US-r3": 0.0,
+      "20261029T084255Z-HEL1US-r4": -0.07142857142857142
+     },
+     "n_runs": 5,
+     "mean": 0.07365079365079363,
+     "sd": 0.3116787015513826,
+     "range": [
+      -0.2,
+      0.6079365079365079
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.12831473078117478,
+    "effect": 0.14329004329004327,
+    "effect_over_null_sd": 1.116707664176197,
+    "path": null
+   },
+   "H3": {
+    "stability": {
+     "per_run": {
+      "20261029T080501Z-HEL1US-r1": 0.06666666666666667,
+      "20261029T084255Z-HEL1US-r1": -0.10317460317460318,
+      "20261029T084255Z-HEL1US-r2": 0.15396825396825398,
+      "20261029T084255Z-HEL1US-r3": 0.2857142857142857,
+      "20261029T084255Z-HEL1US-r4": -0.14285714285714285
+     },
+     "n_runs": 5,
+     "mean": 0.05206349206349206,
+     "sd": 0.1783840286516832,
+     "range": [
+      -0.14285714285714285,
+      0.2857142857142857
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.1270626034766109,
+    "effect": 0.04588744588744589,
+    "effect_over_null_sd": 0.36114045070619566,
+    "path": null
+   }
+  },
+  "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy": {
+   "H1": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-DRpbCB-r1": -0.04523809523809519,
+      "20261029T084255Z-DRpbCB-r2": 0.8214285714285714,
+      "20261029T084255Z-DRpbCB-r3": -0.4285714285714286,
+      "20261029T084255Z-DRpbCB-r4": -0.3214285714285714
+     },
+     "n_runs": 4,
+     "mean": 0.006547619047619052,
+     "sd": 0.566747943350937,
+     "range": [
+      -0.4285714285714286,
+      0.8214285714285714
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.16250669654787306,
+    "effect": 0.006547619047619066,
+    "effect_over_null_sd": 0.040291379904397934,
+    "path": null
+   },
+   "H2": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-DRpbCB-r1": 0.6880952380952381,
+      "20261029T084255Z-DRpbCB-r2": -0.17857142857142855,
+      "20261029T084255Z-DRpbCB-r3": 0.5714285714285714,
+      "20261029T084255Z-DRpbCB-r4": 0.6785714285714286
+     },
+     "n_runs": 4,
+     "mean": 0.4398809523809524,
+     "sd": 0.4156808064847577,
+     "range": [
+      -0.17857142857142855,
+      0.6880952380952381
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.16055622389352844,
+    "effect": 0.4398809523809524,
+    "effect_over_null_sd": 2.7397315514386777,
+    "path": null
+   },
+   "H3": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-DRpbCB-r1": 0.08809523809523812,
+      "20261029T084255Z-DRpbCB-r2": -0.17857142857142855,
+      "20261029T084255Z-DRpbCB-r3": -0.33095238095238094,
+      "20261029T084255Z-DRpbCB-r4": 0.03809523809523809
+     },
+     "n_runs": 4,
+     "mean": -0.09583333333333333,
+     "sd": 0.19484450260790798,
+     "range": [
+      -0.33095238095238094,
+      0.08809523809523812
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.16332714593929795,
+    "effect": -0.09583333333333331,
+    "effect_over_null_sd": -0.5867569214057696,
+    "path": null
+   }
+  },
+  "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE": {
+   "H1": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-7QQGNm-r1": 0.29047619047619044,
+      "20261029T084255Z-7QQGNm-r2": -0.5604395604395604,
+      "20261029T084255Z-7QQGNm-r3": -0.2650793650793651,
+      "20261029T084255Z-7QQGNm-r4": -0.09523809523809523
+     },
+     "n_runs": 4,
+     "mean": -0.15757020757020757,
+     "sd": 0.3551960967596324,
+     "range": [
+      -0.5604395604395604,
+      0.29047619047619044
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.09264970134194266,
+    "effect": -0.12542735042735043,
+    "effect_over_null_sd": -1.353780407391009,
+    "path": null
+   },
+   "H2": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-7QQGNm-r1": -0.07619047619047618,
+      "20261029T084255Z-7QQGNm-r2": 0.10622710622710624,
+      "20261029T084255Z-7QQGNm-r3": 0.3126984126984127,
+      "20261029T084255Z-7QQGNm-r4": 0.23809523809523808
+     },
+     "n_runs": 4,
+     "mean": 0.14520757020757022,
+     "sd": 0.1705069624041842,
+     "range": [
+      -0.07619047619047618,
+      0.3126984126984127
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.08978547082536198,
+    "effect": 0.11901709401709402,
+    "effect_over_null_sd": 1.3255718650580923,
+    "path": null
+   },
+   "H3": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-7QQGNm-r1": -0.17976190476190476,
+      "20261029T084255Z-7QQGNm-r2": 0.2905982905982906,
+      "20261029T084255Z-7QQGNm-r3": -0.060317460317460325,
+      "20261029T084255Z-7QQGNm-r4": -0.09523809523809523
+     },
+     "n_runs": 4,
+     "mean": -0.011179792429792425,
+     "sd": 0.2073404998795561,
+     "range": [
+      -0.17976190476190476,
+      0.2905982905982906
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.09041772804992482,
+    "effect": -0.018223443223443225,
+    "effect_over_null_sd": -0.20154723654835716,
+    "path": null
+   }
+  },
+  "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk": {
+   "H1": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-Fd7btg-r1": 0.047619047619047616,
+      "20261029T084255Z-Fd7btg-r2": -0.047619047619047616,
+      "20261029T084255Z-Fd7btg-r3": 0.13174603174603175,
+      "20261029T084255Z-Fd7btg-r4": 0.10476190476190475
+     },
+     "n_runs": 4,
+     "mean": 0.059126984126984125,
+     "sd": 0.07933729672448835,
+     "range": [
+      -0.047619047619047616,
+      0.13174603174603175
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.09632189895047082,
+    "effect": 0.054978354978354974,
+    "effect_over_null_sd": 0.5707773162427487,
+    "path": null
+   },
+   "H2": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-Fd7btg-r1": 0.047619047619047616,
+      "20261029T084255Z-Fd7btg-r2": 0.44126984126984126,
+      "20261029T084255Z-Fd7btg-r3": -0.17936507936507937,
+      "20261029T084255Z-Fd7btg-r4": 0.03809523809523809
+     },
+     "n_runs": 4,
+     "mean": 0.0869047619047619,
+     "sd": 0.2584569434191678,
+     "range": [
+      -0.17936507936507937,
+      0.44126984126984126
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.09487522131989991,
+    "effect": 0.09134199134199134,
+    "effect_over_null_sd": 0.9627591911907616,
+    "path": null
+   },
+   "H3": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-Fd7btg-r1": -0.3333333333333333,
+      "20261029T084255Z-Fd7btg-r2": 0.3142857142857143,
+      "20261029T084255Z-Fd7btg-r3": 0.1349206349206349,
+      "20261029T084255Z-Fd7btg-r4": 0.22857142857142856
+     },
+     "n_runs": 4,
+     "mean": 0.08611111111111111,
+     "sd": 0.2890643545271555,
+     "range": [
+      -0.3333333333333333,
+      0.3142857142857143
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.09590710892930514,
+    "effect": 0.07316017316017315,
+    "effect_over_null_sd": 0.7628232565544316,
+    "path": null
+   }
+  },
+  "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY": {
+   "H1": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-9eGrDo-r1": 0.8571428571428571,
+      "20261029T084255Z-9eGrDo-r2": 0.7142857142857143,
+      "20261029T084255Z-9eGrDo-r3": 0.5,
+      "20261029T084255Z-9eGrDo-r4": 0.6071428571428572
+     },
+     "n_runs": 4,
+     "mean": 0.6696428571428572,
+     "sd": 0.15257149545209875,
+     "range": [
+      0.5,
+      0.8571428571428571
+     ],
+     "sign_consistent": true
+    },
+    "null_sd": 0.10627910775036616,
+    "effect": 0.6558441558441559,
+    "effect_over_null_sd": 6.1709603112649045,
+    "path": null
+   },
+   "H2": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-9eGrDo-r1": 0.8571428571428571,
+      "20261029T084255Z-9eGrDo-r2": 0.7142857142857143,
+      "20261029T084255Z-9eGrDo-r3": 1.0,
+      "20261029T084255Z-9eGrDo-r4": 0.6071428571428572
+     },
+     "n_runs": 4,
+     "mean": 0.7946428571428572,
+     "sd": 0.17096912638506034,
+     "range": [
+      0.6071428571428572,
+      1.0
+     ],
+     "sign_consistent": true
+    },
+    "null_sd": 0.10326745988348728,
+    "effect": 0.8376623376623376,
+    "effect_over_null_sd": 8.111580730342743,
+    "path": null
+   },
+   "H3": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-9eGrDo-r1": -0.07142857142857144,
+      "20261029T084255Z-9eGrDo-r2": 0.2857142857142857,
+      "20261029T084255Z-9eGrDo-r3": -0.08928571428571429,
+      "20261029T084255Z-9eGrDo-r4": -0.32142857142857145
+     },
+     "n_runs": 4,
+     "mean": -0.04910714285714287,
+     "sd": 0.250583926902283,
+     "range": [
+      -0.32142857142857145,
+      0.2857142857142857
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.10549920369036613,
+    "effect": -0.05844155844155845,
+    "effect_over_null_sd": -0.5539526024583175,
+    "path": null
+   }
+  },
+  "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b": {
+   "H1": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-JUPiTE-r1": 0.3404761904761905,
+      "20261029T084255Z-JUPiTE-r2": 0.3214285714285714,
+      "20261029T084255Z-JUPiTE-r3": -0.15238095238095237,
+      "20261029T084255Z-JUPiTE-r4": 0.2880952380952381
+     },
+     "n_runs": 4,
+     "mean": 0.19940476190476192,
+     "sd": 0.23552080402963008,
+     "range": [
+      -0.15238095238095237,
+      0.3404761904761905
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.10643854831470288,
+    "effect": 0.1603174603174603,
+    "effect_over_null_sd": 1.5061973585308177,
+    "path": null
+   },
+   "H2": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-JUPiTE-r1": -0.1261904761904762,
+      "20261029T084255Z-JUPiTE-r2": 0.3214285714285714,
+      "20261029T084255Z-JUPiTE-r3": 0.24761904761904763,
+      "20261029T084255Z-JUPiTE-r4": 0.3547619047619048
+     },
+     "n_runs": 4,
+     "mean": 0.19940476190476192,
+     "sd": 0.22163222414973205,
+     "range": [
+      -0.1261904761904762,
+      0.3547619047619048
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.10097536947189092,
+    "effect": 0.20476190476190476,
+    "effect_over_null_sd": 2.027840114206321,
+    "path": null
+   },
+   "H3": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-JUPiTE-r1": -0.5404761904761904,
+      "20261029T084255Z-JUPiTE-r2": 0.25,
+      "20261029T084255Z-JUPiTE-r3": -0.14126984126984127,
+      "20261029T084255Z-JUPiTE-r4": -0.6214285714285714
+     },
+     "n_runs": 4,
+     "mean": -0.2632936507936508,
+     "sd": 0.4014353263473544,
+     "range": [
+      -0.6214285714285714,
+      0.25
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.10258799376274359,
+    "effect": -0.24973544973544973,
+    "effect_over_null_sd": -2.434353578577779,
+    "path": null
+   }
+  },
+  "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP": {
+   "H1": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-9jxgos-r1": 0.2904761904761905,
+      "20261029T084255Z-9jxgos-r2": 0.7857142857142857,
+      "20261029T084255Z-9jxgos-r3": -0.7333333333333333,
+      "20261029T084255Z-9jxgos-r4": 0.2968253968253968
+     },
+     "n_runs": 4,
+     "mean": 0.15992063492063494,
+     "sd": 0.639089981169508,
+     "range": [
+      -0.7333333333333333,
+      0.7857142857142857
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.11318159550072929,
+    "effect": 0.22678571428571428,
+    "effect_over_null_sd": 2.0037331447960813,
+    "path": null
+   },
+   "H2": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-9jxgos-r1": 0.4238095238095238,
+      "20261029T084255Z-9jxgos-r2": 0.7857142857142857,
+      "20261029T084255Z-9jxgos-r3": 0.7333333333333333,
+      "20261029T084255Z-9jxgos-r4": 0.6079365079365079
+     },
+     "n_runs": 4,
+     "mean": 0.6376984126984127,
+     "sd": 0.16092334041884535,
+     "range": [
+      0.4238095238095238,
+      0.7857142857142857
+     ],
+     "sign_consistent": true
+    },
+    "null_sd": 0.11326536901309642,
+    "effect": 0.5767857142857142,
+    "effect_over_null_sd": 5.09233951481695,
+    "path": null
+   },
+   "H3": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-9jxgos-r1": -0.5,
+      "20261029T084255Z-9jxgos-r2": 0.7857142857142857,
+      "20261029T084255Z-9jxgos-r3": 0.2,
+      "20261029T084255Z-9jxgos-r4": 0.3523809523809524
+     },
+     "n_runs": 4,
+     "mean": 0.20952380952380953,
+     "sd": 0.5341405455954262,
+     "range": [
+      -0.5,
+      0.7857142857142857
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.1123008621709002,
+    "effect": 0.06785714285714285,
+    "effect_over_null_sd": 0.6042441842866478,
+    "path": null
+   }
+  },
+  "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS": {
+   "H1": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-5Us18h-r1": 0.14285714285714285,
+      "20261029T084255Z-5Us18h-r2": -0.10952380952380952,
+      "20261029T084255Z-5Us18h-r3": -0.12142857142857141,
+      "20261029T084255Z-5Us18h-r4": -0.14285714285714288
+     },
+     "n_runs": 4,
+     "mean": -0.05773809523809524,
+     "sd": 0.13443950160513365,
+     "range": [
+      -0.14285714285714288,
+      0.14285714285714285
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.0969204493558747,
+    "effect": -0.09666666666666666,
+    "effect_over_null_sd": -0.9973815361887542,
+    "path": null
+   },
+   "H2": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-5Us18h-r1": 0.14285714285714285,
+      "20261029T084255Z-5Us18h-r2": -0.009523809523809518,
+      "20261029T084255Z-5Us18h-r3": 0.47857142857142854,
+      "20261029T084255Z-5Us18h-r4": -0.14285714285714288
+     },
+     "n_runs": 4,
+     "mean": 0.11726190476190475,
+     "sd": 0.2676665988935962,
+     "range": [
+      -0.14285714285714288,
+      0.47857142857142854
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.10042686083011096,
+    "effect": 0.06333333333333332,
+    "effect_over_null_sd": 0.6306413723363551,
+    "path": null
+   },
+   "H3": {
+    "stability": {
+     "per_run": {
+      "20261029T084255Z-5Us18h-r1": -0.42857142857142855,
+      "20261029T084255Z-5Us18h-r2": 0.06904761904761905,
+      "20261029T084255Z-5Us18h-r3": 0.3214285714285714,
+      "20261029T084255Z-5Us18h-r4": -0.14285714285714288
+     },
+     "n_runs": 4,
+     "mean": -0.045238095238095244,
+     "sd": 0.31831828507367416,
+     "range": [
+      -0.42857142857142855,
+      0.3214285714285714
+     ],
+     "sign_consistent": false
+    },
+    "null_sd": 0.098741950268653,
+    "effect": 0.006190476190476193,
+    "effect_over_null_sd": 0.0626934770240349,
+    "path": null
+   }
+  }
+ }
+}

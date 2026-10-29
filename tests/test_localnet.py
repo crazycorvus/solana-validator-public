@@ -11,7 +11,7 @@ from solders.hash import Hash
 from solders.keypair import Keypair
 
 from itb.collect import collect_slots, compact_blocks, map_landings
-from itb.fund import fund_payers, sweep
+from itb.fund import fund_payers, rent_min, sweep
 from itb.ledger import SpendLedger
 from itb.matrix import build_window_plan
 from itb.rpc import Rpc
@@ -69,9 +69,10 @@ def test_pipeline_on_localnet(chain, tmp_path):
     wait_balance(chain, master.pubkey(), 5_000_000_000)
     b = next(x for x in build_window_plan("local", 5) if x.batch_type == "fee_ladder")
     payers = payer_pool(master, len(b.probes))
-    fund_payers(chain, master, payers)
+    floor = rent_min(chain)
+    fund_payers(chain, master, payers, floor + 200_000)
     for p in payers:
-        wait_balance(chain, p.pubkey(), 890_880)
+        wait_balance(chain, p.pubkey(), floor + 200_000)
     bh = Hash.from_string(chain.call("getLatestBlockhash")["value"]["blockhash"])
     prep = prepare(b, payers, bh)
     ident = chain.call("getSlotLeaders", [chain.call("getSlot"), 1])[0]
@@ -102,6 +103,10 @@ def test_pipeline_on_localnet(chain, tmp_path):
     price = {p.spec.probe_id: p.spec.cu_price for p in prep}
     print("slot,index,price:", [(r["slot"], r["tx_index_in_block"], price[r["probe_id"]]) for r in landed])
     assert sweep(chain, master, payers) > 0  # payer funds are recoverable
+    t_end = time.time() + 40
+    while time.time() < t_end and any(chain.call("getBalance", [str(p.pubkey())])["value"] for p in payers):
+        time.sleep(1)
+    assert all(chain.call("getBalance", [str(p.pubkey())])["value"] == 0 for p in payers)  # fully drained
 
 
 def test_orchestrator_on_localnet(chain, tmp_path):
@@ -116,9 +121,10 @@ def test_orchestrator_on_localnet(chain, tmp_path):
     chain.call("requestAirdrop", [str(master.pubkey()), 5_000_000_000])
     wait_balance(chain, master.pubkey(), 5_000_000_000)
     payers = payer_pool(master, 8)
-    fund_payers(chain, master, payers)
+    floor = rent_min(chain)
+    fund_payers(chain, master, payers, floor + 200_000)
     for p in payers:
-        wait_balance(chain, p.pubkey(), 890_880)
+        wait_balance(chain, p.pubkey(), floor + 200_000)
     sched = LeaderSchedule.fetch(chain)
     ident = chain.call("getSlotLeaders", [chain.call("getSlot"), 1])[0]
     cur = chain.call("getSlot")

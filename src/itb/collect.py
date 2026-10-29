@@ -111,24 +111,23 @@ def compact_block(b: dict) -> dict:
             "blockHeight": b.get("blockHeight"), "transactions": txs}
 
 
-def compact_blocks(cache_dir: Path, run_dir: Path, probe_sigs: set[str]) -> dict:
-    """Committed copy: FULL gzipped block for slots that contain one of our probes (everything a
-    judge could want), COMPACT block for all other collected slots (neighbours, context)."""
+def compact_blocks(cache_dir: Path, run_dir: Path, probe_sigs: set[str], keep_full: bool = False) -> dict:
+    """Committed copy of every collected slot, gzipped. By default ALL slots are COMPACT (signature, error,
+    fee, CU used, requested price/limit): that is every transaction of the block in order, enough to verify
+    positions, and a judge can re-fetch the full block with getBlock. `keep_full` additionally keeps the full
+    getBlock response for slots that contain one of our probes (about 0.7 MB each, hundreds of MB for a study)."""
     out = Path(run_dir) / "blocks"
     out.mkdir(parents=True, exist_ok=True)
     n_full = n_compact = 0
     for p in sorted((Path(cache_dir) / "blocks").glob("*.json")):
         b = json.loads(p.read_text())
-        has = (not b.get("skipped")) and any(t["transaction"]["signatures"][0] in probe_sigs
-                                            for t in b.get("transactions", []))
-        if has:
-            (out / f"{p.stem}.json.gz").write_bytes(gzip.compress(p.read_bytes(), 9))
-            (out / f"{p.stem}.json").unlink(missing_ok=True)
-            n_full += 1
-        else:
-            (out / f"{p.stem}.json").write_text(json.dumps(compact_block(b), separators=(",", ":")))
-            (out / f"{p.stem}.json.gz").unlink(missing_ok=True)
-            n_compact += 1
+        has = keep_full and (not b.get("skipped")) and any(
+            t["transaction"]["signatures"][0] in probe_sigs for t in b.get("transactions", []))
+        body = p.read_bytes() if has else json.dumps(compact_block(b), separators=(",", ":")).encode()
+        (out / f"{p.stem}.json.gz").write_bytes(gzip.compress(body, 9, mtime=0))  # mtime=0: reproducible bytes
+        (out / f"{p.stem}.json").unlink(missing_ok=True)
+        n_full += has
+        n_compact += not has
     return {"full": n_full, "compact": n_compact}
 
 
@@ -194,10 +193,11 @@ def map_landings(probes_csv: Path, run_dir: Path) -> list[dict]:
                 row["outcome"] = "landed"
         rows.append(row)
     # rank among OUR probes of the same batch that landed in the same slot-ordered block stream
-    by_batch: dict[str, list[dict]] = {}
-    for r in rows:
+    # one ranking per (run, batch): a run folder holds many validators and runs with the same batch ids
+    by_batch: dict[tuple[str, str], list[dict]] = {}
+    for r, pr in zip(rows, probes):
         if r["outcome"] == "landed":
-            by_batch.setdefault(r["batch_id"], []).append(r)
+            by_batch.setdefault((pr.get("run_id") or pr["probe_id"].rsplit(":", 2)[0], r["batch_id"]), []).append(r)
     for rs in by_batch.values():
         for rank, r in enumerate(sorted(rs, key=lambda r: (r["slot"], r["tx_index_in_block"]))):
             r["rank_in_batch"] = rank
@@ -235,3 +235,32 @@ def collect_run(rpc: Rpc, run_dir: Path, cache_dir: Path, wait_s: float = 90) ->
         slots = sorted(set(slots) | extra)
         collect_slots(rpc, sorted(extra), run_dir, cache_dir, wait_s)
     return dict(Counter(r["outcome"] for r in rows))
+
+
+def block_fees(blocks_dir: Path) -> dict[str, int]:
+    """signature -> fee actually charged, from full (meta.fee) or compact (fee) committed blocks."""
+    out: dict[str, int] = {}
+    for p in sorted(Path(blocks_dir).glob("*.json*")):
+        b = _load(p)
+        if b.get("skipped"):
+            continue
+        for t in b.get("transactions", []):
+            if b.get("compact"):
+                out[t["sig"]] = t.get("fee") or 0
+            else:
+                out[t["transaction"]["signatures"][0]] = (t.get("meta") or {}).get("fee") or 0
+    return out
+
+
+def excluded_signatures(run_dir: Path) -> tuple[set[str], str]:
+    """Probes excluded from delivery statistics because OUR infrastructure (not a validator) failed them,
+    with the reason. Read from `exclusions.json` (written by `itb send --redo`)."""
+    import csv
+    p = Path(run_dir) / "exclusions.json"
+    if not p.exists():
+        return set(), ""
+    doc = json.loads(p.read_text())
+    keys = set(doc.get("batches", []))
+    with open(Path(run_dir) / "probes.csv") as f:
+        sigs = {r["signature"] for r in csv.DictReader(f) if f"{r['run_id']}:{r['batch_id']}" in keys}
+    return sigs, doc.get("reason", "")

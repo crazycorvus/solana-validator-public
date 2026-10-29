@@ -1,0 +1,2875 @@
+[
+ {
+  "run_id": "20261029T084255Z-HEL1US-r1",
+  "batch": "b1",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462818620,
+   462818621,
+   462818622,
+   462818623
+  ],
+  "predicted_ts": 1793263562.9321275,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r1",
+  "batch": "b1",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462818700,
+   462818701,
+   462818702,
+   462818703
+  ],
+  "predicted_ts": 1793263580.849503,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r1",
+  "batch": "b2",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462818788,
+   462818789,
+   462818790,
+   462818791
+  ],
+  "predicted_ts": 1793263600.382316,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r1",
+  "batch": "b3a",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462818860,
+   462818861,
+   462818862,
+   462818863
+  ],
+  "predicted_ts": 1793263616.076704,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r1",
+  "batch": "b2",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462818940,
+   462818941,
+   462818942,
+   462818943
+  ],
+  "predicted_ts": 1793263632.8214397,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r1",
+  "batch": "b3a",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462818980,
+   462818981,
+   462818982,
+   462818983
+  ],
+  "predicted_ts": 1793263640.8905246,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r1",
+  "batch": "b3b",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462819048,
+   462819049,
+   462819050,
+   462819051
+  ],
+  "predicted_ts": 1793263655.371889,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r1",
+  "batch": "b4",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462819108,
+   462819109,
+   462819110,
+   462819111
+  ],
+  "predicted_ts": 1793263668.317327,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r1",
+  "batch": "b5",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462819148,
+   462819149,
+   462819150,
+   462819151
+  ],
+  "predicted_ts": 1793263676.9895597,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r1",
+  "batch": "b6",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462819188,
+   462819189,
+   462819190,
+   462819191
+  ],
+  "predicted_ts": 1793263684.9722905,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r1",
+  "batch": "b1",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462819316,
+   462819317,
+   462819318,
+   462819319
+  ],
+  "predicted_ts": 1793263711.8199277,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r1",
+  "batch": "b1",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462819356,
+   462819357,
+   462819358,
+   462819359
+  ],
+  "predicted_ts": 1793263719.8963175,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r1",
+  "batch": "b3b",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462819400,
+   462819401,
+   462819402,
+   462819403
+  ],
+  "predicted_ts": 1793263728.7416904,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r1",
+  "batch": "b1",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462819444,
+   462819445,
+   462819446,
+   462819447
+  ],
+  "predicted_ts": 1793263737.748726,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r1",
+  "batch": "b4",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462819496,
+   462819497,
+   462819498,
+   462819499
+  ],
+  "predicted_ts": 1793263749.0398831,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r1",
+  "batch": "b2",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462819560,
+   462819561,
+   462819562,
+   462819563
+  ],
+  "predicted_ts": 1793263762.2515159,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r1",
+  "batch": "b1",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462819640,
+   462819641,
+   462819642,
+   462819643
+  ],
+  "predicted_ts": 1793263779.405557,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r1",
+  "batch": "b5",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462819748,
+   462819749,
+   462819750,
+   462819751
+  ],
+  "predicted_ts": 1793263802.6643844,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r1",
+  "batch": "b3a",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462819844,
+   462819845,
+   462819846,
+   462819847
+  ],
+  "predicted_ts": 1793263823.6909158,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r1",
+  "batch": "b6",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462819896,
+   462819897,
+   462819898,
+   462819899
+  ],
+  "predicted_ts": 1793263834.7289495,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r1",
+  "batch": "b3b",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462819940,
+   462819941,
+   462819942,
+   462819943
+  ],
+  "predicted_ts": 1793263843.8195581,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r1",
+  "batch": "b1",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462819996,
+   462819997,
+   462819998,
+   462819999
+  ],
+  "predicted_ts": 1793263855.3434834,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r1",
+  "batch": "b4",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462820096,
+   462820097,
+   462820098,
+   462820099
+  ],
+  "predicted_ts": 1793263876.4616551,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r1",
+  "batch": "b2",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462820140,
+   462820141,
+   462820142,
+   462820143
+  ],
+  "predicted_ts": 1793263885.9914293,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r1",
+  "batch": "b2",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462820200,
+   462820201,
+   462820202,
+   462820203
+  ],
+  "predicted_ts": 1793263898.5562997,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r1",
+  "batch": "b2",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462820240,
+   462820241,
+   462820242,
+   462820243
+  ],
+  "predicted_ts": 1793263906.4396067,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r1",
+  "batch": "b5",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462820288,
+   462820289,
+   462820290,
+   462820291
+  ],
+  "predicted_ts": 1793263916.8543234,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r1",
+  "batch": "b6",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462820432,
+   462820433,
+   462820434,
+   462820435
+  ],
+  "predicted_ts": 1793263947.543624,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r1",
+  "batch": "b2",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462820488,
+   462820489,
+   462820490,
+   462820491
+  ],
+  "predicted_ts": 1793263960.0258393,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r1",
+  "batch": "b3a",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462820596,
+   462820597,
+   462820598,
+   462820599
+  ],
+  "predicted_ts": 1793263982.9217486,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r1",
+  "batch": "b3a",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462820792,
+   462820793,
+   462820794,
+   462820795
+  ],
+  "predicted_ts": 1793264023.3101888,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r1",
+  "batch": "b1",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462820872,
+   462820873,
+   462820874,
+   462820875
+  ],
+  "predicted_ts": 1793264040.1117935,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r1",
+  "batch": "b2",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462821028,
+   462821029,
+   462821030,
+   462821031
+  ],
+  "predicted_ts": 1793264072.2029562,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r1",
+  "batch": "b3b",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462821124,
+   462821125,
+   462821126,
+   462821127
+  ],
+  "predicted_ts": 1793264092.7358866,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r1",
+  "batch": "b3b",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462821280,
+   462821281,
+   462821282,
+   462821283
+  ],
+  "predicted_ts": 1793264125.1154833,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r1",
+  "batch": "b3a",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462821368,
+   462821369,
+   462821370,
+   462821371
+  ],
+  "predicted_ts": 1793264145.1930368,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r1",
+  "batch": "b3b",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462821488,
+   462821489,
+   462821490,
+   462821491
+  ],
+  "predicted_ts": 1793264170.7116323,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r1",
+  "batch": "b4",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462821584,
+   462821585,
+   462821586,
+   462821587
+  ],
+  "predicted_ts": 1793264190.2938104,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r1",
+  "batch": "b4",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462821692,
+   462821693,
+   462821694,
+   462821695
+  ],
+  "predicted_ts": 1793264213.3825965,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r1",
+  "batch": "b3a",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462821784,
+   462821785,
+   462821786,
+   462821787
+  ],
+  "predicted_ts": 1793264232.8597643,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r1",
+  "batch": "b5",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462821824,
+   462821825,
+   462821826,
+   462821827
+  ],
+  "predicted_ts": 1793264241.269308,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r1",
+  "batch": "b5",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462821912,
+   462821913,
+   462821914,
+   462821915
+  ],
+  "predicted_ts": 1793264259.8986506,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r1",
+  "batch": "b6",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462822140,
+   462822141,
+   462822142,
+   462822143
+  ],
+  "predicted_ts": 1793264309.654967,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r1",
+  "batch": "b3b",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462822260,
+   462822261,
+   462822262,
+   462822263
+  ],
+  "predicted_ts": 1793264335.956984,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r1",
+  "batch": "b4",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462822320,
+   462822321,
+   462822322,
+   462822323
+  ],
+  "predicted_ts": 1793264348.4280195,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r1",
+  "batch": "b4",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462822408,
+   462822409,
+   462822410,
+   462822411
+  ],
+  "predicted_ts": 1793264367.3308778,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r1",
+  "batch": "b6",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462822468,
+   462822469,
+   462822470,
+   462822471
+  ],
+  "predicted_ts": 1793264379.323617,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r1",
+  "batch": "b5",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462822556,
+   462822557,
+   462822558,
+   462822559
+  ],
+  "predicted_ts": 1793264397.8931556,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r1",
+  "batch": "b6",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462822796,
+   462822797,
+   462822798,
+   462822799
+  ],
+  "predicted_ts": 1793264448.81819,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r1",
+  "batch": "b5",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462824220,
+   462824221,
+   462824222,
+   462824223
+  ],
+  "predicted_ts": 1793264752.744611,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r1",
+  "batch": "b3a",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462824380,
+   462824381,
+   462824382,
+   462824383
+  ],
+  "predicted_ts": 1793264787.1975126,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r1",
+  "batch": "b3b",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462825092,
+   462825093,
+   462825094,
+   462825095
+  ],
+  "predicted_ts": 1793264940.2882943,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r1",
+  "batch": "b4",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462825640,
+   462825641,
+   462825642,
+   462825643
+  ],
+  "predicted_ts": 1793265057.5962672,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r1",
+  "batch": "b6",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462826100,
+   462826101,
+   462826102,
+   462826103
+  ],
+  "predicted_ts": 1793265153.6579537,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r1",
+  "batch": "b5",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462828588,
+   462828589,
+   462828590,
+   462828591
+  ],
+  "predicted_ts": 1793265681.878984,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r1",
+  "batch": "b6",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462829508,
+   462829509,
+   462829510,
+   462829511
+  ],
+  "predicted_ts": 1793265879.7941341,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r2",
+  "batch": "b1",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462830464,
+   462830465,
+   462830466,
+   462830467
+  ],
+  "predicted_ts": 1793266084.6179001,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r2",
+  "batch": "b2",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462830660,
+   462830661,
+   462830662,
+   462830663
+  ],
+  "predicted_ts": 1793266125.470013,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r2",
+  "batch": "b1",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462831192,
+   462831193,
+   462831194,
+   462831195
+  ],
+  "predicted_ts": 1793266240.7991085,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r2",
+  "batch": "b3a",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462831444,
+   462831445,
+   462831446,
+   462831447
+  ],
+  "predicted_ts": 1793266293.670312,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r2",
+  "batch": "b3b",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462832348,
+   462832349,
+   462832350,
+   462832351
+  ],
+  "predicted_ts": 1793266487.002602,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r2",
+  "batch": "b1",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462832840,
+   462832841,
+   462832842,
+   462832843
+  ],
+  "predicted_ts": 1793266591.309711,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r2",
+  "batch": "b2",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462832960,
+   462832961,
+   462832962,
+   462832963
+  ],
+  "predicted_ts": 1793266617.5130725,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r2",
+  "batch": "b4",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462833012,
+   462833013,
+   462833014,
+   462833015
+  ],
+  "predicted_ts": 1793266627.899837,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r2",
+  "batch": "b1",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462833056,
+   462833057,
+   462833058,
+   462833059
+  ],
+  "predicted_ts": 1793266637.1933904,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r2",
+  "batch": "b5",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462833128,
+   462833129,
+   462833130,
+   462833131
+  ],
+  "predicted_ts": 1793266652.9347253,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r2",
+  "batch": "b2",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462833188,
+   462833189,
+   462833190,
+   462833191
+  ],
+  "predicted_ts": 1793266666.745154,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r2",
+  "batch": "b3a",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462833316,
+   462833317,
+   462833318,
+   462833319
+  ],
+  "predicted_ts": 1793266694.3232477,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r2",
+  "batch": "b3a",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462833356,
+   462833357,
+   462833358,
+   462833359
+  ],
+  "predicted_ts": 1793266702.0281186,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r2",
+  "batch": "b3b",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462833444,
+   462833445,
+   462833446,
+   462833447
+  ],
+  "predicted_ts": 1793266721.8676887,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r2",
+  "batch": "b3b",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462833712,
+   462833713,
+   462833714,
+   462833715
+  ],
+  "predicted_ts": 1793266780.3553863,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r2",
+  "batch": "b4",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462833832,
+   462833833,
+   462833834,
+   462833835
+  ],
+  "predicted_ts": 1793266805.5092525,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r2",
+  "batch": "b5",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462833908,
+   462833909,
+   462833910,
+   462833911
+  ],
+  "predicted_ts": 1793266821.8850572,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r2",
+  "batch": "b4",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462833956,
+   462833957,
+   462833958,
+   462833959
+  ],
+  "predicted_ts": 1793266832.6925075,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r2",
+  "batch": "b6",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462834004,
+   462834005,
+   462834006,
+   462834007
+  ],
+  "predicted_ts": 1793266843.2572985,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r2",
+  "batch": "b5",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462834172,
+   462834173,
+   462834174,
+   462834175
+  ],
+  "predicted_ts": 1793266879.0142078,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r2",
+  "batch": "b6",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462834220,
+   462834221,
+   462834222,
+   462834223
+  ],
+  "predicted_ts": 1793266888.6605954,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r2",
+  "batch": "b1",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462834376,
+   462834377,
+   462834378,
+   462834379
+  ],
+  "predicted_ts": 1793266922.371346,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r2",
+  "batch": "b6",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462834420,
+   462834421,
+   462834422,
+   462834423
+  ],
+  "predicted_ts": 1793266932.4286914,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r2",
+  "batch": "b2",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462834516,
+   462834517,
+   462834518,
+   462834519
+  ],
+  "predicted_ts": 1793266953.1881638,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r2",
+  "batch": "b3a",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462834652,
+   462834653,
+   462834654,
+   462834655
+  ],
+  "predicted_ts": 1793266981.9757786,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r2",
+  "batch": "b3b",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462834716,
+   462834717,
+   462834718,
+   462834719
+  ],
+  "predicted_ts": 1793266994.7002409,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r2",
+  "batch": "b4",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462834936,
+   462834937,
+   462834938,
+   462834939
+  ],
+  "predicted_ts": 1793267041.2160478,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r2",
+  "batch": "b5",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462834980,
+   462834981,
+   462834982,
+   462834983
+  ],
+  "predicted_ts": 1793267049.7478082,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r2",
+  "batch": "b6",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462835024,
+   462835025,
+   462835026,
+   462835027
+  ],
+  "predicted_ts": 1793267059.2249875,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r2",
+  "batch": "b1",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462835072,
+   462835073,
+   462835074,
+   462835075
+  ],
+  "predicted_ts": 1793267069.1264162,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r2",
+  "batch": "b2",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462835140,
+   462835141,
+   462835142,
+   462835143
+  ],
+  "predicted_ts": 1793267083.6989508,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r2",
+  "batch": "b3a",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462835192,
+   462835193,
+   462835194,
+   462835195
+  ],
+  "predicted_ts": 1793267094.8259294,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r2",
+  "batch": "b3b",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462835300,
+   462835301,
+   462835302,
+   462835303
+  ],
+  "predicted_ts": 1793267116.9620247,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r2",
+  "batch": "b4",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462835468,
+   462835469,
+   462835470,
+   462835471
+  ],
+  "predicted_ts": 1793267153.4146018,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r2",
+  "batch": "b2",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462835532,
+   462835533,
+   462835534,
+   462835535
+  ],
+  "predicted_ts": 1793267166.302885,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r2",
+  "batch": "b1",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462835664,
+   462835665,
+   462835666,
+   462835667
+  ],
+  "predicted_ts": 1793267193.9721398,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r2",
+  "batch": "b5",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462835768,
+   462835769,
+   462835770,
+   462835771
+  ],
+  "predicted_ts": 1793267216.01124,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r2",
+  "batch": "b6",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462835828,
+   462835829,
+   462835830,
+   462835831
+  ],
+  "predicted_ts": 1793267228.905984,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r2",
+  "batch": "b2",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462837088,
+   462837089,
+   462837090,
+   462837091
+  ],
+  "predicted_ts": 1793267498.3604918,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r2",
+  "batch": "b1",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462837756,
+   462837757,
+   462837758,
+   462837759
+  ],
+  "predicted_ts": 1793267642.0707755,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r2",
+  "batch": "b2",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462838064,
+   462838065,
+   462838066,
+   462838067
+  ],
+  "predicted_ts": 1793267706.125377,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r2",
+  "batch": "b3a",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462838380,
+   462838381,
+   462838382,
+   462838383
+  ],
+  "predicted_ts": 1793267773.7946432,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r2",
+  "batch": "b3b",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462838628,
+   462838629,
+   462838630,
+   462838631
+  ],
+  "predicted_ts": 1793267828.361731,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r2",
+  "batch": "b4",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462838744,
+   462838745,
+   462838746,
+   462838747
+  ],
+  "predicted_ts": 1793267852.522407,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r2",
+  "batch": "b3a",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462838844,
+   462838845,
+   462838846,
+   462838847
+  ],
+  "predicted_ts": 1793267873.0483203,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r2",
+  "batch": "b5",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462839144,
+   462839145,
+   462839146,
+   462839147
+  ],
+  "predicted_ts": 1793267935.9173827,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r2",
+  "batch": "b6",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462839356,
+   462839357,
+   462839358,
+   462839359
+  ],
+  "predicted_ts": 1793267981.1061568,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r2",
+  "batch": "b3a",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462841032,
+   462841033,
+   462841034,
+   462841035
+  ],
+  "predicted_ts": 1793268343.4518013,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r2",
+  "batch": "b3b",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462842192,
+   462842193,
+   462842194,
+   462842195
+  ],
+  "predicted_ts": 1793268595.6076798,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r2",
+  "batch": "b3b",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462842240,
+   462842241,
+   462842242,
+   462842243
+  ],
+  "predicted_ts": 1793268604.2571328,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r2",
+  "batch": "b4",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462842884,
+   462842885,
+   462842886,
+   462842887
+  ],
+  "predicted_ts": 1793268742.0249162,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r2",
+  "batch": "b4",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462842940,
+   462842941,
+   462842942,
+   462842943
+  ],
+  "predicted_ts": 1793268752.9291153,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r2",
+  "batch": "b5",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462843468,
+   462843469,
+   462843470,
+   462843471
+  ],
+  "predicted_ts": 1793268865.5721946,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r2",
+  "batch": "b6",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462844112,
+   462844113,
+   462844114,
+   462844115
+  ],
+  "predicted_ts": 1793269002.7057123,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r2",
+  "batch": "b5",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462845612,
+   462845613,
+   462845614,
+   462845615
+  ],
+  "predicted_ts": 1793269324.6976004,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r3",
+  "batch": "b1",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462846944,
+   462846945,
+   462846946,
+   462846947
+  ],
+  "predicted_ts": 1793269610.117299,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r3",
+  "batch": "b2",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462847072,
+   462847073,
+   462847074,
+   462847075
+  ],
+  "predicted_ts": 1793269636.5772545,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r3",
+  "batch": "b3a",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462847244,
+   462847245,
+   462847246,
+   462847247
+  ],
+  "predicted_ts": 1793269674.1911654,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r3",
+  "batch": "b1",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462847316,
+   462847317,
+   462847318,
+   462847319
+  ],
+  "predicted_ts": 1793269688.1969008,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r3",
+  "batch": "b2",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462847408,
+   462847409,
+   462847410,
+   462847411
+  ],
+  "predicted_ts": 1793269707.3747272,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r3",
+  "batch": "b3b",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462847552,
+   462847553,
+   462847554,
+   462847555
+  ],
+  "predicted_ts": 1793269738.7611678,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r3",
+  "batch": "b3a",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462847628,
+   462847629,
+   462847630,
+   462847631
+  ],
+  "predicted_ts": 1793269754.8597713,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r3",
+  "batch": "b3b",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462847776,
+   462847777,
+   462847778,
+   462847779
+  ],
+  "predicted_ts": 1793269786.269456,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r3",
+  "batch": "b1",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462847884,
+   462847885,
+   462847886,
+   462847887
+  ],
+  "predicted_ts": 1793269809.2291827,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r3",
+  "batch": "b1",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462847944,
+   462847945,
+   462847946,
+   462847947
+  ],
+  "predicted_ts": 1793269821.6326141,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r3",
+  "batch": "b2",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462848020,
+   462848021,
+   462848022,
+   462848023
+  ],
+  "predicted_ts": 1793269838.152247,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r3",
+  "batch": "b3a",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462848068,
+   462848069,
+   462848070,
+   462848071
+  ],
+  "predicted_ts": 1793269848.2338166,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r3",
+  "batch": "b3b",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462848132,
+   462848133,
+   462848134,
+   462848135
+  ],
+  "predicted_ts": 1793269861.7881672,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r3",
+  "batch": "b4",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462848176,
+   462848177,
+   462848178,
+   462848179
+  ],
+  "predicted_ts": 1793269871.1188712,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r3",
+  "batch": "b5",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462848256,
+   462848257,
+   462848258,
+   462848259
+  ],
+  "predicted_ts": 1793269888.395819,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r3",
+  "batch": "b4",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462848308,
+   462848309,
+   462848310,
+   462848311
+  ],
+  "predicted_ts": 1793269899.125094,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r3",
+  "batch": "b4",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462848356,
+   462848357,
+   462848358,
+   462848359
+  ],
+  "predicted_ts": 1793269909.970049,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r3",
+  "batch": "b6",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462848432,
+   462848433,
+   462848434,
+   462848435
+  ],
+  "predicted_ts": 1793269926.2496982,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r3",
+  "batch": "b5",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462848492,
+   462848493,
+   462848494,
+   462848495
+  ],
+  "predicted_ts": 1793269938.9738941,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r3",
+  "batch": "b6",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462848596,
+   462848597,
+   462848598,
+   462848599
+  ],
+  "predicted_ts": 1793269961.069128,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r3",
+  "batch": "b2",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462848820,
+   462848821,
+   462848822,
+   462848823
+  ],
+  "predicted_ts": 1793270007.3388486,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r3",
+  "batch": "b5",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462848924,
+   462848925,
+   462848926,
+   462848927
+  ],
+  "predicted_ts": 1793270030.3092835,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r3",
+  "batch": "b3a",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462849040,
+   462849041,
+   462849042,
+   462849043
+  ],
+  "predicted_ts": 1793270056.4665458,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r3",
+  "batch": "b3b",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462849080,
+   462849081,
+   462849082,
+   462849083
+  ],
+  "predicted_ts": 1793270065.1389928,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r3",
+  "batch": "b1",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462849200,
+   462849201,
+   462849202,
+   462849203
+  ],
+  "predicted_ts": 1793270091.1513371,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r3",
+  "batch": "b6",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462849252,
+   462849253,
+   462849254,
+   462849255
+  ],
+  "predicted_ts": 1793270101.932482,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r3",
+  "batch": "b2",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462849312,
+   462849313,
+   462849314,
+   462849315
+  ],
+  "predicted_ts": 1793270114.6433625,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r3",
+  "batch": "b4",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462849360,
+   462849361,
+   462849362,
+   462849363
+  ],
+  "predicted_ts": 1793270125.245754,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r3",
+  "batch": "b5",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462849556,
+   462849557,
+   462849558,
+   462849559
+  ],
+  "predicted_ts": 1793270166.773594,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r3",
+  "batch": "b3a",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462849608,
+   462849609,
+   462849610,
+   462849611
+  ],
+  "predicted_ts": 1793270177.1207416,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r2",
+  "batch": "b6",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462849792,
+   462849793,
+   462849794,
+   462849795
+  ],
+  "predicted_ts": 1793270217.3452773,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r3",
+  "batch": "b6",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462850024,
+   462850025,
+   462850026,
+   462850027
+  ],
+  "predicted_ts": 1793270267.5079045,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r3",
+  "batch": "b3b",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462850336,
+   462850337,
+   462850338,
+   462850339
+  ],
+  "predicted_ts": 1793270334.9952838,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r3",
+  "batch": "b1",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462850464,
+   462850465,
+   462850466,
+   462850467
+  ],
+  "predicted_ts": 1793270363.559176,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r3",
+  "batch": "b2",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462850696,
+   462850697,
+   462850698,
+   462850699
+  ],
+  "predicted_ts": 1793270412.6311045,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r3",
+  "batch": "b4",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462850984,
+   462850985,
+   462850986,
+   462850987
+  ],
+  "predicted_ts": 1793270474.1208544,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r3",
+  "batch": "b3a",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462851136,
+   462851137,
+   462851138,
+   462851139
+  ],
+  "predicted_ts": 1793270504.8217773,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r3",
+  "batch": "b3b",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462851472,
+   462851473,
+   462851474,
+   462851475
+  ],
+  "predicted_ts": 1793270576.9510415,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r3",
+  "batch": "b1",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462851540,
+   462851541,
+   462851542,
+   462851543
+  ],
+  "predicted_ts": 1793270591.1236517,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r3",
+  "batch": "b4",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462851948,
+   462851949,
+   462851950,
+   462851951
+  ],
+  "predicted_ts": 1793270677.4678729,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r3",
+  "batch": "b5",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462852040,
+   462852041,
+   462852042,
+   462852043
+  ],
+  "predicted_ts": 1793270697.5855317,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r3",
+  "batch": "b2",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462852440,
+   462852441,
+   462852442,
+   462852443
+  ],
+  "predicted_ts": 1793270785.3099675,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r3",
+  "batch": "b6",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462852484,
+   462852485,
+   462852486,
+   462852487
+  ],
+  "predicted_ts": 1793270793.6131535,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r3",
+  "batch": "b5",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462852768,
+   462852769,
+   462852770,
+   462852771
+  ],
+  "predicted_ts": 1793270856.8040857,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r3",
+  "batch": "b3a",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462853380,
+   462853381,
+   462853382,
+   462853383
+  ],
+  "predicted_ts": 1793270986.8804822,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r3",
+  "batch": "b1",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462856340,
+   462856341,
+   462856342,
+   462856343
+  ],
+  "predicted_ts": 1793271617.8721817,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r3",
+  "batch": "b3b",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462856764,
+   462856765,
+   462856766,
+   462856767
+  ],
+  "predicted_ts": 1793271707.3294477,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r3",
+  "batch": "b2",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462856928,
+   462856929,
+   462856930,
+   462856931
+  ],
+  "predicted_ts": 1793271742.9683092,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r3",
+  "batch": "b4",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462857096,
+   462857097,
+   462857098,
+   462857099
+  ],
+  "predicted_ts": 1793271777.7304153,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r3",
+  "batch": "b3a",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462857212,
+   462857213,
+   462857214,
+   462857215
+  ],
+  "predicted_ts": 1793271801.6321654,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r3",
+  "batch": "b3b",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462857452,
+   462857453,
+   462857454,
+   462857455
+  ],
+  "predicted_ts": 1793271853.7226248,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r3",
+  "batch": "b5",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462857508,
+   462857509,
+   462857510,
+   462857511
+  ],
+  "predicted_ts": 1793271865.6785822,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r3",
+  "batch": "b4",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462858776,
+   462858777,
+   462858778,
+   462858779
+  ],
+  "predicted_ts": 1793272137.8528736,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r3",
+  "batch": "b5",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462858856,
+   462858857,
+   462858858,
+   462858859
+  ],
+  "predicted_ts": 1793272155.094995,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r3",
+  "batch": "b6",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462860060,
+   462860061,
+   462860062,
+   462860063
+  ],
+  "predicted_ts": 1793272414.7514725,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r3",
+  "batch": "b6",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462862504,
+   462862505,
+   462862506,
+   462862507
+  ],
+  "predicted_ts": 1793272935.7273002,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r4",
+  "batch": "b1",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462862572,
+   462862573,
+   462862574,
+   462862575
+  ],
+  "predicted_ts": 1793272949.8600225,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r4",
+  "batch": "b1",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462862640,
+   462862641,
+   462862642,
+   462862643
+  ],
+  "predicted_ts": 1793272965.004076,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r4",
+  "batch": "b2",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462862900,
+   462862901,
+   462862902,
+   462862903
+  ],
+  "predicted_ts": 1793273019.466847,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r4",
+  "batch": "b1",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462863008,
+   462863009,
+   462863010,
+   462863011
+  ],
+  "predicted_ts": 1793273041.9670296,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r4",
+  "batch": "b2",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462863080,
+   462863081,
+   462863082,
+   462863083
+  ],
+  "predicted_ts": 1793273057.163504,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r4",
+  "batch": "b1",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462863384,
+   462863385,
+   462863386,
+   462863387
+  ],
+  "predicted_ts": 1793273122.841009,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r4",
+  "batch": "b2",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462863432,
+   462863433,
+   462863434,
+   462863435
+  ],
+  "predicted_ts": 1793273132.2735744,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r4",
+  "batch": "b3a",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462863488,
+   462863489,
+   462863490,
+   462863491
+  ],
+  "predicted_ts": 1793273144.2910576,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r4",
+  "batch": "b3b",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462863604,
+   462863605,
+   462863606,
+   462863607
+  ],
+  "predicted_ts": 1793273168.633592,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r4",
+  "batch": "b3a",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462863684,
+   462863685,
+   462863686,
+   462863687
+  ],
+  "predicted_ts": 1793273184.900491,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r4",
+  "batch": "b3b",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462863732,
+   462863733,
+   462863734,
+   462863735
+  ],
+  "predicted_ts": 1793273195.8366504,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r4",
+  "batch": "b4",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462863772,
+   462863773,
+   462863774,
+   462863775
+  ],
+  "predicted_ts": 1793273204.9002185,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r4",
+  "batch": "b5",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462863832,
+   462863833,
+   462863834,
+   462863835
+  ],
+  "predicted_ts": 1793273218.0316777,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r4",
+  "batch": "b2",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462863884,
+   462863885,
+   462863886,
+   462863887
+  ],
+  "predicted_ts": 1793273228.9821796,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r4",
+  "batch": "b3a",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462863948,
+   462863949,
+   462863950,
+   462863951
+  ],
+  "predicted_ts": 1793273242.1310434,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-HEL1US-r4",
+  "batch": "b6",
+  "validator": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+  "slots": [
+   462863992,
+   462863993,
+   462863994,
+   462863995
+  ],
+  "predicted_ts": 1793273251.520888,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r4",
+  "batch": "b3a",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462864092,
+   462864093,
+   462864094,
+   462864095
+  ],
+  "predicted_ts": 1793273272.4623268,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r4",
+  "batch": "b4",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462864180,
+   462864181,
+   462864182,
+   462864183
+  ],
+  "predicted_ts": 1793273291.55636,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r4",
+  "batch": "b5",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462864232,
+   462864233,
+   462864234,
+   462864235
+  ],
+  "predicted_ts": 1793273303.8004885,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r4",
+  "batch": "b3b",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462864276,
+   462864277,
+   462864278,
+   462864279
+  ],
+  "predicted_ts": 1793273312.896649,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r4",
+  "batch": "b1",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462864344,
+   462864345,
+   462864346,
+   462864347
+  ],
+  "predicted_ts": 1793273326.7163382,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r4",
+  "batch": "b4",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462864496,
+   462864497,
+   462864498,
+   462864499
+  ],
+  "predicted_ts": 1793273358.0317087,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r4",
+  "batch": "b1",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462864536,
+   462864537,
+   462864538,
+   462864539
+  ],
+  "predicted_ts": 1793273368.001114,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r4",
+  "batch": "b1",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462864592,
+   462864593,
+   462864594,
+   462864595
+  ],
+  "predicted_ts": 1793273380.0249043,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r4",
+  "batch": "b5",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462864700,
+   462864701,
+   462864702,
+   462864703
+  ],
+  "predicted_ts": 1793273402.9496756,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-Fd7btg-r4",
+  "batch": "b6",
+  "validator": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+  "slots": [
+   462864784,
+   462864785,
+   462864786,
+   462864787
+  ],
+  "predicted_ts": 1793273420.9161963,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r4",
+  "batch": "b2",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462864884,
+   462864885,
+   462864886,
+   462864887
+  ],
+  "predicted_ts": 1793273442.283169,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r4",
+  "batch": "b2",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462864940,
+   462864941,
+   462864942,
+   462864943
+  ],
+  "predicted_ts": 1793273454.926309,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r4",
+  "batch": "b3a",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462865008,
+   462865009,
+   462865010,
+   462865011
+  ],
+  "predicted_ts": 1793273469.8763676,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r4",
+  "batch": "b3b",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462865056,
+   462865057,
+   462865058,
+   462865059
+  ],
+  "predicted_ts": 1793273479.5657117,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r4",
+  "batch": "b3b",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462865152,
+   462865153,
+   462865154,
+   462865155
+  ],
+  "predicted_ts": 1793273500.4524975,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r4",
+  "batch": "b2",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462865212,
+   462865213,
+   462865214,
+   462865215
+  ],
+  "predicted_ts": 1793273512.354817,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r4",
+  "batch": "b3a",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462865280,
+   462865281,
+   462865282,
+   462865283
+  ],
+  "predicted_ts": 1793273527.6790154,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r4",
+  "batch": "b3b",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462865440,
+   462865441,
+   462865442,
+   462865443
+  ],
+  "predicted_ts": 1793273562.357289,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r4",
+  "batch": "b4",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462865484,
+   462865485,
+   462865486,
+   462865487
+  ],
+  "predicted_ts": 1793273571.6046147,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r4",
+  "batch": "b4",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462865536,
+   462865537,
+   462865538,
+   462865539
+  ],
+  "predicted_ts": 1793273582.9346046,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r4",
+  "batch": "b5",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462865692,
+   462865693,
+   462865694,
+   462865695
+  ],
+  "predicted_ts": 1793273616.9009135,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r4",
+  "batch": "b5",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462865736,
+   462865737,
+   462865738,
+   462865739
+  ],
+  "predicted_ts": 1793273626.7795403,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r4",
+  "batch": "b4",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462865828,
+   462865829,
+   462865830,
+   462865831
+  ],
+  "predicted_ts": 1793273647.4292703,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r4",
+  "batch": "b5",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462865876,
+   462865877,
+   462865878,
+   462865879
+  ],
+  "predicted_ts": 1793273657.2568502,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-DRpbCB-r4",
+  "batch": "b6",
+  "validator": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
+  "slots": [
+   462865920,
+   462865921,
+   462865922,
+   462865923
+  ],
+  "predicted_ts": 1793273666.5010152,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-JUPiTE-r4",
+  "batch": "b6",
+  "validator": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+  "slots": [
+   462866088,
+   462866089,
+   462866090,
+   462866091
+  ],
+  "predicted_ts": 1793273701.871984,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9eGrDo-r4",
+  "batch": "b6",
+  "validator": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+  "slots": [
+   462866384,
+   462866385,
+   462866386,
+   462866387
+  ],
+  "predicted_ts": 1793273765.1460779,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-9jxgos-r4",
+  "batch": "b6",
+  "validator": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+  "slots": [
+   462866624,
+   462866625,
+   462866626,
+   462866627
+  ],
+  "predicted_ts": 1793273817.5953314,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r4",
+  "batch": "b1",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462867140,
+   462867141,
+   462867142,
+   462867143
+  ],
+  "predicted_ts": 1793273926.8165007,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r4",
+  "batch": "b3a",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462868000,
+   462868001,
+   462868002,
+   462868003
+  ],
+  "predicted_ts": 1793274112.5302489,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r4",
+  "batch": "b3b",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462868212,
+   462868213,
+   462868214,
+   462868215
+  ],
+  "predicted_ts": 1793274157.9966621,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r4",
+  "batch": "b4",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462870000,
+   462870001,
+   462870002,
+   462870003
+  ],
+  "predicted_ts": 1793274542.35085,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r4",
+  "batch": "b2",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462870680,
+   462870681,
+   462870682,
+   462870683
+  ],
+  "predicted_ts": 1793274687.2209558,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r4",
+  "batch": "b5",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462871868,
+   462871869,
+   462871870,
+   462871871
+  ],
+  "predicted_ts": 1793274942.2231216,
+  "observed_ts": null
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r4",
+  "batch": "b3a",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462872092,
+   462872093,
+   462872094,
+   462872095
+  ],
+  "predicted_ts": 1793274988.542983,
+  "observed_ts": 1793274989.4341178
+ },
+ {
+  "run_id": "20261029T084255Z-7QQGNm-r4",
+  "batch": "b6",
+  "validator": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
+  "slots": [
+   462872780,
+   462872781,
+   462872782,
+   462872783
+  ],
+  "predicted_ts": 1793275138.5273924,
+  "observed_ts": 1793275138.50561
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r4",
+  "batch": "b3b",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462873680,
+   462873681,
+   462873682,
+   462873683
+  ],
+  "predicted_ts": 1793275329.703865,
+  "observed_ts": 1793275329.736208
+ },
+ {
+  "run_id": "20261029T084255Z-5Us18h-r4",
+  "batch": "b4",
+  "validator": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
+  "slots": [
+   462875756,
+   462875757,
+   462875758,
+   462875759
+  ],
+  "predicted_ts": 1793275776.515914,
+  "observed_ts": 1793275775.9495301
+ }
+]

@@ -1,0 +1,7 @@
+{
+ "batch_txs": 8,
+ "prepare_ms": 25.49,
+ "dispatch_spread_us": 3199,
+ "lamports_spent": 0,
+ "network_sends": 0
+}

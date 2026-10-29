@@ -13,7 +13,7 @@ from pathlib import Path
 from .config import ConfigError, load_settings
 from .matrix import build_window_plan, estimate_cost
 
-STAGES = ["approve", "select", "track", "discover", "plan", "send", "collect", "analyze", "report", "verify"]
+STAGES = ["reconcile", "approve", "select", "track", "discover", "plan", "send", "collect", "analyze", "report", "verify"]
 
 
 def _run_id() -> str:
@@ -68,7 +68,7 @@ def cmd_send(a, s):
     from .snapshot import snapshot_targets
     if s.live:
         from .live import run_live
-        return run_live(s, a.resume, a.only, a.max_batches)
+        return run_live(s, a.resume, a.only, a.max_batches, a.redo)
     if not s.targets:
         print("no targets: run `itb select` first", file=sys.stderr)
         return 2
@@ -217,7 +217,8 @@ def cmd_approve(a):
     for t in s.targets:
         print(f"  {t['identity'][:8]}  {t['client_family']:16} {t['version']}")
     print(f"Fee cap: {cap} lamports ({cap / LAMPORTS_PER_SOL} SOL); worst-case plan {est['total_lamports']} lamports, {est['txs']} txs")
-    print(f"Payer deposits (returned): {N_PAYERS * FUND_EACH} lamports. Wallet must hold >= {wallet_need(cap)} lamports.")
+    print(f"Fee cap is deposited into {N_PAYERS} payers (they pay the fees) plus a rent floor of {N_PAYERS * FUND_EACH}; unspent is swept back.")
+    print(f"Wallet must hold >= {wallet_need(cap)} lamports.")
     if not sys.stdin.isatty():
         print("not an interactive terminal: a person must run this", file=sys.stderr)
         return 2
@@ -226,6 +227,29 @@ def cmd_approve(a):
         return 1
     write_approval(APPROVAL_FILE, a.by, cap, s.targets, N_PAYERS * FUND_EACH)
     print(f"wrote {APPROVAL_FILE}")
+
+
+def cmd_reconcile(a):
+    """Replace worst-case ledger reservations by the fees really paid on chain. A human confirms, because it
+    loosens the spend cap's bookkeeping (it never raises the cap)."""
+    from .ledger import actual_spend, reconcile
+    s = load_settings()
+    lp = s.data_dir / "ledger" / "spend_ledger.json"
+    st = json.loads(lp.read_text())
+    runs = [s.data_dir / "raw" / r for r in st["runs"]]
+    act = actual_spend(runs)
+    print(f"cap {st['cap_lamports']}  recorded spend {st['spent_lamports']}")
+    for r, v in st["runs"].items():
+        print(f"  {r}: reserved {v}  actually paid on chain {act[r]}")
+    print(f"-> spend would become {sum(min(st['runs'][r], act[r]) for r in st['runs'])} (cap unchanged)")
+    if not sys.stdin.isatty():
+        print("not an interactive terminal: a person must run this", file=sys.stderr)
+        return 2
+    if input("Type RECONCILE to apply: ").strip() != "RECONCILE":
+        print("not applied")
+        return 1
+    reconcile(lp, act)
+    print("ledger reconciled")
 
 
 def cmd_plan(a, s):
@@ -282,6 +306,7 @@ def main(argv=None) -> int:
             sp.add_argument("--watch", type=float, default=60,
                             help="dry-run: seconds of real windows to replay for the would-we-hit report (0 = skip)")
             sp.add_argument("--resume", help="run stamp to resume (batches already started are never resent)")
+            sp.add_argument("--redo", help="live: re-send the batches of this finished run that never reached the chain")
             sp.add_argument("--only", help="live: only the validator whose identity starts with this")
             sp.add_argument("--max-batches", type=int, help="live: only the first N scheduled batches")
         if st == "verify":
@@ -298,6 +323,8 @@ def main(argv=None) -> int:
         return 0
     if a.stage == "approve":
         return cmd_approve(a) or 0
+    if a.stage == "reconcile":
+        return cmd_reconcile(a) or 0
     try:
         s = load_settings(live=a.live, cap_sol=a.cap_sol)
     except ConfigError as e:

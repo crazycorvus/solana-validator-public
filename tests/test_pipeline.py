@@ -31,7 +31,7 @@ def run_pipeline(tmp_path, rule):
 
 def test_fee_rule_recovered_from_chain(tmp_path):
     b, rows, res, led = run_pipeline(tmp_path, "fee")
-    assert res == {"full": 1, "compact": 5}  # other 5 collected slots are not in the chain: stored as compact "skipped"
+    assert res == {"full": 0, "compact": 6}  # all compact by default; 5 slots are not on the chain (stored as skipped)
     assert all(r["outcome"] == "landed" for r in rows) and len(rows) == len(b.probes)
     price = {p.probe_id: p.cu_price for p in b.probes}
     by_rank = sorted(rows, key=lambda r: r["rank_in_batch"])

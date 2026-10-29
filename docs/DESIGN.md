@@ -63,5 +63,12 @@ Not separated (stated in README too)
 * Validated on synthetic chains with a planted rule (tests/test_infer.py): recovers H1/H2/H3, also with 10%
   adjacent-swap noise; on random order 38 of 40 seeds give `H6/noise`, 2 give `mixed`, 0 false rules.
 
-## Amendments
-(none)
+## Amendments (made AFTER seeing live data; dated 2026-10-29)
+1. **H5 was trivially satisfied and is now same-slot only.** The pre-registered H5 statistic was Spearman of
+   position vs send offset over ALL probes of the b5 batch. On the first full live data it came out at +0.82 to
+   +0.99 for 7 of 8 validators, because probes sent later land in later slots whatever rule the leader uses
+   (cross-slot order is just time). That is a flaw in the pre-registered test, not a finding. H5 is now Kendall
+   tau between earlier send and earlier position over same-slot pairs only, like H1-H4, with the same thresholds.
+   Both versions were run; the original numbers are kept in `data/analysis/verdicts_h5_crossslot.json`.
+2. **Redo of the first live study** (payer deposits too small: see README and report). Batches that never fully
+   reached the chain were excluded (`exclusions.json`) and re-sent under the same run ids.

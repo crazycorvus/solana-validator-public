@@ -81,3 +81,38 @@ class SpendLedger:
             st["runs"][run_id] = st["runs"].get(run_id, 0) + lamports
             self._write(st)
             return st["spent_lamports"]
+
+
+def actual_spend(run_dirs: list[Path]) -> dict[str, int]:
+    """Fees really paid on chain by each run's probes (sum of the fee of every probe that landed)."""
+    import csv
+
+    from .collect import block_fees
+    out = {}
+    for rd in run_dirs:
+        rd = Path(rd)
+        if not (rd / "probes.csv").exists() or not (rd / "blocks").exists():
+            out[rd.name] = 0
+            continue
+        fees = block_fees(rd / "blocks")
+        with open(rd / "probes.csv") as f:
+            out[rd.name] = sum(fees.get(r["signature"], 0) for r in csv.DictReader(f))
+    return out
+
+
+def reconcile(ledger_path: Path, actual: dict[str, int]) -> dict:
+    """Replace worst-case reservations by on-chain actuals for the given runs. Only ever LOWERS spend (a
+    reservation is an upper bound by construction), keeps the cap, and keeps an audit trail."""
+    led = Path(ledger_path)
+    st = json.loads(led.read_text())
+    before = dict(st["runs"])
+    for run, amt in actual.items():
+        if run in st["runs"]:
+            st["runs"][run] = min(st["runs"][run], amt)
+    st["spent_lamports"] = sum(st["runs"].values())
+    st.setdefault("reconciliations", []).append({"before": before, "after": dict(st["runs"]),
+                                                  "note": "worst-case reservations replaced by on-chain fees"})
+    tmp = led.with_suffix(".tmp")
+    tmp.write_text(json.dumps(st, indent=2, sort_keys=True))
+    os.replace(tmp, led)
+    return st

@@ -29,3 +29,30 @@
 - **2026-10-28 · The landing mapper called late/early probes `dropped`.** It only looked at the target
   window +/-1 slot, so the 8 probes that landed 5 slots late were reported as dropped. It now looks up where
   every unseen probe landed (`getSignatureStatuses`) and collects those slots too.
+- **2026-10-29 · The first full live study silently stopped landing after about a quarter of its batches
+  (run `20261029T084255Z`).** My payer funding assumed a rent-exempt minimum of 890 880 lamports; on this
+  network it is 650 240 (`getMinimumBalanceForRentExemption(0)`), so each payer had only ~290 000 lamports of
+  fee money (~57 transactions) for a schedule needing ~1 100 000. After that the RPC provider kept accepting
+  our sends but the leader rejected every transaction for lack of fee funds: 74 % of 1 704 probes never
+  reached the chain, uniformly across all validators, which is what exposed it as ours and not theirs.
+  Partial batches lost their highest-index probes (the payers that ran dry first), which would have biased the
+  ordering tests. Fix: deposits are now rent floor + each payer's worst-case fees for the whole schedule (unit
+  test), and the 166 affected batches were re-sent (run `20261029T123727Z`, 99 % of probes on chain). The
+  failed batches are kept as evidence and marked `exclusions.json`; they are excluded from delivery statistics
+  and from the analysis. Fees paid on chain for the whole project: 9 101 670 lamports (0.0091 SOL), plus ~0.0003 SOL of funding and sweep transaction fees.
+- **2026-10-29 · The deposit sweep failed twice.** A fee payer cannot be drained to zero by paying its own fee
+  (it must stay rent-exempt). Deposits were recovered by letting the main wallet pay the fee and the payer only
+  sign as source; the live run now sweeps this way and retries.
+- **2026-10-29 · The ledger over-counted spend.** It reserves the worst case per batch, so the 166 rejected
+  batches counted as spent although their fees were never paid (8.9M reserved vs 2.46M paid on chain). A human
+  reconciled it to on-chain fees (`itb reconcile`, interactive, audit trail kept, cap unchanged).
+- **2026-10-29 · The pre-registered H5 test was trivially satisfied.** Position vs send offset over all
+  probes gave +0.82..+0.99 on 7 of 8 validators because later sends land in later slots whatever the leader
+  does. Found only after seeing the data; changed to same-slot pairs and disclosed in `docs/DESIGN.md`
+  (Amendments). Result: the same-slot version still passes for 7 of 8, so it is a real effect.
+- **2026-10-29 · `rank_in_batch` was computed across all batches sharing a batch id.** `verify` caught it
+  (claimed ranks 8..15 against recomputed 0..7). The analysis was unaffected (it uses only relative order
+  inside a validator/run/batch and re-derived identically) but the committed column was wrong; fixed and
+  regenerated.
+- **2026-10-29 · Analysis crashed on real data** in a verdict path (modifier-only) that synthetic data never
+  reached; fixed with a test.

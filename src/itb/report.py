@@ -10,6 +10,7 @@ import json
 from collections import Counter, defaultdict
 from pathlib import Path
 
+from .collect import excluded_signatures
 from .config import ALPENGLOW_ACTIVATION
 
 EXPLORER = "https://solscan.io/tx/"
@@ -44,10 +45,15 @@ def build_report(data_dir: Path, report_dir: Path) -> str:
         if (data_dir / "analysis/noise.json").exists() else {}
 
     probes, lands, envs = [], {}, {}
+    excluded: set[str] = set()
+    excl_reason = ""
     for rd in runs:
         pr = _read(rd / "probes.csv")
         ld = {r["signature"]: r for r in _read(rd / "landings.csv")}
         envs[rd.name] = json.loads((rd / "env.json").read_text()) if (rd / "env.json").exists() else {}
+        ex, why = excluded_signatures(rd)
+        excluded |= ex
+        excl_reason = excl_reason or why
         for p in pr:
             probes.append({**p, "_run_dir": rd.name})
             lands[p["signature"]] = ld.get(p["signature"], {})
@@ -58,6 +64,8 @@ def build_report(data_dir: Path, report_dir: Path) -> str:
     by_val: dict[str, list[dict]] = defaultdict(list)
     for p in probes:
         by_val[p["leader"]].append(p)
+    # excluded probes (our own funding failure) stay in the evidence tables but not in delivery statistics
+    counted = {v: [p for p in ps if p["signature"] not in excluded] for v, ps in by_val.items()}
 
     L: list[str] = []
     dates = sorted({_run_date(r) for r in runs})
@@ -71,11 +79,12 @@ def build_report(data_dir: Path, report_dir: Path) -> str:
     L += ["## Summary", "", "| Validator | Client (at measurement) | Runs | Probes | Landed in window | Verdict | Confidence |",
           "|---|---|---|---|---|---|---|"]
     for v, ps in sorted(by_val.items()):
-        out = Counter(lands[p["signature"]].get("outcome", "dropped") for p in ps)
+        ps_c = counted[v]
+        out = Counter(lands[p["signature"]].get("outcome", "dropped") for p in ps_c)
         ver = verdicts.get(v, {})
         f = fam.get(v, ("?", "?"))
-        L.append(f"| `{v[:8]}…` | {f[0]} {f[1]} | {len({p['run_id'] for p in ps})} | {len(ps)} | "
-                 f"{out.get('landed', 0)} ({100 * out.get('landed', 0) // max(1, len(ps))}%) | "
+        L.append(f"| `{v[:8]}…` | {f[0]} {f[1]} | {len({p['run_id'] for p in ps_c})} | {len(ps_c)} | "
+                 f"{out.get('landed', 0)} ({100 * out.get('landed', 0) // max(1, len(ps_c))}%) | "
                  f"**{ver.get('verdict', 'not analysed')}** | {_fmt(ver.get('confidence'))} |")
     L.append("")
     if (report_dir / "figures/summary_effects.png").exists():
@@ -128,8 +137,9 @@ def build_report(data_dir: Path, report_dir: Path) -> str:
         for p in sorted(ps, key=lambda p: (p["_run_dir"], p["probe_id"])):
             l = lands[p["signature"]]
             sig = p["signature"]
+            oc = l.get("outcome", "dropped") + (" (excluded: our payer underfunding)" if sig in excluded else "")
             L.append(f"| `{p['probe_id']}` | [`{sig[:12]}…`]({EXPLORER}{sig}) | {l.get('slot') or ''} | "
-                     f"{l.get('tx_index_in_block') or ''} | {l.get('rank_in_batch') or ''} | {l.get('outcome', 'dropped')} |")
+                     f"{l.get('tx_index_in_block') or ''} | {l.get('rank_in_batch') or ''} | {oc} |")
         L += ["", "</details>", ""]
 
     # --- what went wrong
@@ -140,12 +150,14 @@ def build_report(data_dir: Path, report_dir: Path) -> str:
     auto = []
     for rd in pre:
         auto.append(f"- Run `{rd.name}` is dated before Alpenglow ({ALPENGLOW_ACTIVATION}) and is excluded.")
-    tot = Counter(lands[p["signature"]].get("outcome", "dropped") for p in probes)
+    if excluded:
+        auto.append(f"- {len(excluded)} probes are excluded from delivery statistics: {excl_reason}")
+    tot = Counter(lands[p["signature"]].get("outcome", "dropped") for p in probes if p["signature"] not in excluded)
     for k, why in (("dropped", "never landed in any collected block"),
                    ("landed_other_leader", "landed in another leader's slot (excluded from ordering tests)"),
                    ("landed_outside_window", "landed outside the 4-slot window (excluded)")):
         if tot.get(k):
-            auto.append(f"- {tot[k]} of {len(probes)} probes {why}.")
+            auto.append(f"- {tot[k]} of {sum(tot.values())} counted probes {why}.")
     failed = sum(1 for p in probes if lands[p["signature"]].get("status") == "failed")
     if failed:
         auto.append(f"- {failed} probes landed but failed on chain; check `err` in `landings.csv`.")

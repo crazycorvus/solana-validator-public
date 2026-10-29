@@ -9,3 +9,5 @@ secrets/
 id.json
 data/ledger/
 .pytest_cache/
+report/figures/
+docs/

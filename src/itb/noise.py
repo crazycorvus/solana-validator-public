@@ -10,7 +10,7 @@ import statistics
 from collections import defaultdict
 from pathlib import Path
 
-from .collect import _load
+from .collect import _load, excluded_signatures
 from .infer import Batch, _pooled, _stat_for, _types_for, shuffled, tau_b
 
 
@@ -20,8 +20,11 @@ def landing_stats(run_dirs: list[Path]) -> dict:
     for rd in run_dirs:
         with open(rd / "probes.csv") as f:
             probes = {r["signature"]: r for r in csv.DictReader(f)}
+        excl, _ = excluded_signatures(rd)
         with open(rd / "landings.csv") as f:
             for l in csv.DictReader(f):
+                if l["signature"] in excl:  # our own funding failure, not delivery behaviour
+                    continue
                 p = probes[l["signature"]]
                 key = f"{p['leader']}|{p['path']}"
                 out[key]["_all"][l["outcome"]] += 1

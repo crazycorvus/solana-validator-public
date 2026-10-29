@@ -8,7 +8,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
@@ -19,7 +19,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DRpbCBMxVnDK7maPM5tGv6MvB3v1sRMC86PZ8okm21hy",
@@ -30,7 +30,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "E1r4Psq84tHfQ6aPTvvDka4U3u8zPVD7gEUrH25RdxHL",
@@ -41,7 +41,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
@@ -52,7 +52,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CAo1dCGYrB6NhHh5xb1cGjUiu86iyCfMTENxgHumSve4",
@@ -63,7 +63,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "C8Bey3LKVJHVqN6xPTeW8WJfUgFQAeGNBpT4Rp99JP1k",
@@ -74,7 +74,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EvnRmnMrd69kFdbLMxWkTn1icZ7DCceRhvmb2SJXqDo4",
@@ -85,7 +85,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Awes4Tr6TX8JDzEhCZY2QVNimT6iD1zWHzf1vNyGvpLM",
@@ -96,7 +96,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
@@ -107,7 +107,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB",
@@ -118,7 +118,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5pPRHniefFjkiaArbGX3Y8NUysJmQ9tMZg3FrFGwHzSm",
@@ -129,7 +129,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5Cchr1XGEg7dbBXByV5NY2ad8jfxAM7HA3x8D56rq9Ux",
@@ -140,7 +140,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GnC339vkyXRm1jRX69dt9mapPPu2LbzXfSDoxc91qta6",
@@ -151,7 +151,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9rkJMARqK6VBkcxGfKBAwnA44gPAfGxPbPsfsggFNDSQ",
@@ -162,7 +162,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Fc6NNdS2j3EmrWbU6Uqt6wsKB5ef72NjaWfNxKYbULGD",
@@ -173,7 +173,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
@@ -184,7 +184,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EkvdKhULbMFqjKBKotAzGi3kwMvMpYNDKJXXQQmi6C1f",
@@ -195,7 +195,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FBKFWadXZJahGtFitAsBvbqh5968gLY7dMBBJUoUjeNi",
@@ -206,7 +206,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BtsmiEEvnSuUnKxqXj2PZRYpPJAc7C34mGz8gtJ1DAaH",
@@ -217,7 +217,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5ZqveVffQPiUbkjBg4KD9kib1MKHLqiFno4ke9jSq9qk",
@@ -228,7 +228,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Hz5aLvpKScNWoe9YZWxBLrQA3qzHJivBGtfciMekk8m5",
@@ -239,7 +239,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "A1vqhA2fS6K7CvHsJKX1ACcHJFEmyRg4KuR5pctHANy4",
@@ -250,7 +250,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "87CcUxpyR72ZyfaZirj86mqkbk5uuU2EfnwTegVMLJL5",
@@ -261,7 +261,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9UM8wQ8F5oMiRcP5YdqD6Lr4krpBWCD8LtgQYoisJd9i",
@@ -272,7 +272,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FNKgX9dYUhYQFRTM9bkeKoRpsyEtZGNMxbdQLDzfqB8a",
@@ -283,7 +283,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "shftkxnsXmqAkmLgz9Mn7bNB5Fr6mKgFc58kFHfVikj",
@@ -294,7 +294,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5EhGYUyQNrxgUbuYF4vbL2SZDT6RMfhq3yjeyevvULeC",
@@ -305,7 +305,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GzDfKKoZ6E8ReqKfH96k5bkmA6CEWtnUrQnZjSqW4ZzG",
@@ -316,7 +316,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6y7V8dL673XFzm9QyC5vvh3itWkp7wztahBd2yDqsyrK",
@@ -327,7 +327,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DrifTrN923QaouP89UxkQzFGbumKPCnfkNYQRwmZxatz",
@@ -338,7 +338,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GBQ2GvTzmjXMu97dr7WUnLKYTNim1aoZsYS53KYXAAAA",
@@ -349,7 +349,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GoeW4aFK4dGoekJySgUynWDxBZiQJqm8GDAF4H53tDK9",
@@ -360,7 +360,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3psxMyr7rQzywVp1MXKd1XFmFz33NjydzCoJx9t2sMQW",
@@ -371,7 +371,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GSTampk6BJRKSDkzhaMM49R7qRx98MTPYYWvKbp83XKc",
@@ -382,7 +382,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5ejbTALcBsKQ7Cj1iSuu2mY5jqbYHqh9gF5ERXLiYj1z",
@@ -393,7 +393,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GQzMeEMwAR44ugoNCifTb5NdRKos1GduDUPeNh6AgV46",
@@ -404,7 +404,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BSVckjdW2f8kcXPGcrPPtV9kUDBZ8w8PjrrGVnxgEdwq",
@@ -415,7 +415,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "76rcGHdPvgs8G1XrzCXUTWtwgT59AFDvpB4VbTS2TBBJ",
@@ -426,7 +426,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3SkE34PVeGck2ArEffFKjihrQgURsvnoTAhitsNXNzXd",
@@ -437,7 +437,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HpcB5Qg8Y9E73dUkot5e8HkgAJbExsYeUzniY4bCuKac",
@@ -448,7 +448,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DUND26mEDfFeaPsVof3YvbXDRvpuQX7HMUJrLgEWzYw4",
@@ -459,18 +459,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
- },
- {
-  "identity": "2GUnfxZavKoPfS9s3VSEjaWDzB3vNf5RojUhprCS1rSx",
-  "vote_pubkey": "BU3ZgGBXFJwNTrN6VUJ88k9SJ71SyWfBJTabYqRErm4F",
-  "stake": 2500000939665440,
-  "version": "4.3.2",
-  "client_family": "agave-bam",
-  "jito": true,
-  "software_client": "AgaveBam",
-  "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Aw5wEMXhbygFLR7jHtHpih8QvxVBGAMTqsQ2SjWPk1ex",
@@ -481,7 +470,18 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
+ },
+ {
+  "identity": "2GUnfxZavKoPfS9s3VSEjaWDzB3vNf5RojUhprCS1rSx",
+  "vote_pubkey": "BU3ZgGBXFJwNTrN6VUJ88k9SJ71SyWfBJTabYqRErm4F",
+  "stake": 2500000939665440,
+  "version": "4.3.2",
+  "client_family": "agave-bam",
+  "jito": true,
+  "software_client": "AgaveBam",
+  "source": "getClusterNodes+getVoteAccounts+validators.app",
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ana2y2YvQ3ZPMwm6qhnN3nJoUSiT3qx5Pvetkq9xcfY",
@@ -492,7 +492,7 @@
   "jito": true,
   "software_client": "Rakurai",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FbYX2uN573G5WsgiPdHU6fS5PNUyjdXfGfpZNkYUuT4k",
@@ -503,7 +503,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "22rU5yUmdVThrkoPieVNphqEyAtMQKmZxjwcD8v4bJDU",
@@ -514,7 +514,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6WgdYhhGE53WrZ7ywJA15hBVkw7CRbQ8yDBBTwmBtAHN",
@@ -525,7 +525,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HnfPZDrbJFooiP9vvgWrjx3baXVNAZCgisT58gyMCgML",
@@ -536,7 +536,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CQdLgwkmmHF8DE6t4sguXMTXWDxq3oLh3xfekDTmow12",
@@ -547,7 +547,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AEHqTB2RtJjegsR2ePjvoJSm6AA5pnYKWVbcsn6kqTBD",
@@ -558,7 +558,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AWcCdYG7Dy6GX45c6QMPbgGwgRZPKcBDT4bXGb3QrVRV",
@@ -569,7 +569,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2m1A2WM1vte7RWz5xTTw4i1SiXmngVtXhqFERaUjoAAb",
@@ -580,7 +580,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BUv44cVtsdvU9z2BfFGk6s5JZZWrmVnq5qCaii5ARyyB",
@@ -591,7 +591,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
@@ -602,7 +602,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FBbqKvwLfKGZrKrfSbPJz4ymQ7zMarhRyZtu1RBkSe89",
@@ -613,7 +613,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FzQqaDStQQHs52YKeCnDovwSqvyZBCgs2kJcmvoFZwaS",
@@ -624,7 +624,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7QQGNm3ptwinipDCyaCF7jY5katgmFUu1ieP2f7nwLpE",
@@ -635,7 +635,7 @@
   "jito": false,
   "software_client": "Agave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7qGNnXKW1e3DsqEaSxwxMdBTFsrK73XtWTmkGitRyMQc",
@@ -646,7 +646,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3JotfSFPaod4KVK7nj7ULvcq5PjUBdZNVGracNkJNhrt",
@@ -657,7 +657,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HbidP4hpQdwhkzrxder3x3VNPt6DQnE25gFG46napD2p",
@@ -668,7 +668,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8gDfqHXZ5ektqQQrLrCGtSzYRwkWQrm3ANnAvQCt2LoM",
@@ -679,7 +679,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HTeRsa3gm3CGrizMoCrtWj4uBZ1NKYcGqh8jfBu2u3Jo",
@@ -690,7 +690,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Df16xM2XWzTXEGYxFBXtwXRhCdE6hwBbxS162TyS4r65",
@@ -701,7 +701,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "pSo1KZXgG1EGHch6pPmscfYhv3buXyaj2dR8WkVnkfc",
@@ -712,7 +712,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CW9C7HBwAMgqNdXkNgFg9Ujr3edR2Ab9ymEuQnVacd1A",
@@ -723,7 +723,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ChorusmmK7i1AxXeiTtQgQZhQNiXYU84ULeaYF1EH15n",
@@ -734,7 +734,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CoG8d9Fp2TFJRkAmrPMiPsGhQWHzdTTVoegEp9svRgmJ",
@@ -745,7 +745,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EUcJwf7jXskRE6NZBtFPVH2EedNvNYko8LL2WT62XctB",
@@ -756,7 +756,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HSDTxfgrqY8ZK88Q5Fx2DdX7zxMDqXgxJKgErTBSLoQJ",
@@ -767,7 +767,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "jzDsimGW1g8esbD1Kr2oRvr9X573XS2zQd7AsYJ1to5",
@@ -778,7 +778,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9W3QTgBhkU4Bwg6cwnDJo6eGZ9BtZafSdu1Lo9JmWws7",
@@ -789,7 +789,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GYx8kpp7SsRwtQEEsGQjAxb4hFMMmT91kFJuDeky3YGQ",
@@ -800,7 +800,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AMukCLCr52XxsEjXoDxKKxjNg4FpnsReXNaQx8aR6DJF",
@@ -811,7 +811,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CMPSSdrTnRQBiBGTyFpdCc3VMNuLWYWaSkE8Zh5z6gbd",
@@ -822,7 +822,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CfgRXmp1LEYr97EaT2RyoL2cSvtWgJh52Bes89RxVSoW",
@@ -833,7 +833,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "A9mvukTd77EbRoBX4ydSCFQHdu5bsRFkNXTTRstA8FAC",
@@ -844,7 +844,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Ninja1spj6n9t5hVYgF3PdnYz2PLnkt7rvaw3firmjs",
@@ -855,7 +855,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "bitHUmbKSQDTGoyoiW3BeqaGWdyV5sS3nYt5SduUHfb",
@@ -866,7 +866,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7y5VhV4fkz6r4zUmH2UiwPjLwXzPL1PcV28or5NWkWRL",
@@ -877,7 +877,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6TkKqq15wXjqEjNg9zqTKADwuVATR9dW3rkNnsYme1ea",
@@ -888,7 +888,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "privaEdSEmnMPGPoQACUkcDGkFBbTArVvsEGd7C5wUM",
@@ -899,7 +899,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "G3a3iYZKNLbivothF3twqcaTCEvoPb9uJ2bFc9DNKkBQ",
@@ -910,7 +910,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6ptuwW4rg5A3wP9hNKxeymG3QhSagugPd3grnMTGJwWG",
@@ -921,7 +921,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6yFGGAgYpBxgYPuHW4rv7hJmhKrUiXKyHkpVGaYtKrwE",
@@ -932,7 +932,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EXckihF3qmguH5znjhfzLvHsbk2E3nEW2DqNh4MMnDMm",
@@ -943,7 +943,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5DYpYgKgHV5aswMXBLp3UfJnbbzzFnGiJPpcxVAm56bG",
@@ -954,7 +954,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HLnodbYkL5PFA8hjAZDkm5pGzV7eLTvcs671AW2L6St9",
@@ -965,7 +965,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DcTPJqPNrTLv3te1c9ctA9H194x6DsaPA4ChuSEv7KPZ",
@@ -976,7 +976,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5Us18hLZPXJTS4QVuGSsUw137Dyd2tgBaem24Xsf5nBS",
@@ -987,7 +987,7 @@
   "jito": false,
   "software_client": "Agave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6xWLi1TDSh65fWsSqE1zdvANTSuVDRMx4ghsGJwgunS8",
@@ -998,7 +998,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FWwwP9tNttSy9dJFxwf6ebXWfc6VJXqFNMTccrMiLFTH",
@@ -1009,7 +1009,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BkoS26vBuaXnSowACdChi4WKid8UwmuPNhEJWa8KsLHd",
@@ -1020,7 +1020,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HaLanfo94ezLc3JZ55qqxr7W3qbe1PprJyv2uEtriEqN",
@@ -1031,7 +1031,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "58KprHKFNHgH1Cvo4QwxWkDeJNaSQVteCoAAFUWjtESn",
@@ -1042,7 +1042,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ACvL73V4GNnxPVfZ7K89jCrYurLyzpEuE9qirjvh2Xmi",
@@ -1053,7 +1053,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CwyVpfmfSiMeCexi3JgUNvaiDfYN14cLDjzT99zcBuD2",
@@ -1064,7 +1064,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5essVpBYvocZkQnkrWsMDfRPwtp4BeihJRaweKLR4dRn",
@@ -1075,7 +1075,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AicQr2zCWBLiBwt2r6o7iTemmtyE7q5pTKyuuupbXEQA",
@@ -1086,7 +1086,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6aDs9tUm2gErcPn2c1TZnp5cu2bQV9BzyuwW4baWQYd4",
@@ -1097,7 +1097,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8tjFeSApQ85ThoQXT28acfF2KUfQr3TvTdirSkzNnYC7",
@@ -1108,7 +1108,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2DTXh3ruMU2SeWanqr4yeg5GR47V99Jq3wUdStQfda3V",
@@ -1119,7 +1119,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "C1ocKDYMCm2ooWptMMnpd5VEB2Nx4UMJgRuYofysyzcA",
@@ -1130,7 +1130,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8uJiHDJ1b7UDQ4KFsQGJXK9nUCkokdKRJymg1Wy9nxvM",
@@ -1141,7 +1141,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "PUmpKiNnSVAZ3w4KaFX6jKSjXUNHFShGkXbERo54xjb",
@@ -1152,7 +1152,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3ytgyJXpm3teGLwkHqp9h2qqYNpY4Z1QpWAeVpz79gpJ",
@@ -1163,7 +1163,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Ex1AxFCipXGfSxgvXPPT3nPQUARddCduHwKR6jHiXAaT",
@@ -1174,18 +1174,18 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Ha1iade1AH3B12K9SccfWoPdFtQKKQsj2ZyWwxcjqJJU",
   "vote_pubkey": "Ha1VoTEPWFQp1wZjbQhBNXJftuHvimu1ruzF3xKYRPDQ",
   "stake": 907643386923932,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "jito-agave",
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "G2TBEh2ahNGS9tGnuBNyDduNjyfUtGhMcssgRb8b6KfH",
@@ -1196,7 +1196,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AiDoLWFKzNxSXKeZ4zym2TEPkg6F4kQ3YBA8WhANVPEq",
@@ -1207,7 +1207,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "E3mDbFMr8yZcCAZx5wPUFCRmLX31u8Nnj4jPoPc54h3F",
@@ -1218,7 +1218,7 @@
   "jito": true,
   "software_client": "Rakurai",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HH5dA42XF1HxNk1TRpG6LuKfLViMYNdAz5iWrFM4hWFi",
@@ -1229,7 +1229,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BFmqBsaGjeYA7gHpReKmnVkRyhqiMmHoR9ttv1crWmzy",
@@ -1240,7 +1240,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6YY2VS44RP1sBosdEsvSaiw7gETDNx3tmg5mM5wHpTqM",
@@ -1251,7 +1251,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "siidBVew9gpXxjM1y5spQiAyx1dyFrg9m6YjoxrYWbi",
@@ -1262,7 +1262,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Gv9gguvrAkgQtB5g5a3Un7trcHCxLYsk8vSojLmQMsWV",
@@ -1273,7 +1273,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5RvfTSowms7BTYaBj8SxVjj7ELAAKdQadKsuNpmBAwCs",
@@ -1284,7 +1284,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3iSQtPgkZBqKVK1CNxcxZoKggAkWiDrE22cXeT38bKsE",
@@ -1295,7 +1295,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GEM1N1UE3C8BB8EaaEPrcFvT3iLMVrurknjW5AYjUReR",
@@ -1306,7 +1306,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GZ4U21pYmFkCk6ZNTHRzfVEZZXauyZLKDmuuuKGwvp5H",
@@ -1317,7 +1317,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ANC1u9sY36q3mi2MyVhtz71un8yLgTsFBUuyLcSPzKsk",
@@ -1328,7 +1328,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6XKqyUVUcpe3CNucjF6gk5zonJDqNGvob6kaTy4Ps1U",
@@ -1339,7 +1339,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7PdKhpKz7T39vZHFL1UfcYNDsLvay6hp4KPQq1aUckFf",
@@ -1350,7 +1350,7 @@
   "jito": true,
   "software_client": "Rakurai",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "vu1sGn2f1Xim6voHNLt4nLn38zNkYdLasU7hEr1TC2D",
@@ -1361,7 +1361,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8o8wWCYNwPRSCAasp8rYvWuo3Ku1R1i6SEo9j9B6fe5i",
@@ -1372,7 +1372,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HM19KBHDJy93DYEJv4iFayMmCbJ1QVAk2EDG6XDgmnJS",
@@ -1383,7 +1383,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4k6wgP5WPBKQpsFGtzuXNrjcTE2fKWLj17nDvFeG5zSF",
@@ -1394,7 +1394,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7EzbSahSfSjeRexHcNDLDpzHBAGBLjLKtjbmuoQnEtjE",
@@ -1405,7 +1405,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3cZSHGfNdaULpFAvGbWbxpVwzXB4gHdk8NFucPNR5pgA",
@@ -1416,7 +1416,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Frog1Fks1AVN8ywFH3HTFeYojq6LQqoEPzgQFx2Kz5Ch",
@@ -1427,7 +1427,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4SsMncJdtKiUcDtukkX15mqei7WiuQ9yvRtQrQW4reWC",
@@ -1438,7 +1438,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "XkCriyrNwS3G4rzAXtG5B1nnvb5Ka1JtCku93VqeKAr",
@@ -1449,7 +1449,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BeaCHioStqCEFDFxKwAEzyrUPYxqnBPhJ98gDKeEiTPb",
@@ -1460,7 +1460,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Va1idLRtYEtVFJFsvz8vtt1uCJgea4Q1zi2Rh3eraJh",
@@ -1471,7 +1471,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2Wf9V9rPeVRUTfmWdPedCJuWVr6MFfyLuigEq42DuMDc",
@@ -1482,7 +1482,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "STKEsvUSpD38eDxkAJN6cENMYfjVxieajVpmVVkgd1t",
@@ -1493,7 +1493,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "LeDbQ99QT342j9S5YdyXLrsq2Gu3T3dMGajExdAuE3V",
@@ -1504,7 +1504,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "bkpk9KVsDRfrArzzmkJ9mPEvbXfQxczzQYR3QMGiR8Z",
@@ -1515,7 +1515,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7CR3Jq4ny2tsr3DX3DvyjoU8TYs776MGkU6nLMWjAqCT",
@@ -1526,18 +1526,18 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "mineL1YNwcRnxN93B2sX6q22R11WfRqxnY4NBV8KfFY",
   "vote_pubkey": "6q1VNp8Vy2Go12vb8CwbjUqqj2SXr2JYftJRWs71sW23",
   "stake": 581854923212751,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "agave-bam",
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2mMGsb5uy1Q4Dvezr8HK2E8SJoChcb2X7b61tJPaVHHd",
@@ -1548,7 +1548,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EdFUcP2f6j9iBg5BqsgJn3WDr1JieiKCo41hZ5Zrsk6w",
@@ -1559,7 +1559,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GREEDkgav1ox1jYyd9Anv6exLqKV2vYnxMw5prGwmNKc",
@@ -1570,18 +1570,18 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ALp2GdA1eJV8vZHMHazCtTxNXe3BLUSco9LDASgjDs8R",
   "vote_pubkey": "4tuMshQNpAFpy1YtEHnSsE5EPN1mAT8FevWvn2UPJHNM",
   "stake": 547282149844386,
-  "version": "4.3.2",
-  "client_family": "harmonic-agave",
+  "version": "26.10.4",
+  "client_family": "firedancer",
   "jito": true,
-  "software_client": "HarmonicAgave",
+  "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2Df1aLCRYi3J1X24GXmASL4hjrZLHnvEF32KFWGJfR9E",
@@ -1592,7 +1592,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "G9vCpJUUSpEm4zPwzSNpDmZ8MGwLEbiSLV59EBzCGvzM",
@@ -1603,7 +1603,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FLwV8tm3pL8pZj6d927VASzPrgW51Gf4nRJuTewrfega",
@@ -1614,7 +1614,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EJsJx7Smt3jBheNF2ReTxq3HXh9Aczt6PHK12B5tkJk8",
@@ -1625,7 +1625,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2X5yarNUWGyyiJDtRoPATvJYeNecvWG7zCkBrY2J1to1",
@@ -1636,7 +1636,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4VRs6A9zBRXz6MLcmQGsBiSoWE2JjHrmw7LintC3T4Nv",
@@ -1647,7 +1647,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "RNXnAJV1DeBt6Lytjz4wYzvS3d6bhsfidS5Np4ovwZz",
@@ -1658,7 +1658,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "fishfishrD9BwrQQiAcG6YeYZVUYVJf3tb9QGQPMJqF",
@@ -1669,7 +1669,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Cogent51kHgGLHr7zpkpRjGYFXM57LgjHjDdqXd4ypdA",
@@ -1680,7 +1680,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3YVoK8UN62dyiPZnGBzBTkGdwsVmmK1MpRoLcxNRs9BE",
@@ -1691,7 +1691,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Cu9Ls6dsTL6cxFHZdStHwVSh1uy2ynXz8qPJMS5FRq86",
@@ -1702,7 +1702,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HW4zorvt6xDwhU36RqjcWNwU8YMj9tiqnAafBKW4cqV",
@@ -1713,7 +1713,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7tqeaFKsg2K9xKnQWe61w71AtCZVMQvG4hbFAiFAngYw",
@@ -1724,7 +1724,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "hy1oMaD3ViyJ8i6w1xjP79zAWBBaRd1zWdTW8zYXnwu",
@@ -1735,7 +1735,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HnrXmm65CyvmSyvwEMjmyHzYjAyhHiHEJ7s1pf6BxTYA",
@@ -1746,7 +1746,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4SNKY7GCp7ohY4AawND5Cc2D71sWMWN3Uifo854yvtks",
@@ -1757,7 +1757,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "32ke3uf1qL3xLqbwzU76T2sbG2XaJrGuSCNdUnien3zm",
@@ -1768,7 +1768,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "VQwCCSfW3o5NDx7n5FBr9SoYiLXVgetstHvaWBvv2YH",
@@ -1779,7 +1779,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "LA1NEzryoih6CQW3gwQqJQffK2mKgnXcjSQZSRpM3wc",
@@ -1790,7 +1790,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "RBFiUqjYuy4mupzZaU96ctXJBy23sRBRsL3KivDAsFM",
@@ -1801,7 +1801,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Bi9vzmxLRWRNMsVh4ECBnitNZapUmQu3W8FZdJtfSZ8f",
@@ -1812,7 +1812,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EUDis6LJeJzDHTEBgfHGQyjHp63XZkGkx4E69xunC2Ej",
@@ -1823,7 +1823,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3RXKQBRv7xKTQeNdLSPhCiD4QcUfxEQ12rtgUkMf5LnS",
@@ -1834,7 +1834,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9iFPQbP1jGkj67sXg6YLLGRUBVEDMcapdS6jmCZSnz8R",
@@ -1845,7 +1845,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "WUNoB9YQXmXXRcJsjY1G8PfVag5aAfnyGmFd6YwJVwp",
@@ -1856,7 +1856,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CVvaeDPR2o7P1eawG5c9TPFLzSXAewwPovPmREaEL4Cm",
@@ -1867,7 +1867,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DF1owXYZ1fk5vWyHJ8s1cJeAozgkqsi1JUVqvktqrpwd",
@@ -1878,18 +1878,18 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "23SUe5fzmLws1M58AnGnvnUBRUKJmzCpnFQwv4M4b9Er",
   "vote_pubkey": "4PsiLMyoUQ7QRn1FFiFCvej4hsUTFzfvJnyN4bj1tmSN",
   "stake": 381435714505494,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "agave-bam",
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "juigBT2qetpYpf1iwgjaiWTjryKkY3uUTVAnRFKkqY6",
@@ -1900,7 +1900,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Certusm1sa411sMpV9FPqU5dXAYhmmhygvxJ23S6hJ24",
@@ -1911,7 +1911,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4NwpynvugnHvyLzr5h9Y7mw44saGJXDNoBjm6wgMiYDr",
@@ -1922,7 +1922,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AurseT3W3tk1dATBWAXtWR6oubBgECqintfcvP74teU3",
@@ -1933,7 +1933,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7GkMBmtrTZz8QbjSe1sXvAUtz7Pp42SQxfT5ymmJD4We",
@@ -1944,7 +1944,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5d9Mdc2Zk8as8GL1AxQeXxv5htBBvC5bjfmsXC7UUWwG",
@@ -1955,7 +1955,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "A4hyMd3FyvUJSRafDUSwtLLaQcxRP4r1BRC9w2AJ1to2",
@@ -1966,7 +1966,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "74MzXStH8pLPZjbNxZKdtDGJehur2JgjZNeTPqSn37nE",
@@ -1977,7 +1977,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9WzPWqKSqbE5PT9hMsmCDFjzpurAXEYCE9qrpVWp28KR",
@@ -1988,7 +1988,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9xcXe4WRAfbVoVgQmFD5xgFHioL9dD7c74pQZ7PeczT",
@@ -1999,7 +1999,7 @@
   "jito": true,
   "software_client": "Raiku",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2Mob8FJkb8chZY5pTBMpKfLwgZAQHE5i9jAC5zbASitD",
@@ -2010,7 +2010,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BbCQMWnfxo4eKTTTmBKuKYkbCDNf3ZpxtvwyN71ivCi4",
@@ -2021,7 +2021,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Diman2GphWLwECE3swjrAEAJniezpYLxK1edUydiDZau",
@@ -2030,9 +2030,9 @@
   "version": "4.3.2",
   "client_family": "unverified",
   "jito": false,
-  "software_client": "Unknown(8069)",
+  "software_client": "Unknown(25371)",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "mds4GEuiSgQRqveGyktWpETBFCb4AS2wDnhqwLHcT6Z",
@@ -2043,7 +2043,7 @@
   "jito": false,
   "software_client": "Agave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FyrwfMaomErzqrFUXMjCJ7mA4u81DsiDdrzC3MJD6d4j",
@@ -2054,7 +2054,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "mint13XHZSSxtgHuTSM9qPDEJSbWktpmpM4CZxeLB8f",
@@ -2065,7 +2065,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HcZvwZ83PfjrQDiq3GLHxisTs17aGURs6bJ2LwtmL4qv",
@@ -2076,7 +2076,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "D1Vbgkrhp1TmLGhfUD1urRMx5Ntz9AqQpgdX8DR8QMC1",
@@ -2087,7 +2087,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5VrW7YNBccVnhnZVmooCePdLFcs2UjfxRT3hoY9mN8Ec",
@@ -2098,7 +2098,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4b1onMDEasBh4BuPekQWijx3BYR64hAE1z2jJyeZUkck",
@@ -2109,7 +2109,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "D2RV1q6FgePVVjrMa7AMzVbvvAeg5oS7TAV7qdNKSDsX",
@@ -2120,7 +2120,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5tfcGyf3NQFcufDigvbRt9kWoVN2KPEkBRUY3UaC3Zwm",
@@ -2131,7 +2131,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4XspXDcJy3DWZsVdaXrt8pE1xhcLpXDKkhj9XyjmWWNy",
@@ -2142,7 +2142,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "PuRposE4utktenW49N8DCtVzdVEwYrmsrroboEUram4",
@@ -2153,7 +2153,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "gUvo3g5LfH4Pd8qnG7T6MPEFa5bPr8LhDdxDahwYqis",
@@ -2164,7 +2164,7 @@
   "jito": true,
   "software_client": "Rakurai",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DidkDYa64DEMx97P4iahDwsWtgUTnLiEhHSMUbQGihi5",
@@ -2175,7 +2175,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "SSmBEooM7RkmyuXxuKgAhTvhQZ36Z3G2WsmLGJKoQLY",
@@ -2186,7 +2186,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8vk6QpG93JSaQCSgnycBsv5qmfQBk4qC9FjNA35E5JhU",
@@ -2197,7 +2197,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HT41udB8mLZZf7tev9tUoHYJ41TP8GWZ6zFMbjiviXk5",
@@ -2208,7 +2208,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AoB1wTR7RYHMS6dEDzQ7UvHPNkNoDXbMjBhPBG5Vbu8v",
@@ -2219,7 +2219,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "PRGNnb8DxVcP2WjSHfVRGgc8SkA5u6dbMwoTVV1BGKN",
@@ -2230,7 +2230,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "soLStaCk5TiGCpeLKa9Fvv6f5JQGMa6S3uhLh826e9N",
@@ -2241,7 +2241,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9AW87WqARQonyJYhx1G25fKfvjURFYVmHs79z1NUXDPD",
@@ -2252,7 +2252,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BEsnodYCgiGB6MjzxGJoVM6iNhyM3ndEfNuSd7fRHUTG",
@@ -2263,7 +2263,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7S22CYpfBRV1p8cTqWXFD4HwfqfNx3hAhfpdj8E2bYvJ",
@@ -2274,7 +2274,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AHZxzLeRGRfNVFrCmP58iJgEwbcXyZeAkZ32CmbfEmYR",
@@ -2285,7 +2285,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AfZTWYoFQbzqCMmUBTD7XwxFvjob1FVyCvkaXRryxtKc",
@@ -2296,7 +2296,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FACb6bbTDRBHCK999V8ox8jga5JBnt1r3vvzmAYAMv2o",
@@ -2307,7 +2307,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EfPYQ4BUMiKa6736qqrtnCBGkUSRDGSr1WvtyUgWHuyp",
@@ -2318,7 +2318,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Raydiumm3w3a4nGanDBLkUtKxMFooSPmeg9qwUKMsMc",
@@ -2329,7 +2329,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "adramSYKBv1yHoZTub4kepcmF5LybPxwyJcsz4fpfi7",
@@ -2340,7 +2340,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9gFxqsXbFyrKXUkqpAatonn47uYZ7sEZSnMxhzQoXrUJ",
@@ -2351,7 +2351,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "radM7PKUpZwJ9bYPAJ7V8FXHeUmH1zim6iaXUKkftP9",
@@ -2362,7 +2362,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "rsbp8zMHbGCpLoRktmsjspYv77VcjxAzH1KxPCD9BiU",
@@ -2373,7 +2373,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2oHUYyW2PU9VJh4XBs5TbGgzdernunvGqyKth3kxW4ns",
@@ -2384,7 +2384,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7RtC1QgiNVLANGRTEKxASz4bRiMYyf2hUVLs1XGuJ6Gr",
@@ -2395,7 +2395,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "qZMH9GWnnBkx7aM1h98iKSv2Lz5N78nwNSocAxDQrbP",
@@ -2406,7 +2406,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EQhTjikb1L2jvxsCaSW2o2TuRXh4Do6HzBEWCxpeM44W",
@@ -2417,7 +2417,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "grptonHnt7YSmJokGK9TJJTBXDT8ca4LSWMHCCfzzPa",
@@ -2428,7 +2428,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FNTPSUuRpDoJx1hwFmB5ncNLLMX42aE83P4hsFYUfNRL",
@@ -2439,7 +2439,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2mDrrmhSzpSyaF12izGk8hnFjtKCGeCFPwQHpRiJDby2",
@@ -2450,7 +2450,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Tri1F8B6YtjkBztGCwBNSLEZib1EAqMUEUM7dTT7ZG3",
@@ -2461,7 +2461,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "SLNDCSGTEsA6KHpgR32MBt9UAurZnVSJGUtW2tRpdU2",
@@ -2472,7 +2472,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BULKzVM41WAyQZfL34vxqdsYwEYH9mJAJyzRS4xraf8b",
@@ -2483,7 +2483,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DP9SwUE9Wi4NijWxgKDmmVsqGtQ597AKKmDBwzpt8GgZ",
@@ -2494,7 +2494,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3KiDz3wuZrJfsgKt5KEvRb1WPpbci1PWj78aPVF5ei3F",
@@ -2505,7 +2505,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "mD1afZhSisoXfJLT8nYwSFANqjr1KPoDUEpYTEfFX1e",
@@ -2516,7 +2516,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "UPSCQNqdbiaqrQou9X9y8mr43ZHzvoNpKC26Mo7GubF",
@@ -2527,7 +2527,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ALPHA6rdHZkx1om79xp47vX1iZXcbM3qfEwLyttZ1T7R",
@@ -2538,7 +2538,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "gridqZmeBcsUKT2Mv4M9YFHFN3tVLFb2TCtTcLD1cAd",
@@ -2549,7 +2549,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "43Am3PKFeo9cACpqYL5Sk95rpVdxLw3Mc22PqRqZXEW2",
@@ -2560,7 +2560,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "sbidYi7fbif6qNsMpwBKvyF5DKcLCbjaegpADsKqNux",
@@ -2571,7 +2571,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BoNKmNCGvoHS4CkKvYRnF21iEpUP827pZjhFGdA4t5as",
@@ -2582,7 +2582,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "G8kUFxhR7eSmSyAtVYEAyhvkBKdR49n7d8BKqpBo55kJ",
@@ -2593,7 +2593,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ABC1U4cf9DZMwqy8ktEr4WJj8VHmVBQibbC57gEJthwY",
@@ -2604,18 +2604,18 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "icex1C6pnZxznQWiHZZANjGU8nZ8kNquFnjyY7XXrXE",
   "vote_pubkey": "votem3UdGx5xWFbY9EFbyZ1X2pBuswfR5yd2oB3JAaj",
   "stake": 254502979921130,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "jito-agave",
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ETcW7iuVraMKLMJayNCCsr9bLvKrJPDczy1CMVMPmXTc",
@@ -2626,7 +2626,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9gMjDS6WPahWXBboJVoZA5DUVU4qTUdQY6acHbpQ38t6",
@@ -2637,7 +2637,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7VZM7YHcX73TpGoXDeBu61g4QKC86GwAEnew8dA7Y2xn",
@@ -2648,7 +2648,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "NordEHiwa6wT5TCjdeWJzpsA7DSmWQPqfSS7m2b6cv3",
@@ -2659,7 +2659,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2gDeeRa3mwPPtw1CMWPkEhRWo9v5izNBBfEXanr8uibX",
@@ -2670,7 +2670,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8NpDWRcKHkBjn8mbHMYgDm2Z2DRvXXuDiSScPsGSdSgr",
@@ -2681,7 +2681,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9GHvMeJ4ZWuAX6sDGscFL1TBMszx2EehnrcTVUy4MZJQ",
@@ -2692,7 +2692,7 @@
   "jito": false,
   "software_client": "Unknown",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3WDh9HgusCujDmXCVhophLrHvoKHQd1Sd4uFHz1Awo35",
@@ -2703,7 +2703,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "vALigXFg9wnnhVHN16vNxHxXtAXiBv5QjAE6udoniBY",
@@ -2714,7 +2714,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8BwBBt23a6v8HgNsFybpLFiBKLV8vWko2Vft3D2DxGvR",
@@ -2725,7 +2725,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "UNrgBLmc8JT6A3dxXY9DWeHvDezt2DZQbhg1KPQfqEL",
@@ -2736,7 +2736,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "simpRo1FrQYGa1moicfgnPDp6KyE38d4gYrZzhjXYJb",
@@ -2747,7 +2747,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "spcti6GQVvinbtHU9UAkbXhjTcBJaba1NVx4tmK4M5F",
@@ -2758,7 +2758,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Fudp7uPDYNYQRxoq1Q4JiwJnzyxhVz37bGqRki3PBzS",
@@ -2769,7 +2769,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AHNX2YiD8Sb36yLA7bjx1bNs4jqCdDt3KKrwMZJMVedb",
@@ -2780,7 +2780,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DViARWAWKkxAzp4UCgbw5B9pLSrBY3PaztFErcwgVUKX",
@@ -2791,7 +2791,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "61QB1Evn9E3noQtpJm4auFYyHSXS5FPgqKtPgwJJfEQk",
@@ -2802,7 +2802,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GiYSnFRrXrmkJMC54A1j3K4xT6ZMfx1NSThEe5X2WpDe",
@@ -2813,7 +2813,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "TREEir31FswHK7JZBS5oFQteS72dobi6inpmQha88dA",
@@ -2824,7 +2824,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4DraK9wUrMSpzbGjUbSWTHAhJimMyB49HyKhvfwe6e51",
@@ -2835,7 +2835,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "73hojLdq1vZDSxeVQEqVFJ4iwLngdvEJPEpEHkSdv6BZ",
@@ -2846,7 +2846,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "zeroT6PTAEjipvZuACTh1mbGCqTHgA6i1ped9DcuidX",
@@ -2857,7 +2857,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DnQBmTJyLbBMgJYQLJDqJz25AJModNkyexL5LdVRGnG4",
@@ -2868,7 +2868,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BTGPbq4KuFENn4CKuaKGqkaDd3TJD3TEgtMjSrsZnMLb",
@@ -2879,18 +2879,18 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8W8v28d1fBZE1fkaaHbowJM4hGZGnVHWNK1NyhUsob6Z",
   "vote_pubkey": "MkyLHecSHN7TBdWgnh2J8KCsEHnsqqbVYSxtGmsshrk",
   "stake": 219633931677372,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "agave-bam",
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "E99w1XfS4UNM1xUKXWEuDmj8Mduy7u65jm2NCULTspSV",
@@ -2901,7 +2901,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8pyp3vfVPRziYdAYEyqkwytdBbdVbQmHqfQAVDcRV3w",
@@ -2912,7 +2912,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ECZx4Dfyn2o55KTYbM9r3Dt4VZRcrdfdrst7sUbWgrdU",
@@ -2923,7 +2923,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ",
@@ -2934,7 +2934,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BeSovDCzhEAfgwDyXBuhmCFKsu5WQ3PaX61GEfteNzXM",
@@ -2945,7 +2945,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Pid6HQnMCFb9izqX9i7X6ePdUPieGmjHoPxC1Jfooix",
@@ -2956,7 +2956,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "mXv18ov8qCiQGs3ieoen981LdgZzYJjJak6reK6fpNC",
@@ -2967,7 +2967,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AsMpvJ3DZ2Ydu1WTRMAyMH4QjSLiUG39rKzfzvtE1bWr",
@@ -2978,7 +2978,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "PAWsME7oYbjt5TRNc11mBa33JhKnQr9AYherdr9YAZ6",
@@ -2989,7 +2989,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "dxa6QFqLcByyHykLCAW5tv1VYNVQFV3v6oovM2h8inH",
@@ -3000,7 +3000,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3s97yjq2MhoPVPC3U9VeE3Z5S643Pweovg88ysvrQPw5",
@@ -3011,7 +3011,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "idCE5k2BtTpwXdwAC7Var1enT9reut9fWECcxQP7LY7",
@@ -3022,7 +3022,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Ed9WjPnZfAXsPttcqxMwj94qsuXVRyBsyXnDkxFva2Zv",
@@ -3033,7 +3033,7 @@
   "jito": true,
   "software_client": "Rakurai",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "dcntruDNP5SEcGV4RxnsqXFURdDZGT3DTQv68Q8H7Vu",
@@ -3044,7 +3044,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HrpWeJSYnQVtZe3BKxFCBrAEr8GRCmYUbQev4hoGDBs6",
@@ -3055,7 +3055,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2Gfd4mkMqDVNFXxT6xvCSYUVdFPbuJLT6bhVsezdaRwe",
@@ -3066,7 +3066,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "11AMA4mnNbsrPQeuoNN7uiZVJZtqEzQHrTfa5vnbcjk",
@@ -3077,7 +3077,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "puffinQSvKFriPbyE5atyx1ptfnyytovbzxybr1jsyy",
@@ -3088,18 +3088,18 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5pZvwjSpGYCxpJeySwSbSAji7kZe4YntL7rQvXM3YcNT",
   "vote_pubkey": "4vqwZsEEEsKtSqqEWbLyFAciWg66jGLP9zrbcZ1Hsrxb",
   "stake": 206300664339917,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "agave-bam",
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GHQsq6bAdgooi998uKhwdzFubsJ7R3SuhTE9gJ83gctU",
@@ -3110,7 +3110,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "97jbhVBYcSmwGXjrx5PPWXucDsVBqwyoQ6rzP3B6eeMt",
@@ -3121,7 +3121,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6XJ4aKjsKQsTfhajjXNycZ11HhkXzTCheKdpWt78doFu",
@@ -3132,7 +3132,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "H9ENbtmy2tWFtAJNmpC8xQtbcr1NTp4FXLdphRaG8L2T",
@@ -3143,7 +3143,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "sTEAKPk59EtPPbixCweyv6oRLNCDEE8pnnef6gUfbiW",
@@ -3154,7 +3154,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5marvipGzf98hxnoJFXsZbGHSXcEQ3yRGJ4ps7D3V4ou",
@@ -3165,7 +3165,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "91oPXTs2oq8VvJpQ5TnvXakFGnnJSpEB6HFWDtSctwMt",
@@ -3176,7 +3176,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Stakex4B2tpDHPWGvV1dninfiaYCGdakgTknpzPitLh",
@@ -3187,7 +3187,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AwcMVMvmT1aCETVYV42WE1cSMCyNp4vZqVjLsvs6dM4o",
@@ -3198,7 +3198,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9pBHfuE19q7PRbupJf8CZAMwv6RHjasdyMN9U9du7Nx2",
@@ -3209,7 +3209,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2T9NfUEDBcFUGGX3GgguMboJaGTe9eZMGemptqXMnvzR",
@@ -3220,7 +3220,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4vcmYPfLztUckU3c3FvXDwSq8aDNDqwEpvEiqAv97LGJ",
@@ -3231,7 +3231,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Hj2jzpAp57KyM3SmnYwJbDVrQ8tTWizMon2hhzYzwxet",
@@ -3242,7 +3242,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ciTyjzN9iyobidMycjyqRRM7vXAHXkFzH3m8vEr6cQj",
@@ -3253,7 +3253,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "fdzip81euDS8jEZHx5H1mn27zGVMLzkgpQuzYRBfBYG",
@@ -3264,7 +3264,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4uH4G6YiD5G8rU3mtPg73C2Uqamrqedy3FboTZcZrh6x",
@@ -3275,7 +3275,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AmhQFcGvH2hjkucP78rn6GMKSbstYwyFpCDVKZUwBGrG",
@@ -3286,7 +3286,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "1ggyZGbYtEo1WrV1kmXfnvhPeSPxrYAXoDBeApnszLT",
@@ -3297,7 +3297,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "sTepQGoReJq2tBKStL19DT6nnGHcGiAvFjyYaokLyuM",
@@ -3308,7 +3308,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7Zm1pE4FubFYZDyAQ5Labh3A4cxDcvve1s3WCRgEAZ84",
@@ -3319,7 +3319,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "MARiKM3t7pDCyXtvLq24ErWDAvYu84yXqCthkR1GS33",
@@ -3330,7 +3330,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ReFiqMfGnc7tW8WQtFFcJRPZSDAWDBnAsdoFYF2QnfR",
@@ -3341,7 +3341,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "parafiUS6h6oLhCFwhjvEmQJKw8pF1iXsxMJdTq46dS",
@@ -3352,7 +3352,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5aD6KB8g4MPt3xJafmMmun86hHMDnoFiGbd5gYiMFZw7",
@@ -3363,7 +3363,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3B2mGaZoFwzAnWCoZ4EAKdps4FbYbDKQ48jo8u1XWynU",
@@ -3374,7 +3374,7 @@
   "jito": true,
   "software_client": "Rakurai",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "THWsLPufeq9LWs2H9vYPbtFwdxAHbQHvSbT6pztG8x1",
@@ -3385,7 +3385,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9FXD1NXrK6xFU8i4gLAgjj2iMEWTqJhSuQN8tQuDfm2e",
@@ -3396,18 +3396,18 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "MCFmmmXdzTKjBEoMggi8JGFJmd856uYSowuH2sCU5kx",
   "vote_pubkey": "2het6nBRLq9LLZER8fqUEk7j5pbLxq2mVGqSse2nS3tf",
   "stake": 190686195639260,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "agave-bam",
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "popscoyTKVksa4TyTXw488b3vvFxM7qQEyTBeMQopKu",
@@ -3418,7 +3418,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CLsFr1KZVbAyz16iFpwg2e4hiekR1unpwyxfNdjBMaoE",
@@ -3429,7 +3429,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2N7v8pDKDYhtBUJBQUgxvysUjgM9s4ULPCmeEiPWTf6Z",
@@ -3440,7 +3440,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Ey3DkEVbfBxfWmkTsG7Hqj7jshYf5Zx9H8462Zjjkykf",
@@ -3451,7 +3451,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9ppJrpsbbuGNjiMhhD52Ueco4KXUzVfrtNQ6tAcDab4f",
@@ -3462,7 +3462,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "JC7bH7HSZoDhwggBXtRF31cVt71WiizY2J6YDDQfG5er",
@@ -3473,18 +3473,18 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FCWkGAHDWK41ANjiaoPudkCZRkvTecaEkoZQugezUnpr",
   "vote_pubkey": "GptPXjYUBUjxpRmueH6F5JcqizvjPTRDShTJQ8Vp6uN1",
   "stake": 187810594005842,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "agave-bam",
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DDnAqxJVFo2GVTujibHt5cjevHMSE9bo8HJaydHoshdp",
@@ -3495,7 +3495,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6k1YkmTKwPRUhChnxA9ryJmbtuQMbro4xFTL6mL9jycB",
@@ -3506,7 +3506,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5zm9g3zgAPWzX3wmUB2JtTkcwCqe74NWsTmt5wLFwCKK",
@@ -3517,7 +3517,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ByszyWdqC3rVMWy8f6jwK5cmwkpwYdwsr7UL58xS5vnm",
@@ -3528,7 +3528,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DeXsDvvZzKhVux4YfDFE6p4acJLGzr8yKt5pSTjzZB8t",
@@ -3539,7 +3539,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EdGevanA2MZsDpxDXK6b36FH7RCcTuDZZRcc6MEyE9hy",
@@ -3550,7 +3550,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "1KXvrkPXwkGF6NK1zyzVuJqbXfpenPVPP6hoiK9bsK3",
@@ -3561,7 +3561,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8GLRbAstsabZuZUx73AoyfGi1FRCWSUhRgMugFyofEz7",
@@ -3572,7 +3572,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BitokuDHQiAhpUKrwx1VssAAoW5Rst8zB6gpfoaxM3Kh",
@@ -3583,7 +3583,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AmjX7CerZbHrU814UeBp2gJC7gANNG3KrP4c3RyD7TSD",
@@ -3594,7 +3594,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BNtHBLo1L2vAG7PBQ6mJvWz7GqVPxBnioXsY2Gjtubrg",
@@ -3605,7 +3605,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4VrjyXQT61WFSjuG3ehgqZUK1jqvYqB46veQbXLotq3n",
@@ -3616,7 +3616,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "MBVyz9s72WSfUmbr1S8fgHjDJQkPs1Q4Wxi6A2Mees9",
@@ -3627,7 +3627,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "SFundNVpuWk89g211WKUZGkuu4BsKSp7PbnmRsPZLos",
@@ -3638,7 +3638,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5AsoSeQtLoN8eLsf3wKrR3LwxHME4sTBGR6dpTCP1k3H",
@@ -3649,7 +3649,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GwHH8ciFhR8vejWCqmg8FWZUCNtubPY2esALvy5tBvji",
@@ -3660,7 +3660,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5zuNci3TV79w6zLoJZzbZujMvkVZb2FcSPhgv9aT24AK",
@@ -3671,7 +3671,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3tzpLMWRkWucvTRWU5PjgKzN1iwJuV69yCCjmuuo4gTk",
@@ -3682,7 +3682,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CVRr5oHCAAooVbYze7CvXtRp4FUtkMCSqBZU7MVu8v8e",
@@ -3693,7 +3693,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5XKJwdKB2Hs7pkEXzifAysjSk6q7Rt6k5KfHwmAMPtoQ",
@@ -3704,7 +3704,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "nymsGg7ZXcYBwGYKZL8qEHk9PQ8sAkKvnXgUNLPyGDV",
@@ -3715,7 +3715,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4Kbcyn7JVPAWLRLPsNGTPmcNMvCkLTw51ZLRhqsUC6jP",
@@ -3726,7 +3726,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "LimeA3gMLb2SjxrKbP7NsWk1UwTZrw4B6Ctc9dmVU6E",
@@ -3737,7 +3737,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8T8AJfUCXwPFwEMmjca8gCRSktPrqbUBVa6ggNyhLhFJ",
@@ -3748,7 +3748,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8AkVj5aAtJ27tYXeq89cnSf68V43NarFHMx2iSDjZv7c",
@@ -3759,7 +3759,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8hAYbagNt7CMBooFfqVJhBgLqLffpjXTWJMk8yybjJsN",
@@ -3770,7 +3770,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GWJyUxzcVwRRtpLuLiu1mpiUQsZ4onYFAYfCjQnuLmz5",
@@ -3781,7 +3781,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Lake8NXDThihebhxS3Js7mFnj9fthmus93zEdsFNrsL",
@@ -3792,7 +3792,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4QNekaDqrLmUENqkVhGCJrgHziPxkX9kridbKwunx9su",
@@ -3803,7 +3803,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Ee8dX3qtwrDRnxYK6NGQfmMeKT3Qpp2QZHpxiAiw23W9",
@@ -3814,7 +3814,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ChKZmewGBzbsxvoLNChDe9YDzzKJ3p1A6uLTECmR7g41",
@@ -3825,7 +3825,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "NdMV1C3XMCRqSBwBtNmoUNnKctYh95Ug4xb6FSTcAWr",
@@ -3836,7 +3836,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BPKAfGkkzF5u1QRjjB1nWYYbPMUCMPJe1xZPmwEMNMCT",
@@ -3847,7 +3847,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "novaeuhY2JH2WHhc9KVTHDx2cyJZdXJC6faf4CtARZn",
@@ -3858,7 +3858,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "74Xkp2iLXm315h69sFRiCFjmKnaWkMV8W2LgJwPRSgN5",
@@ -3869,7 +3869,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GmCxjmjKZoaKN1DKunbYq8RCYib94Nm3sHyncFfofaF5",
@@ -3880,7 +3880,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AbvfvRfKHDpytbQqE8Y4jQrt262akV3RnA1RqMxQxg1x",
@@ -3891,7 +3891,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "PKdLMugp1Mf88Ji1GkdqRDBewaUh2cqg79CBEo6eJoQ",
@@ -3902,7 +3902,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FjYEr2UCeFzNfAKiFrbhG34Zv8LxbmfHYAFhAfc7SLQL",
@@ -3913,7 +3913,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3V2xaccDpFib4DbTksdiveNDmiwpXBqSWyjSof3w1Bg7",
@@ -3924,7 +3924,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3CKKAoVi94EnfX8QcVxEmk8CAvZTc6nAYzXp1WkSUofX",
@@ -3935,7 +3935,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "capyS1jerxhFp1RehdWRG6kbWi8bnWF3fkEG2RGLsQf",
@@ -3946,7 +3946,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8Nvaxzif1NrdvxNkRetjT8xJvd33EHkKVrfL8EDkgaNy",
@@ -3957,7 +3957,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GFXVa19rX6iwfs3sLS5UvX9Exu2usRsG4V5MRMDRo23V",
@@ -3968,7 +3968,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE",
@@ -3979,7 +3979,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8LDyyeJQTjR2hNRpjEVYNT2WFMXDpiCs4r98EpWSTt8D",
@@ -3990,7 +3990,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "yJeahQNRHNWtL9Z1SqPX3SBwTYXr5ECMYYVK4uYVwxt",
@@ -4001,7 +4001,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "jagBNeXYncnn1hzwSq1JJ16XhWTgQ7DCFVqndSJZ6vT",
@@ -4012,7 +4012,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8yjHdsCgx3bp2zEwGiWSMgwpFaCSzfYAHT1vk7KJBqhN",
@@ -4023,7 +4023,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EydLxzdWfD434DDxZYXkTcajvK5VKH7p6CofEDCRUkJ4",
@@ -4034,7 +4034,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "anza1rXDVhy1NfVNtsbT3kSBh2jgB1BGZUKuUibSAJd",
@@ -4045,7 +4045,7 @@
   "jito": false,
   "software_client": "Agave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "LunaowJnt875WWoqDkhHhE93SNYHa6tfFNVn1rqc57c",
@@ -4056,7 +4056,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2X7WoaXX9KPqNrNfvguhnwo3rjFPNsfw2t75fGjWRthz",
@@ -4067,7 +4067,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5HYjArGt81naevDdwMaEx8yeGNw9jYBSDJa8YavT9Mp4",
@@ -4078,7 +4078,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Je6ckvDiPr7zKz49JVXFuhXRFLS3W57WnksbS2G8tbP",
@@ -4089,7 +4089,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2VKu11f8zc3huqDQUN6WJTFpX32PgHpXXjf72P6YvYMd",
@@ -4100,7 +4100,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AiBEt9kE8yZ4CnaLfTCGMp7Fg2wCtqhPTfvJ8D3zrLfu",
@@ -4111,7 +4111,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2XmhZKHmfjku3T3nC9xKhgr5bm1CAmWXqNsNt49mo82C",
@@ -4122,7 +4122,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "c3rtoMCHSbFrLRTAdw4iRowKSn4BrDtvSPbuyJwkHwx",
@@ -4133,7 +4133,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BVHwHvRNwt8eM1x7cmfrEdhrbZAdWiFe9FnEFGhGuUTR",
@@ -4144,7 +4144,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9XhmwxwWtoR6oD4xpSHutoTXku8hXyq76XoTKFZb7ct7",
@@ -4155,7 +4155,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HwN6eoEe9N3kwHi66hpQDBMFPk6ASQGthWKPX5MZmisp",
@@ -4166,7 +4166,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "vaoJKVZYPAsqc52T2nNQhABR1gU6Cy2koDKfCQaEiva",
@@ -4177,7 +4177,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GGX3BEoZDqjxcw4AbCdu62ZTMrkpSgmPt81oP2mVuZNS",
@@ -4188,7 +4188,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "PAD9aPiKJGcbGxuVLbc8o4Vf65GPq3fJQ7PkHWuX6a8",
@@ -4199,7 +4199,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "A23LfQn6khffj2hGhGfXr6P52W2pxrVcCaHVQLYQgiX2",
@@ -4210,7 +4210,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CTwsruptUccEtZGNxBDbuusHYxkBX3P6ndrxVjSG213y",
@@ -4221,7 +4221,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "MagiCBYNPD9iTBXqiFybAFCREQzG6MSM4LmFLXQZxuV",
@@ -4232,7 +4232,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BRAZAtTTzR2Es8c98hJvcngerTEyRGSdgkHU59n4A6GT",
@@ -4243,7 +4243,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "7nzTzRZzezmugqE5ZjHRMxarhXunpwZ2PUdjV7uYzt7A",
@@ -4254,7 +4254,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Ste1115xFGdAYK5jaWA3dEFcUc1S5jEbVvD8e327zty",
@@ -4265,7 +4265,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "SyndicAgdEphcy5xhAKZAomTYhcF8xhC7za2UD9xeug",
@@ -4276,7 +4276,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8ebFZA8NPLBZD91CwsG1HWQsa2B5Ludgdyf5Hi3sYhhs",
@@ -4287,7 +4287,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "99rG5AhkVagxJ7y8NpMAmy1h1u9GhT3h1Cimu2X3cwaJ",
@@ -4298,7 +4298,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BSGMRbK97DcgLe4u4kfNQnmTVZGVnwdtKQBJqWRBTZxU",
@@ -4309,7 +4309,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "gVALrRd3xq4D62KJNGDCpMMGz976w2x1Vo79mSNn4bh",
@@ -4320,7 +4320,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8uPW9msN75rfaKiwy8y8NxEX5zSk2WejtVv5YhZr3jCo",
@@ -4331,7 +4331,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GkFT5nmcFVmJiLwuE98PjdF3LReMeq4WbejFHfwrnsgw",
@@ -4342,18 +4342,18 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "bookoVmqw4QjVj5BbkFacouadx9M7816wyRkfM7A5Lo",
   "vote_pubkey": "bookLxG3LkSmt4htJ1x9zPw6E34RRMAi7sUn5mM3CNN",
   "stake": 142239008591374,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "agave-bam",
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HLXxkmjb47spcmbbKi3UCfZ2qmFY29t8MN562AEmh2Qh",
@@ -4364,7 +4364,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5MAGJ3zShtXMMVXjZRoFqtFF7XhP8iLSyZrxdL7KpjcB",
@@ -4375,7 +4375,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8augxYLUge2iWmitQMwbcBL5VQEpsM6aJdRofhwpnzyw",
@@ -4386,7 +4386,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6gnbmed7kzwQVQ7ghsjgEuCoYmGeWciV2qCwni6WS6HU",
@@ -4397,7 +4397,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "h3ZXAE168mNxsszYYrUfkMVSCWx6DU2Uvrx97Kb1Nch",
@@ -4408,7 +4408,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "gotasRuLTuJNZDtLHmaDJpEUjCWZqkHcuwbLhkgCwCX",
@@ -4419,7 +4419,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "fhsM2sxME8cHrrk3qvtMsRRDv5AoLFja7NjNnHeYZxe",
@@ -4430,7 +4430,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "RoYFUUD7QD9aQ34UCMcwfye8dC5YvJeXz2J3mmoy5S4",
@@ -4441,7 +4441,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3rqEEEGjHRyndHuduBcjkf17rX3hgmGACpYTQYeZ5Ltk",
@@ -4452,7 +4452,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6qwYjs5vCSEKaTMBbHinnW8fvdGj1r8cpzPoAV1EHKsw",
@@ -4463,7 +4463,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "SLAY6uN1zZpXBTfbuDDCesNmM5D288xrz8uYvfS3n41",
@@ -4474,7 +4474,7 @@
   "jito": true,
   "software_client": "Rakurai",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9dH6wfdJVgnDcbCUjT8rkmejAzTnGQaFarmLfvBYXANK",
@@ -4485,7 +4485,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2P9ZYA4vBoBBr56hrEFTmrd5ctuz3r7wtvRYmbgk6jRL",
@@ -4496,7 +4496,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HE2REn7YRhFEghuctv3y1dUEK9aWhw8QQSUpRiHd819r",
@@ -4507,7 +4507,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "revtecFsGSRCdF29atQvchSXrjwBesA9vSisD4fyH5K",
@@ -4518,7 +4518,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "YuRBAsy9Stw1u46A8dMp7WQVBFweLP1PKuYibzYAMmQ",
@@ -4529,7 +4529,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2Eq6YD8P8QXTeoz9h6JHjgZ55t8RSxNdx4waMDCoPmQU",
@@ -4540,18 +4540,18 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2t53LvZfskcpXkdwLaBnfZLbNgyVHPu2BNFpcRBaEBhM",
   "vote_pubkey": "Gvt8s5Bwnhg4G27VbnT1Zkfh7Jsztq6CNvZcc5anPonS",
   "stake": 131655360820673,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "agave-bam",
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "57i31UEyDg4koaZMZ1wAHbYuezXv3AVaHtvJgJarxt3f",
@@ -4562,7 +4562,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "avnujiRNoSRe9PcET42DPKznyfYnb2LRaZAsqv6REZo",
@@ -4573,7 +4573,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CjmXSapt1ouz3CZzgkRJckBEwMSo5fVdVrizLeRscwYD",
@@ -4584,7 +4584,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3KNGMiXwhy2CAWVNpLoUt25sNngFnX1mZpaiEeVccBA6",
@@ -4595,7 +4595,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "FGiEdzde7Fco2WLpNQMat299hUVoykJdaA5hxdmCzHiS",
@@ -4606,7 +4606,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GvfaiJUhNCRZGVGumsEF1eHDb8JpAeFAyHSrTifyhrbt",
@@ -4617,7 +4617,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5fSQdv4zsAJNx6RKpGho6sL6rY6a8nziaqcmwaRJB9NE",
@@ -4628,7 +4628,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HVXXmNKkmDZbZwj74iL2Y9Wu4SyrchBoxAfFYVAktLrG",
@@ -4639,7 +4639,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "E9hD3ikumJx1GVswDjnpCt6Uu4WG5mz1PDWCqdE5uhmo",
@@ -4650,7 +4650,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DefiihS7gLkj6xLjjhcr87bFuwpVVNYpeNBaBeFe56CY",
@@ -4661,7 +4661,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "NLMSHTjmSiRxGJPs3uaqtsFBC2dTGYwK41U18Nmw5kH",
@@ -4672,7 +4672,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5ysfTZ42VT1TjnjzQShZSrix7wdVtjXwssocSeYKDs5d",
@@ -4683,7 +4683,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "SWD1LwTcEtpCRL683CT4HYDaGgMyMZ9LpSa5Foarsq4",
@@ -4694,7 +4694,7 @@
   "jito": true,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Av8EnYrPBnSJHK5e2wmTdnCpSy7nzmBgyFaUKSyLnBfe",
@@ -4705,7 +4705,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6NDen7aDi65apHo8m1Vea4nuS6LyjQeM6pDNqcW4Q5Pg",
@@ -4716,7 +4716,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ppppoqHcHVzigV6SK4856BAsNxhTAi32hqQQWrziyHE",
@@ -4727,7 +4727,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9q16BB7WGmBxf1nJTdxH5zPnBUhtHqdqXqRFjSjuM4k7",
@@ -4738,7 +4738,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "SQDS9iwyWvT2mQbSZzuNKGoxuBug5jRHouF6SuMRBkA",
@@ -4749,7 +4749,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "nSGZ3tv2UhskkPqiB666yDVj7PTi9qKgDqvjHyw5JgM",
@@ -4760,7 +4760,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "38zm5bBgDaNRSQBDUAL72kMH3RsX4UKmZiNmmrjuTq8W",
@@ -4771,7 +4771,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "phz1CRbEsCtFCh2Ro5tjyu588VU1WPMwW9BJS9yFNn2",
@@ -4782,7 +4782,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "cybi55ebub37HZW9YmRaLh59Lh3kqaLTsEBQwW6vFkC",
@@ -4793,7 +4793,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CpNnGGhgVATJAbzHUXdrcGfpPiGuZyPka4QUmH7YgavX",
@@ -4804,7 +4804,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "HnwMGBAw5PxaX56eSYc969MorEy2NzEMPLkmBkdnJmeq",
@@ -4815,7 +4815,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EN5F2BU5juUEWr9zRNNqKuQMi9zBUY1YLPHV5EyMrvnW",
@@ -4826,7 +4826,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9hQqNe3DQTiwhspatewA8EXhz12e6sq5UJVJ2qNRwnTf",
@@ -4837,7 +4837,7 @@
   "jito": false,
   "software_client": "Agave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "9PRr9k87HjjdLMRkxtxygidjxVta9VQ1kAsqgLBWXKdQ",
@@ -4848,7 +4848,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "D4r6Rcua2L7nHHhdaiZe2k2bTfPg2WQqcNYpG6bugvCG",
@@ -4859,7 +4859,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "chrtyETASKQhsndRM9pr6qC3gAHG5MuRwCgXSNVqnJL",
@@ -4870,7 +4870,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EPFZFVrXuveEQar9LaEkt5kDRPMnbvK54qu5FwCxpkcy",
@@ -4881,7 +4881,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "RAuSNo4DRjo83uGhdgg4fPqYBVszi1KsrQGpqcPHK1D",
@@ -4892,7 +4892,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "93Q99nhdKjuSe6WNXgMBbC3s8QVQEAoHKt91PNRkUkMn",
@@ -4903,7 +4903,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EAW9vxqogvdPNapq7QTDpiVTHK6o7begUhPVnf854VTc",
@@ -4914,7 +4914,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CtvdyHYt8cMuGVHFarV2RADfoCdnrbd8e9jAsB225uMW",
@@ -4925,7 +4925,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "tapeQbu7YwpMuJNA2oSKBJkfBdic5QJ9bCZt27Q4PVf",
@@ -4936,7 +4936,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2AKKnirWVZMhnzuwqpizw9SwfZjGpRFLx2zCCNtPWpbc",
@@ -4947,7 +4947,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "omeg2wsojzB7tfyAxsFhp8npxHL8yxVnaf51poXCwSd",
@@ -4958,7 +4958,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "kyzzzgRymGpePUsLyr48kQHt53kh5CSfRH1qfvz1xgj",
@@ -4969,7 +4969,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "bay3wXfJsu9ds1zQBoQQ4DUwFGs3NP6q4gca9WM5G1z",
@@ -4980,7 +4980,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "dmMwc4RazLHkvDZYrWAfbHQ6cViAvNa5szCJKaiun8S",
@@ -4991,7 +4991,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "mastWEbKEMjvBCd1uaUBpNjWcfSPhXMWnH9tTrgzn1g",
@@ -5002,7 +5002,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "tkmaiSoZ3F8MofkQBVWG6JYSCzyN6ioe7ReYXohx3WJ",
@@ -5013,7 +5013,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6xUK9Nbonr4eoJNtHGoUEMmYKoPz5mipKzyDBv6deX4d",
@@ -5024,7 +5024,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "nebu15XQKGpxzhhckADBX9PgvGN5qk9RRJCFLKc118w",
@@ -5035,7 +5035,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "eyeYaqg9e2L6xw7YwsSLm27eWJfhLNAm6ETQm8TXNoK",
@@ -5046,7 +5046,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2UBhtRuyr9nvWsUnrbWrvJiYWEU8TVBD4PLYQJKiRa9H",
@@ -5057,7 +5057,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ArMBx6veRq33ffEP9sxHafiPRgrtzww4XvbwZbSMfXiM",
@@ -5068,7 +5068,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "CeJjdkRwfqYjrb7ZgKgqTurxx88H6kZyRadJwNJBcQwC",
@@ -5079,7 +5079,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "chopskqnudaeCTENWzUjfFCBSLcxprqbdMoCAucAwfb",
@@ -5090,7 +5090,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3Pfubj3ytkRxFAGwFb5vtacuZJUxko5Du39xie9MBXuC",
@@ -5101,7 +5101,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "bxrAptB5ZpZBhoLedJpoGWY5hBjjt3zvVBr2323Rrq6",
@@ -5112,7 +5112,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BuonuQoAR74GoMwCFhxKWVWWSGGt2wfbNmQ3cizaJ97G",
@@ -5123,7 +5123,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "mrgn2vUPsPynMcNh7cTbfrX8VAdgxEYwS7ZDHNYA9Ry",
@@ -5134,7 +5134,7 @@
   "jito": true,
   "software_client": "HarmonicFiredancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "huinBRP3muBuqZLMW8ARjdn4mBnEmFFcxiBzrkQz553",
@@ -5145,7 +5145,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DP9iBgK9c7tJYb83KhxQMFNc1LXYu7nE7EhWpEzQnjmg",
@@ -5156,7 +5156,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "MicoB9cA9R6jsicdhzWFjwd9HMkV8FA4o3WxYU6Z2yz",
@@ -5167,7 +5167,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "LiFiDJwJjW98MB8wxcnXpafKYsuz1hwpUkuszkERiX6",
@@ -5178,18 +5178,18 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4aRPyjsqqFsf5488a9QAaHJLQJMGwoL5P6wRtLmroe2d",
   "vote_pubkey": "8EVaZkBcoJAAyyRZfozNAnZiEopgPvnixx5Ja5PpVDae",
   "stake": 107438260484506,
-  "version": "4.3.2",
+  "version": "4.4.0-rc.1",
   "client_family": "jito-agave",
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "8nbE53mcKhy74HLiGZ1q5HRocwiCvgh49csSaHSdtukr",
@@ -5200,7 +5200,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "pebb1eQXvcuQfXkeyYjdoBVufKHwdKGL3G37GUts8Db",
@@ -5211,7 +5211,7 @@
   "jito": false,
   "software_client": "Firedancer",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "Lua1fxRRHCnjVAYdfGyv2GbUsRHGM2DN2wgpWuF2WSb",
@@ -5222,7 +5222,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "vahMVcSS3v6uwyFormV7FDAUbQSHwmy6vUedp1P7L42",
@@ -5233,7 +5233,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "GQiWnDYrzHMALWG9avt5FCu1wisAQHjGY5ve7GMBiPEe",
@@ -5244,7 +5244,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "rapXHroUoGG3KvZ3qwjvGMdA7siWXwXpiNC1bYarvSC",
@@ -5255,7 +5255,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "ExCHWgfeJyKRzpfryiQn4W6aYaWhbSAEnsoUnBGNqjWD",
@@ -5266,7 +5266,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "H4te9uzz1c74QeqfhyKeENoTvSseEPm4A3oFXBvqpF8Q",
@@ -5277,7 +5277,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "LodeuWMHPiPj2PUHUyca2bkpFv9HyzR3gaDBmGJ9TSS",
@@ -5288,7 +5288,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "svsD6T44XJnuXQWB15sy1pBxxruzrFy8rR7gXy8Jsj3",
@@ -5299,7 +5299,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "odcvDWH5wHVKz9XtmGGxTj5ZsmawTjCCty3nyBKDGzS",
@@ -5310,7 +5310,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "peNgUgnzs1jGogUPW8SThXMvzNpzKSNf3om78xVPAYx",
@@ -5321,7 +5321,7 @@
   "jito": true,
   "software_client": "FireBAM",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "SWiz7QwnYPm61pWWUUkMhj4r5pZLP1SvYibdHcB2cov",
@@ -5332,7 +5332,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2jS8AX38m8F9C5juToW1FmTufEbb1DfDzZJj9HSJcWwo",
@@ -5343,7 +5343,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "2zykwzzo1pd3H2oSj5j5SRLTvmpa9Nr2S2Bh8tTVd5Tq",
@@ -5354,7 +5354,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "mALL2W6DUgDDtcyurC9v5YTF2CMMeuRwPBkf6tEoG3y",
@@ -5365,7 +5365,7 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "3YX7PQuESmR2h95FDgjahEQjyCBhmY1Ts2MsrM1Kg9DS",
@@ -5376,7 +5376,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "EBk678aQvc3cUkfGyoehfw21JQfJXjmWuBeopYc89RSV",
@@ -5387,7 +5387,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "F6kVwubXEfZZo6e4Kozrtg7WoWk5wTRmrC8pwoxSLa7S",
@@ -5398,7 +5398,7 @@
   "jito": true,
   "software_client": "HarmonicAgave",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "AWZhUiQjrjtxL8MEMWsCFbMausFQKkdTnDsFW2i411hN",
@@ -5409,7 +5409,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "pitch9cMruwjDtAnisNS4mwZUPhMsBztNEGu2weMg55",
@@ -5420,7 +5420,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "hnhCMmnrmod4rcyc3QRKkLEC9XnPTvYJ2gBvjgFiV4o",
@@ -5431,7 +5431,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "DCKyEmMENQMtLXgbmUoHRmgP9XdJ9HsR5WxrKnSDCzKA",
@@ -5442,7 +5442,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "BJvrWSfonXnS2Km8iA9KLY6D6vS3GcsaUwUNPFBumTca",
@@ -5453,7 +5453,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "6xFDLX751L7H9d5fQT9sf2SM5RWWE9LDgqz25pPDbWoJ",
@@ -5464,7 +5464,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "D8xKNftHzFcCekENuTEcFC1eoL9y8wNHEg4Q5z57KK4e",
@@ -5475,7 +5475,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "4JahMMrVRS1gimWoXpD5H6KwKc2MrsoTDFMaStMttL1E",
@@ -5486,7 +5486,7 @@
   "jito": true,
   "software_client": "AgaveBam",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  },
  {
   "identity": "5FbKKGdEaFcxGxxaLKVvBes2JxiKbreh8w2ZpMcSQ2a5",
@@ -5497,6 +5497,6 @@
   "jito": true,
   "software_client": "JitoLabs",
   "source": "getClusterNodes+getVoteAccounts+validators.app",
-  "snapshot_ts": 1793263004
+  "snapshot_ts": 1793272913
  }
 ]
