@@ -50,6 +50,56 @@ python3 -m venv .venv && .venv/bin/pip install -e '.[dev]' && .venv/bin/pytest
 
 ## Going live (explicit, capped)
 
+### 1. Create a dedicated key file (live mode only)
+
+Dry-run, `collect`, `analyze`, `verify` and `report` need **no key**. Live sending needs one funded keypair,
+because the transactions have to pay fees. Use a **new wallet created only for this study** and never your main one.
+A keypair file is a JSON array of 64 numbers (the standard Solana format).
+
+```sh
+# Option A: Solana CLI (Agave installer: https://release.anza.xyz)
+mkdir -p ~/.config/itb && chmod 700 ~/.config/itb
+solana-keygen new --no-bip39-passphrase -o ~/.config/itb/key.json
+chmod 600 ~/.config/itb/key.json
+solana-keygen pubkey ~/.config/itb/key.json          # the public address to fund
+
+# Option B: no Solana CLI, only this project's environment
+mkdir -p ~/.config/itb && chmod 700 ~/.config/itb
+.venv/bin/python - <<'PY'
+import json, os
+from pathlib import Path
+from solders.keypair import Keypair
+k, p = Keypair(), Path.home() / ".config/itb/key.json"
+fd = os.open(p, os.O_WRONLY | os.O_CREAT | os.O_EXCL, 0o600)   # refuses to overwrite an existing key
+with os.fdopen(fd, "w") as f:
+    json.dump(list(bytes(k)), f)
+print("address to fund:", k.pubkey())
+PY
+```
+
+Rules for the file:
+
+* Keep it **outside the repository** (`.gitignore` and `scripts/secret_scan.sh` block common names, but the safest
+  place is somewhere git never looks). Never paste its contents into a chat, an issue or a log.
+* It has no passphrase, so anyone who can read your account can spend from it: fund it with what the study needs
+  and nothing more.
+* **Fund the address yourself from your normal wallet.** The wallet must hold the fee cap plus the rent floor of the
+  8 payer accounts (650 240 lamports each, returned at the end) plus a small margin, i.e. about
+  `cap + 5.25 million lamports`: **0.0153 SOL for a 0.01 SOL cap**. `itb approve` prints the exact figure. Check it
+  with `solana balance <address> --url mainnet-beta` or any explorer.
+* Unspent funds are swept back to this wallet at the end of a run. When the study is over, move the remainder to
+  your own wallet and delete the file (`rm ~/.config/itb/key.json`).
+
+Then point the tool at it, either as a path or inline (never commit either):
+
+```sh
+export SOLANA_KEYPAIR=$HOME/.config/itb/key.json     # or put the line in .env (gitignored)
+# Docker Compose: pass the path instead, it is mounted read-only
+export SOLANA_KEYPAIR_FILE=$HOME/.config/itb/key.json
+```
+
+### 2. Sign off and run
+
 ```sh
 export SOLANA_KEYPAIR=/path/to/key.json        # file path or JSON array; never committed, never logged
 itb approve --cap-sol 0.01 --by "Your Name"    # the human gate, interactive
